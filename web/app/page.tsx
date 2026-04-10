@@ -17,7 +17,7 @@ export default async function Home() {
   const theories = data.theories ?? [];
 
   return (
-    <main className="min-h-screen bg-[#0d0d0d] text-white">
+    <main className="min-h-screen bg-[#E9E5DC] text-[#1C1A17]">
       <Header data={data} />
 
       <div className="max-w-3xl mx-auto px-4 pb-16 space-y-4">
