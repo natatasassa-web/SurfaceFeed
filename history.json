@@ -1,0 +1,29 @@
+{
+  "runs": [
+    {
+      "date": "2026-04-10",
+      "theories": [
+        "Trump Admin Unmasking Reddit Critics",
+        "Anthropic AI Model Emergency Meeting",
+        "Iran Ceasefire Chaos and Insider Trading",
+        "Trump Pre-Pardoning Staff En Masse",
+        "Spain Leading EU Against Israel",
+        "Congressional Insider Trading Escalates",
+        "Melania-Epstein Connection Resurfaces",
+        "China Preparing Military Action",
+        "Anti-Data Center Movement Growing"
+      ],
+      "scores": {
+        "Trump Admin Unmasking Reddit Critics": 10,
+        "Anthropic AI Model Emergency Meeting": 9,
+        "Iran Ceasefire Chaos and Insider Trading": 9,
+        "Trump Pre-Pardoning Staff En Masse": 8,
+        "Spain Leading EU Against Israel": 9,
+        "Congressional Insider Trading Escalates": 7,
+        "Melania-Epstein Connection Resurfaces": 7,
+        "China Preparing Military Action": 6,
+        "Anti-Data Center Movement Growing": 5
+      }
+    }
+  ]
+}
