@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+web/node_modules/
+web/.next/
+web/.env.local
+
+# Data (keep latest.json and digests, but not raw fetch cache)
+latest_fetch.json
