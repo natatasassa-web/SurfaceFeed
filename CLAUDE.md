@@ -18,8 +18,10 @@ Always use: `/Users/hinatasa/.pyenv/versions/3.11.9/bin/python3`
 |---|---|
 | `fetch.py` | Pulls posts from all subreddits via Reddit hot/top JSON |
 | `analyze.py` | Claude analysis layer — clusters, scores, surfaces signal |
-| `history.json` | Rolling log of past runs for momentum tracking |
-| `output/` | Generated digests (markdown + web) |
+| `run.py` | One-command pipeline: fetch → analyze → git push → Vercel deploys |
+| `history.json` | Rolling 14-day log for momentum tracking (auto-created) |
+| `web/` | Next.js dashboard |
+| `web/public/data/latest.json` | Generated digest (read by dashboard) |
 | `CLAUDE.md` | This file |
 
 ---
@@ -47,7 +49,6 @@ Always use: `/Users/hinatasa/.pyenv/versions/3.11.9/bin/python3`
 ## Stack
 - Next.js + Vercel for the web dashboard
 - Python for fetch + Claude analysis
-- Obsidian Pulse notes as a secondary output (optional)
 - `history.json` for momentum tracking (compare today vs yesterday)
 
 ---
@@ -55,20 +56,43 @@ Always use: `/Users/hinatasa/.pyenv/versions/3.11.9/bin/python3`
 ## Run Commands
 
 ```bash
-# Full run: fetch + analyze + output
-/Users/hinatasa/.pyenv/versions/3.11.9/bin/python3 fetch.py
-/Users/hinatasa/.pyenv/versions/3.11.9/bin/python3 analyze.py
+# One command — fetch + analyze + push → Vercel auto-deploys dashboard
+python3 run.py
 
-# Manual trigger any time
-# Scheduled: daily
+# Local only (preview without pushing)
+python3 run.py --no-push
+
+# Top posts from last 24h instead of hot feed
+python3 run.py --sort top --time day
+
+# More posts per subreddit
+python3 run.py --count 20
 ```
+
+---
+
+## Setup (one-time, already done except where noted)
+
+1. **ANTHROPIC_API_KEY** — must be set in your shell before running:
+   ```bash
+   export ANTHROPIC_API_KEY=sk-ant-...
+   ```
+   Add to `~/.zshrc` to make permanent.
+
+2. **Connect GitHub → Vercel** for auto-deploy on push:
+   - Go to: https://vercel.com/natatasassa-webs-projects/web/settings/git
+   - Click "Connect Git Repository" → select `natatasassa-web/SurfaceFeed`
+   - After this, every `python3 run.py` automatically updates the live dashboard
+
+3. **GitHub repo**: https://github.com/natatasassa-web/SurfaceFeed
+4. **Live dashboard**: https://web-rose-pi-luye4osjq4.vercel.app
 
 ---
 
 ## What Claude Does (Analysis Layer)
 
 1. **Cluster** — group posts by theme across subreddits
-2. **Score** — upvotes + comment velocity + cross-community overlap
-3. **Flag momentum** — compare against history.json to detect emerging vs fading
-4. **Verdict per theory** — "emerging / holding / fading / isolated spike"
-5. **Output** — clean digest with top theories, evidence threads, momentum arrows
+2. **Score** — cross-community overlap (1-5) + engagement (1-5) = total out of 10
+3. **Track momentum** — compare against history.json: emerging / surging / holding / fading / isolated
+4. **Output** — clean digest with top theories, evidence threads, momentum arrows
+5. **History** — last 14 days stored in history.json for trend tracking
