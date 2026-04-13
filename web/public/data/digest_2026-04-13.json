@@ -1,18 +1,18 @@
 {
   "date": "2026-04-13",
-  "run_timestamp": "2026-04-13T18:00:00Z",
-  "total_posts_analyzed": 198,
+  "run_timestamp": "2026-04-13T23:45:00Z",
+  "total_posts_analyzed": 178,
   "subreddits_active": 15,
   "theories": [
     {
-      "title": "Strait of Hormuz Blockade Escalation",
-      "summary": "Trump has ordered a full US Navy blockade of the Strait of Hormuz after peace talks with Iran collapsed. This represents a dramatic escalation from the failed negotiations, with Iran threatening US soldiers will be 'shark food' and markets bracing for chaos Monday. The move contradicts the stated goal of reopening the strait.",
+      "title": "Strait of Hormuz Blockade Escalates",
+      "summary": "Trump has ordered the US Navy to blockade the Strait of Hormuz, blocking all ships from entering or leaving. This is being framed as blocking 20% of world oil supply, with discussions of supply shocks, food emergencies, and potential conflict with China who has rejected the blockade.",
       "subreddits": [
         "unusual_whales",
         "quiverquantitative",
         "wallstreetbets",
         "prepperintel",
-        "whitepeopletwitter",
+        "suppressed_news",
         "therewasanattempt",
         "sipstea"
       ],
@@ -20,315 +20,297 @@
       "engagement_score": 5,
       "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Multi-community explosion with 12k+ upvote memes on WSB and direct market implications - this is the dominant story across financial, prepper, and general communities.",
+      "why_signal": "Multiple communities tracking real-time military action with immediate economic implications, oil at $102+ with supply shock fears spreading.",
       "posts": [
         {
           "title": "strait of hormuz blockade satellite photo",
           "url": "https://www.reddit.com/r/wallstreetbets/comments/1sjf8vx/strait_of_hormuz_blockade_satellite_photo/",
           "subreddit": "wallstreetbets",
-          "score": 12339
+          "score": 35039
         },
         {
-          "title": "JUST IN - Trump orders the U.S. Navy to blockade the Strait of Hormuz",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1sjeu2n/just_in_trump_orders_the_us_navy_to_blockade_the/",
-          "subreddit": "unusual_whales",
-          "score": 193
+          "title": "They are blockading 20% of the worlds oil supply.... my thesis from 18 days is coming true",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1sjoek9/they_are_blockading_20_of_the_worlds_oil_supply/",
+          "subreddit": "wallstreetbets",
+          "score": 4446
         },
         {
-          "title": "Talks failed... Now the usa is blocking the straight??!!?!",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sjhyvs/talks_failed_now_the_usa_is_blocking_the_straight/",
+          "title": "A global food emergency: Why the closed Strait of Hormuz puts half the world's calories at risk",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sjoujj/a_global_food_emergency_why_the_closed_strait_of/",
           "subreddit": "prepperintel",
-          "score": 196
+          "score": 1468
         }
       ]
     },
     {
-      "title": "Hungary Election Could End Orb\u00e1n",
-      "summary": "Record morning turnout is being reported in Hungary's pivotal election, with massive opposition rallies preceding the vote. European observers are hopeful this could end 16 years of Orb\u00e1n rule, while Ukraine warns of Russian plots to stage unrest. JD Vance visited Budapest to support Orb\u00e1n, accusing the EU of interference.",
+      "title": "Orb\u00e1n Falls, Europe Celebrates",
+      "summary": "Viktor Orb\u00e1n has lost Hungary's election after 16 years to P\u00e9ter Magyar in what's being called a crushing defeat. EU leaders are jubilant, with Von der Leyen pushing to end EU veto powers, while reports emerge of Hungarian officials shredding EU documents.",
       "subreddits": [
         "europe",
+        "unusual_whales",
         "underreportednews",
-        "2westerneurope4u"
+        "outoftheloop",
+        "fauxmoi",
+        "therewasanattempt",
+        "2westerneurope4u",
+        "sipstea"
       ],
-      "cross_community_score": 3,
+      "cross_community_score": 5,
       "engagement_score": 5,
-      "total_score": 8,
+      "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Record turnout plus intense international attention suggests this could be a genuine political earthquake in Europe with US involvement angle.",
+      "why_signal": "Major geopolitical realignment in Europe with implications for Ukraine support, EU unity, and the global populist movement's momentum.",
       "posts": [
         {
-          "title": "Hungarian opposition holds last rally before tomorrow's election",
-          "url": "https://www.reddit.com/r/europe/comments/1sivb1o/hungarian_opposition_holds_last_rally_before/",
+          "title": "Orb\u00e1n's 16-year rule over Hungary ends in crushing election defeat",
+          "url": "https://www.reddit.com/r/europe/comments/1sjo5wb/orb\u00e1ns_16year_rule_over_hungary_ends_in_crushing/",
           "subreddit": "europe",
-          "score": 17888
+          "score": 64877
         },
         {
-          "title": "Hungarian election show record morning turnout as polls get under way",
-          "url": "https://www.reddit.com/r/europe/comments/1sjbalj/hungarian_election_show_record_morning_turnout_as/",
+          "title": "We won, sincerely a hungarian.",
+          "url": "https://www.reddit.com/r/europe/comments/1sk03s0/we_won_sincerely_a_hungarian/",
           "subreddit": "europe",
-          "score": 6962
+          "score": 17253
         },
         {
-          "title": "JD Vance accuses EU of 'interference' as he visits Hungary to help Orb\u00e1n win election",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sj057v/jd_vance_accuses_eu_of_interference_as_he_visits/",
-          "subreddit": "underreportednews",
-          "score": 280
+          "title": "Von der Leyen uses Orb\u00e1n defeat to push for end of veto in EU foreign policy",
+          "url": "https://www.reddit.com/r/europe/comments/1sk9h1r/von_der_leyen_uses_orb\u00e1n_defeat_to_push_for_end/",
+          "subreddit": "europe",
+          "score": 10355
         }
       ]
     },
     {
-      "title": "Trump Stock Pumps Continue Blatantly",
-      "summary": "Trump tweeted about Palantir including the stock ticker, prompting immediate market reaction. Congressional insider trading investigations are being called for, while a congressman just filed over $1M in Microsoft call options. The pattern of presidential market manipulation is becoming normalized.",
+      "title": "Trump vs Pope Leo XIV",
+      "summary": "Trump has attacked new Pope Leo XIV for condemning the Iran war, posting AI images of himself as Jesus Christ. The Pope responded saying he has 'no fear' of Trump, while Trump refused to apologize and called the Pope 'weak on crime.'",
       "subreddits": [
-        "wallstreetbets",
-        "quiverquantitative",
+        "fauxmoi",
+        "underreportednews",
+        "suppressed_news",
+        "whitepeopletwitter",
+        "therewasanattempt",
+        "sipstea",
+        "2westerneurope4u"
+      ],
+      "cross_community_score": 5,
+      "engagement_score": 5,
+      "total_score": 10,
+      "momentum": "emerging",
+      "why_signal": "Unprecedented public conflict between a US President and the Pope signals fracturing of traditional religious-political alliances and cultural war escalation.",
+      "posts": [
+        {
+          "title": "Pope Leo XIV responds to Trump's attack: I have no fear of the Trump administration",
+          "url": "https://www.reddit.com/r/Fauxmoi/comments/1sk73qx/pope_leo_xiv_responds_to_trumps_attack_i_have_no/",
+          "subreddit": "fauxmoi",
+          "score": 44861
+        },
+        {
+          "title": "Trump lashes out at Pope Leo XIV for condemning the war in Iran",
+          "url": "https://www.reddit.com/r/Fauxmoi/comments/1sjwg5r/trump_lashes_out_at_pope_leo_xiv_for_condemning/",
+          "subreddit": "fauxmoi",
+          "score": 31716
+        },
+        {
+          "title": "Trump posts AI-edited photo of himself as Christ",
+          "url": "https://www.reddit.com/r/SipsTea/comments/1sk0mzb/trump_posts_aiedited_photo_of_himself_as_christ/",
+          "subreddit": "sipstea",
+          "score": 12092
+        }
+      ]
+    },
+    {
+      "title": "China Preparing Military Response",
+      "summary": "China has rejected the US blockade on Iran, closed huge airspace near Shanghai for 40 days with 'no possible use other than military,' and US intelligence indicates China is preparing weapons shipments to Iran. Some warn China could be weeks from running out of fuel.",
+      "subreddits": [
+        "suppressed_news",
+        "prepperintel",
         "unusual_whales"
       ],
       "cross_community_score": 3,
       "engagement_score": 5,
       "total_score": 8,
-      "momentum": "holding",
-      "why_signal": "50k+ upvotes on the ticker screenshot post shows this brazen corruption is registering with retail investors as a tradeable signal rather than a scandal.",
-      "posts": [
-        {
-          "title": "Can't make this shit up he even included the stock ticker",
-          "url": "https://www.reddit.com/r/wallstreetbets/comments/1shodi9/cant_make_this_shit_up_he_even_included_the_stock/",
-          "subreddit": "wallstreetbets",
-          "score": 50554
-        },
-        {
-          "title": "JUST IN: President Trump just pumped Palantir stock",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1shpoto/just_in_president_trump_just_pumped_palantir_stock/",
-          "subreddit": "quiverquantitative",
-          "score": 524
-        },
-        {
-          "title": "Representative Josh Gottheimer just filed a purchase of up to $1,100,000 in Microsoft call options",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1sgw7fe/breaking_representative_josh_gottheimer_just/",
-          "subreddit": "quiverquantitative",
-          "score": 640
-        }
-      ]
-    },
-    {
-      "title": "Spain-Israel Confrontation Goes Mainstream",
-      "summary": "Netanyahu was greeted with middle fingers on live Spanish TV, while Spain's PM flew to China after Trump announced trade cutoffs for refusing to support Israel. Spanish late-night TV is openly mocking Netanyahu. This represents a dramatic Western ally break from US-Israel policy.",
-      "subreddits": [
-        "underreportednews",
-        "suppressed_news",
-        "therewasanattempt",
-        "2westerneurope4u"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 4,
-      "total_score": 8,
       "momentum": "surging",
-      "why_signal": "A NATO ally openly defying US-Israel policy and pivoting to China is a major geopolitical realignment being celebrated across European and news communities.",
-      "posts": [
-        {
-          "title": "Netanyahu greeted with middle finger during live broadcast in Spain",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sicm2o/netanyahu_greeted_with_middle_finger_during_live/",
-          "subreddit": "underreportednews",
-          "score": 12525
-        },
-        {
-          "title": "Spanish Prime Minister Pedro Sanchez arrives in China today",
-          "url": "https://www.reddit.com/r/suppressed_news/comments/1sj3vsh/spanish_prime_minister_pedro_sanchez_arrives_in/",
-          "subreddit": "suppressed_news",
-          "score": 1326
-        },
-        {
-          "title": "By Netanyahu to intimidate Spain (footage from popular Spanish late night TV show)",
-          "url": "https://www.reddit.com/r/therewasanattempt/comments/1sjhzu6/by_netanyahu_to_indimidate_spain_footage_from_a/",
-          "subreddit": "therewasanattempt",
-          "score": 326
-        }
-      ]
-    },
-    {
-      "title": "Trump Unmasking Reddit Critics Continues",
-      "summary": "A Reddit user who criticized ICE filed a motion to quash a DHS summons demanding their identity. The case involves a secret grand jury and is being tracked across legal and prepper communities as a test case for online speech. ICE has admitted to using Israeli spyware on American phones.",
-      "subreddits": [
-        "law",
-        "prepperintel"
-      ],
-      "cross_community_score": 2,
-      "engagement_score": 4,
-      "total_score": 6,
-      "momentum": "holding",
-      "why_signal": "Active legal filings and admitted surveillance tools make this a concrete test of free speech that could affect millions of anonymous users.",
-      "posts": [
-        {
-          "title": "An anonymous Reddit user, who criticized ICE online, filed a motion to quash",
-          "url": "https://www.reddit.com/r/law/comments/1sism9a/an_anonymous_reddit_user_who_criticized_ice/",
-          "subreddit": "law",
-          "score": 843
-        },
-        {
-          "title": "A Redditor Criticized ICE. Trump Is Trying to Unmask Them",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1shov18/a_redditor_criticized_ice_trump_is_trying_to/",
-          "subreddit": "prepperintel",
-          "score": 699
-        },
-        {
-          "title": "THE ACTING DIRECTOR OF ICE HAS ADMITTED ICE USES ISRAELI SPYWARE TO HACK AMERICAN PHONES",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sha8cl/the_acting_director_of_ice_todd_lyons_has/",
-          "subreddit": "prepperintel",
-          "score": 2658
-        }
-      ]
-    },
-    {
-      "title": "Canada Declares Economic Independence From US",
-      "summary": "PM Mark Carney received thunderous applause declaring Canada will stop sending 70 cents of every military dollar to the US. This represents a dramatic shift in the US-Canada relationship being celebrated as 'de-Americanization' across communities.",
-      "subreddits": [
-        "quiverquantitative",
-        "underreportednews",
-        "2westerneurope4u"
-      ],
-      "cross_community_score": 3,
-      "engagement_score": 4,
-      "total_score": 7,
-      "momentum": "emerging",
-      "why_signal": "A close US ally publicly breaking economic ties with crowd support signals broader Western realignment away from Trump's America.",
-      "posts": [
-        {
-          "title": "Carney: 'The days of our military sending 70 cents of every dollar to the United States are over.'",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1sivyp4/carney_the_days_of_our_military_sending_70_cents/",
-          "subreddit": "quiverquantitative",
-          "score": 1070
-        },
-        {
-          "title": "To thunderous applause, Canada's Prime Minister Mark Carney tells a crowd...",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1six826/to_thunderous_applause_canadas_prime_minister/",
-          "subreddit": "underreportednews",
-          "score": 9119
-        },
-        {
-          "title": "DeAmericanization started",
-          "url": "https://www.reddit.com/r/2westerneurope4u/comments/1sja0o0/deamericanization_started/",
-          "subreddit": "2westerneurope4u",
-          "score": 3247
-        }
-      ]
-    },
-    {
-      "title": "Iran War Crimes Allegations Mount",
-      "summary": "Legal experts are warning Trump could face war crime violations for Operation Epic Fury, with documented evidence including killing scientists, women and children, and attacks on schools within 40 days. Israel's use of white phosphorus on Lebanese civilians is also being documented.",
-      "subreddits": [
-        "law",
-        "suppressed_news",
-        "underreportednews"
-      ],
-      "cross_community_score": 3,
-      "engagement_score": 4,
-      "total_score": 7,
-      "momentum": "holding",
-      "why_signal": "Legal community engagement on war crimes plus 70+ UN countries condemning Lebanon attacks suggests potential international legal consequences building.",
-      "posts": [
-        {
-          "title": "Is Operation Epic Fury Illegal? Legal Experts Warn Donald Trump Could Face War Crime Violations",
-          "url": "https://www.reddit.com/r/law/comments/1sileo2/is_operation_epic_fury_illegal_legal_experts_warn/",
-          "subreddit": "law",
-          "score": 11258
-        },
-        {
-          "title": "Evidence of war crimes within just 40 days",
-          "url": "https://www.reddit.com/r/law/comments/1sir4ty/evidence_of_war_crimes_within_just_40_days/",
-          "subreddit": "law",
-          "score": 940
-        },
-        {
-          "title": "More than 70 Countries of the UN Security Council Condemn Attacks in Lebanon",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sinxu8/more_than_70_countries_of_the_un_security_council/",
-          "subreddit": "underreportednews",
-          "score": 4186
-        }
-      ]
-    },
-    {
-      "title": "Trump Erasing Presidential Records Act",
-      "summary": "The Trump administration is attempting to effectively nullify the Presidential Records Act, which legal observers call one of the most alarming underreported actions. This threatens historical accountability and document preservation requirements for all future presidents.",
-      "subreddits": [
-        "law",
-        "quiverquantitative"
-      ],
-      "cross_community_score": 2,
-      "engagement_score": 4,
-      "total_score": 6,
-      "momentum": "emerging",
-      "why_signal": "15k+ upvotes on r/law indicates serious legal community concern about permanent damage to presidential accountability mechanisms.",
-      "posts": [
-        {
-          "title": "Trump Tries to Erase the Presidential Records Act",
-          "url": "https://www.reddit.com/r/law/comments/1sj00tw/trump_tries_to_erase_the_presidential_records_act/",
-          "subreddit": "law",
-          "score": 15547
-        },
-        {
-          "title": "Trump Tries to Erase the Presidential Records Act",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1sj3dls/trump_tries_to_erase_the_presidential_records_act/",
-          "subreddit": "quiverquantitative",
-          "score": 232
-        }
-      ]
-    },
-    {
-      "title": "China Military Posturing Continues",
-      "summary": "China has closed a huge airspace zone off Shanghai for 40 days with no explanation, and US intelligence indicates China is preparing weapons shipments to Iran. This suggests potential Chinese intervention in the Iran conflict or Taiwan-related preparations.",
-      "subreddits": [
-        "prepperintel"
-      ],
-      "cross_community_score": 1,
-      "engagement_score": 4,
-      "total_score": 5,
-      "momentum": "holding",
-      "why_signal": "40-day airspace closure plus weapons shipments to Iran suggests China may be positioning for escalation as US focuses on Middle East.",
+      "why_signal": "Multiple intelligence indicators of Chinese military posturing combined with economic pressure from blockade creates potential flashpoint for wider conflict.",
       "posts": [
         {
           "title": "'No possible use other than military': China closes huge airspace zone off Shanghai for 40 days",
           "url": "https://www.reddit.com/r/PrepperIntel/comments/1shgh8i/no_possible_use_other_than_military_china_closes/",
           "subreddit": "prepperintel",
-          "score": 1604
+          "score": 1704
         },
         {
-          "title": "US intelligence indicates China preparing weapons shipment to Iran",
+          "title": "US intelligence indicates China preparing weapons shipment to Iran, CNN reports",
           "url": "https://www.reddit.com/r/PrepperIntel/comments/1si9wk8/us_intelligence_indicates_china_preparing_weapons/",
           "subreddit": "prepperintel",
-          "score": 1191
+          "score": 1254
+        },
+        {
+          "title": "China has rejected the US blockade on Iran",
+          "url": "https://www.reddit.com/r/suppressed_news/comments/1skg5pr/china_has_rejected_the_us_blockade_on_iran_and/",
+          "subreddit": "suppressed_news",
+          "score": 604
         }
       ]
     },
     {
-      "title": "Coachella Draft Awareness Moment",
-      "summary": "Julian Casablancas asked Coachella crowd if they're excited about having to register for the military draft in six months, bringing anti-war messaging to a mainstream festival audience. Multiple artists made political statements, suggesting cultural mood shift among youth.",
+      "title": "Trump Firing Judges, ICE Surveillance",
+      "summary": "Trump has fired judges who blocked deportations, ICE admitted to using Israeli spyware on American phones, and Minnesota is investigating an ICE arrest of a Hmong American as possible kidnapping. The administration is also trying to unmask Reddit critics through secret grand juries.",
       "subreddits": [
-        "fauxmoi",
+        "law",
+        "prepperintel",
+        "underreportednews"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 5,
+      "total_score": 8,
+      "momentum": "holding",
+      "why_signal": "Pattern of judicial independence erosion combined with domestic surveillance revelations suggests accelerating authoritarian consolidation.",
+      "posts": [
+        {
+          "title": "Trump Fires Judges Who Blocked Deportations of Student Activists",
+          "url": "https://www.reddit.com/r/law/comments/1skdqbj/trump_fires_judges_who_blocked_deportations_of/",
+          "subreddit": "law",
+          "score": 4930
+        },
+        {
+          "title": "THE ACTING DIRECTOR OF ICE HAS ADMITTED PUBLICLY THAT ICE USES ISRAELI SPYWARE TO HACK AMERICAN PHONES",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sha8cl/the_acting_director_of_ice_todd_lyons_has/",
+          "subreddit": "prepperintel",
+          "score": 2837
+        },
+        {
+          "title": "Minnesota investigates the arrest by ICE of a Hmong American man as a possible kidnapping",
+          "url": "https://www.reddit.com/r/law/comments/1skihq6/minnesota_investigates_the_arrest_by_ice_of_a/",
+          "subreddit": "law",
+          "score": 1935
+        }
+      ]
+    },
+    {
+      "title": "Canada Declares Defense Independence",
+      "summary": "Canadian PM Carney announced to thunderous applause that Canada will stop sending 70 cents of every military dollar to the United States. This follows broader Canadian economic independence moves and signals a major shift in North American defense relationships.",
+      "subreddits": [
+        "quiverquantitative",
         "outoftheloop"
       ],
       "cross_community_score": 2,
       "engagement_score": 4,
       "total_score": 6,
-      "momentum": "emerging",
-      "why_signal": "Celebrity platforms reaching apolitical audiences about draft implications suggests war is penetrating mainstream youth consciousness.",
+      "momentum": "holding",
+      "why_signal": "Allied nations publicly breaking from US defense arrangements represents unprecedented fracturing of post-WWII alliance structures.",
       "posts": [
         {
-          "title": "Julian Casablancas at Coachella: 'You guys excited about the draft?'",
-          "url": "https://www.reddit.com/r/Fauxmoi/comments/1sj6gbc/julian_casablancas_at_coachella_you_guys_excited/",
-          "subreddit": "fauxmoi",
-          "score": 10001
+          "title": "Carney: 'The days of our military sending 70 cents of every dollar to the United States are over.'",
+          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1sivyp4/carney_the_days_of_our_military_sending_70_cents/",
+          "subreddit": "quiverquantitative",
+          "score": 1213
         },
         {
-          "title": "What's the deal with Selective Service registration?",
-          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1shbld6/whats_the_deal_with_selective_service_registration/",
+          "title": "What's the deal with the most recent Canadian Floor Crossing, Marilyn Gladu?",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1sjkpy0/whats_the_deal_with_the_most_recent_canadian/",
           "subreddit": "outoftheloop",
-          "score": 223
+          "score": 39
+        }
+      ]
+    },
+    {
+      "title": "Sam Altman Targeted Twice",
+      "summary": "OpenAI's Sam Altman has been targeted with both a Molotov cocktail and gunshots at his home within days. This comes amid broader AI tensions including emergency meetings between Bessent, Powell, and bank CEOs over Anthropic's new model.",
+      "subreddits": [
+        "unusual_whales",
+        "therewasanattempt",
+        "prepperintel"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 3,
+      "total_score": 6,
+      "momentum": "emerging",
+      "why_signal": "Physical attacks on AI leaders combined with emergency financial meetings suggest AI development is creating real-world security and stability concerns.",
+      "posts": [
+        {
+          "title": "OpenAI Sam Altman's home has been shot at, a few days after a Molotov cocktail was thrown",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1sjyrcu/openai_sam_altmans_home_has_been_shot_at_a_few/",
+          "subreddit": "unusual_whales",
+          "score": 242
         },
         {
-          "title": "Mamdani: 'Tupac said it decades ago... we always seem to have money for war but not to feed the poor.'",
-          "url": "https://www.reddit.com/r/Fauxmoi/comments/1simb0r/mamdani_tupac_said_it_decades_ago_it_continues_to/",
-          "subreddit": "fauxmoi",
-          "score": 68844
+          "title": "to take out Sam Altman (x2)",
+          "url": "https://www.reddit.com/r/therewasanattempt/comments/1skkpdh/to_take_out_sam_altman_x2/",
+          "subreddit": "therewasanattempt",
+          "score": 543
+        },
+        {
+          "title": "Bessent, Powell Summon Bank CEOs to Urgent Meeting Over Anthropic's New AI Model",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1shklzt/bessent_powell_summon_bank_ceos_to_urgent_meeting/",
+          "subreddit": "prepperintel",
+          "score": 463
+        }
+      ]
+    },
+    {
+      "title": "Epstein Connections Resurface Everywhere",
+      "summary": "Multiple Epstein-related stories converging: Trump's lawsuit over Epstein birthday letter dismissed, Bondi's deposition approaching, questions about whether Trump's AI Jesus image shows him healing young Epstein, and ongoing scrutiny of Epstein's 'mafia-esque enforcer.'",
+      "subreddits": [
+        "law",
+        "underreportednews",
+        "whitepeopletwitter"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 3,
+      "total_score": 6,
+      "momentum": "holding",
+      "why_signal": "Legal proceedings and document releases keeping Epstein connections in public discourse despite administration efforts to suppress.",
+      "posts": [
+        {
+          "title": "As Bondi's Epstein deposition nears, others caught lying to Congress without consequence",
+          "url": "https://www.reddit.com/r/law/comments/1skaqm8/as_bondis_epstein_deposition_nears_others_caught/",
+          "subreddit": "law",
+          "score": 1489
+        },
+        {
+          "title": "Trump Blow as Judge Tosses Epstein Lawsuit Against Murdoch Paper",
+          "url": "https://www.reddit.com/r/law/comments/1skbvgh/trump_blow_as_judge_tosses_epstein_lawsuit/",
+          "subreddit": "law",
+          "score": 682
+        },
+        {
+          "title": "Blasphemy or Secret Message? Critics Claim Donald Trump's 'Jesus' AI Image Shows Him Healing a Young Jeffrey Epstein",
+          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sk90xr/blasphemy_or_secret_message_critics_claim_donald/",
+          "subreddit": "underreportednews",
+          "score": 561
+        }
+      ]
+    },
+    {
+      "title": "Apple Erasing Lebanese Geography",
+      "summary": "Apple has removed all Lebanese village names in Southern Lebanon from its Maps app, with Google also removing place names while keeping locations. This coincides with ongoing Israeli military operations and over 2,000 deaths in Lebanon.",
+      "subreddits": [
+        "suppressed_news"
+      ],
+      "cross_community_score": 1,
+      "engagement_score": 4,
+      "total_score": 5,
+      "momentum": "emerging",
+      "why_signal": "Tech companies quietly erasing geographic records of conflict zones suggests coordination with military operations and digital documentation suppression.",
+      "posts": [
+        {
+          "title": "Apple has removed all Lebanese village names in Southern Lebanon",
+          "url": "https://www.reddit.com/r/suppressed_news/comments/1sjprsv/apple_has_removed_all_lebanese_village_names_in/",
+          "subreddit": "suppressed_news",
+          "score": 2362
+        },
+        {
+          "title": "Follow up to post yesterday on Apple removing Southern Lebanon from Maps",
+          "url": "https://www.reddit.com/r/suppressed_news/comments/1skej1a/follow_up_to_post_yesterday_on_apple_removing/",
+          "subreddit": "suppressed_news",
+          "score": 69
+        },
+        {
+          "title": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8",
+          "url": "https://www.reddit.com/r/suppressed_news/comments/1skaf7j/in_a_matter_of_minutes_israel_killed_more_than/",
+          "subreddit": "suppressed_news",
+          "score": 121
         }
       ]
     }
