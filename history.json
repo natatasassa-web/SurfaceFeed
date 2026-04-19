@@ -259,6 +259,31 @@
         "AI Danger Concerns Go Mainstream": 6,
         "Voting Machine Oversight Blocked": 6
       }
+    },
+    {
+      "date": "2026-04-19",
+      "theories": [
+        "Congressional Insider Trading Scandal Explodes",
+        "FBI Director Patel Crisis Deepens",
+        "Iran-US Conflict Escalating Rapidly",
+        "Hungary's Post-Orb\u00e1n Transformation Accelerating",
+        "Europe Fuel Crisis Imminent",
+        "Israeli Soldier Jesus Statue Destruction",
+        "Trump Psychedelics Executive Order",
+        "Mass Shootings Media Blackout Pattern",
+        "Epstein Files Implicate Fed Nominee"
+      ],
+      "scores": {
+        "Congressional Insider Trading Scandal Explodes": 9,
+        "FBI Director Patel Crisis Deepens": 10,
+        "Iran-US Conflict Escalating Rapidly": 10,
+        "Hungary's Post-Orb\u00e1n Transformation Accelerating": 7,
+        "Europe Fuel Crisis Imminent": 6,
+        "Israeli Soldier Jesus Statue Destruction": 7,
+        "Trump Psychedelics Executive Order": 6,
+        "Mass Shootings Media Blackout Pattern": 7,
+        "Epstein Files Implicate Fed Nominee": 4
+      }
     }
   ]
 }
