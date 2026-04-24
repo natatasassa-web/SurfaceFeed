@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-10",
-      "theories": [
-        "Trump Admin Unmasking Reddit Critics",
-        "Anthropic AI Model Emergency Meeting",
-        "Iran Ceasefire Chaos and Insider Trading",
-        "Trump Pre-Pardoning Staff En Masse",
-        "Spain Leading EU Against Israel",
-        "Congressional Insider Trading Escalates",
-        "Melania-Epstein Connection Resurfaces",
-        "China Preparing Military Action",
-        "Anti-Data Center Movement Growing"
-      ],
-      "scores": {
-        "Trump Admin Unmasking Reddit Critics": 10,
-        "Anthropic AI Model Emergency Meeting": 9,
-        "Iran Ceasefire Chaos and Insider Trading": 9,
-        "Trump Pre-Pardoning Staff En Masse": 8,
-        "Spain Leading EU Against Israel": 9,
-        "Congressional Insider Trading Escalates": 7,
-        "Melania-Epstein Connection Resurfaces": 7,
-        "China Preparing Military Action": 6,
-        "Anti-Data Center Movement Growing": 5
-      }
-    },
-    {
       "date": "2026-04-11",
       "theories": [
         "Trump Mass Pre-Pardons Staff Confirmed",
@@ -358,6 +333,31 @@
         "Musk SpaceX-Tesla Self-Dealing Exposed": 8,
         "Trump Library Settlement Funds Missing": 8,
         "EU-NATO Pivot Away From US": 8
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "theories": [
+        "SPLC Indictment Confirms Fascist DOJ Alignment",
+        "Trump Family Pentagon Contract Corruption",
+        "Iran Ceasefire Collapse Imminent",
+        "Polymarket Insider Trading Scandal Expands",
+        "US Food System Crisis Accelerating",
+        "EU-NATO Fracturing Over US Actions",
+        "Warsh-Epstein Financial Ties Scrutinized",
+        "Musk SpaceX-Tesla Self-Dealing Confirmed",
+        "Citizens United Challenge Gains Traction"
+      ],
+      "scores": {
+        "SPLC Indictment Confirms Fascist DOJ Alignment": 10,
+        "Trump Family Pentagon Contract Corruption": 9,
+        "Iran Ceasefire Collapse Imminent": 9,
+        "Polymarket Insider Trading Scandal Expands": 8,
+        "US Food System Crisis Accelerating": 8,
+        "EU-NATO Fracturing Over US Actions": 8,
+        "Warsh-Epstein Financial Ties Scrutinized": 7,
+        "Musk SpaceX-Tesla Self-Dealing Confirmed": 5,
+        "Citizens United Challenge Gains Traction": 6
       }
     }
   ]
