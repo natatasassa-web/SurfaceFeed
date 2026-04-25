@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-11",
-      "theories": [
-        "Trump Mass Pre-Pardons Staff Confirmed",
-        "Trump Admin Unmasking Reddit Critics",
-        "Iran War Insider Trading Scandal",
-        "Trump Stock Pumps Getting Blatant",
-        "Spain-Israel Confrontation Escalating Rapidly",
-        "China Military Posturing Intensifies",
-        "Melania-Epstein Connection Resurfaces",
-        "Anthropic AI Emergency Meeting Real",
-        "Anti-Data Center Movement Wins",
-        "Right-Wing Commentators Breaking From Trump"
-      ],
-      "scores": {
-        "Trump Mass Pre-Pardons Staff Confirmed": 9,
-        "Trump Admin Unmasking Reddit Critics": 9,
-        "Iran War Insider Trading Scandal": 9,
-        "Trump Stock Pumps Getting Blatant": 8,
-        "Spain-Israel Confrontation Escalating Rapidly": 7,
-        "China Military Posturing Intensifies": 6,
-        "Melania-Epstein Connection Resurfaces": 6,
-        "Anthropic AI Emergency Meeting Real": 5,
-        "Anti-Data Center Movement Wins": 4,
-        "Right-Wing Commentators Breaking From Trump": 6
-      }
-    },
-    {
       "date": "2026-04-12",
       "theories": [
         "Trump Unmasking Reddit Critics Escalates",
@@ -358,6 +331,33 @@
         "Warsh-Epstein Financial Ties Scrutinized": 7,
         "Musk SpaceX-Tesla Self-Dealing Confirmed": 5,
         "Citizens United Challenge Gains Traction": 6
+      }
+    },
+    {
+      "date": "2025-04-25",
+      "theories": [
+        "Trump Family Corruption Goes Mainstream",
+        "Citizens United Challenge Gains Real Traction",
+        "EU-US Alliance Actively Fracturing",
+        "Polymarket Insider Trading Scandal Deepens",
+        "US Food/Agriculture Crisis Accelerating",
+        "Palantir Emerges As Surveillance Villain",
+        "DOJ Weaponization Continues Expanding",
+        "Iran Ceasefire Collapse Still Imminent",
+        "Scientists Dying/Disappearing Investigation",
+        "Democrats Planning Day-One Impeachment"
+      ],
+      "scores": {
+        "Trump Family Corruption Goes Mainstream": 10,
+        "Citizens United Challenge Gains Real Traction": 7,
+        "EU-US Alliance Actively Fracturing": 9,
+        "Polymarket Insider Trading Scandal Deepens": 8,
+        "US Food/Agriculture Crisis Accelerating": 7,
+        "Palantir Emerges As Surveillance Villain": 8,
+        "DOJ Weaponization Continues Expanding": 8,
+        "Iran Ceasefire Collapse Still Imminent": 7,
+        "Scientists Dying/Disappearing Investigation": 5,
+        "Democrats Planning Day-One Impeachment": 7
       }
     }
   ]
