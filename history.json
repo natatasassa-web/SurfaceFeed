@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-12",
-      "theories": [
-        "Trump Unmasking Reddit Critics Escalates",
-        "Trump Mass Pre-Pardons Staff Confirmed",
-        "Trump Stock Pumps Now Blatant",
-        "Spain-Israel Confrontation Intensifying Fast",
-        "Iran War Insider Trading Continues",
-        "China Military Posturing Escalates",
-        "Melania-Epstein Connection Resurfaces",
-        "Right-Wing Commentators Breaking From Trump",
-        "Anthropic AI Emergency Meeting Real",
-        "Hungary Election Could End Orb\u00e1n"
-      ],
-      "scores": {
-        "Trump Unmasking Reddit Critics Escalates": 9,
-        "Trump Mass Pre-Pardons Staff Confirmed": 8,
-        "Trump Stock Pumps Now Blatant": 9,
-        "Spain-Israel Confrontation Intensifying Fast": 9,
-        "Iran War Insider Trading Continues": 8,
-        "China Military Posturing Escalates": 6,
-        "Melania-Epstein Connection Resurfaces": 7,
-        "Right-Wing Commentators Breaking From Trump": 7,
-        "Anthropic AI Emergency Meeting Real": 6,
-        "Hungary Election Could End Orb\u00e1n": 6
-      }
-    },
-    {
       "date": "2026-04-13",
       "theories": [
         "Strait of Hormuz Blockade Escalation",
@@ -358,6 +331,31 @@
         "Iran Ceasefire Collapse Still Imminent": 7,
         "Scientists Dying/Disappearing Investigation": 5,
         "Democrats Planning Day-One Impeachment": 7
+      }
+    },
+    {
+      "date": "2025-04-26",
+      "theories": [
+        "WHCD Shooting False Flag Theories Explode",
+        "Trump Family Corruption Goes Mainstream",
+        "US Food Crisis Signals Intensify",
+        "Mandatory Vehicle Surveillance By 2027",
+        "Israel Solar Panel Destruction Pattern",
+        "Palantir Surveillance Scandal Spreads UK",
+        "Orb\u00e1n Oligarchs Fleeing Hungary",
+        "Scientists Dying Investigation Grows",
+        "Navy Food Crisis Signals Dysfunction"
+      ],
+      "scores": {
+        "WHCD Shooting False Flag Theories Explode": 10,
+        "Trump Family Corruption Goes Mainstream": 7,
+        "US Food Crisis Signals Intensify": 8,
+        "Mandatory Vehicle Surveillance By 2027": 7,
+        "Israel Solar Panel Destruction Pattern": 7,
+        "Palantir Surveillance Scandal Spreads UK": 5,
+        "Orb\u00e1n Oligarchs Fleeing Hungary": 5,
+        "Scientists Dying Investigation Grows": 5,
+        "Navy Food Crisis Signals Dysfunction": 5
       }
     }
   ]
