@@ -1,302 +1,281 @@
 {
   "date": "2026-04-27",
-  "run_timestamp": "2026-04-27T18:51:16.916380+00:00",
-  "total_posts_analyzed": 178,
-  "subreddits_active": 14,
+  "run_timestamp": "2026-04-27T21:49:18.007498+00:00",
+  "total_posts_analyzed": 412,
+  "subreddits_active": 11,
   "theories": [
     {
-      "title": "WHCD Shooting False Flag Narrative Intensifies",
-      "summary": "Multiple communities are analyzing inconsistencies in the White House Correspondents' Dinner shooting, including claims that Vance was evacuated before Trump, officials smiling/laughing during evacuation, and a Fox News caller claiming Karoline Leavitt's husband gave advance warning. The shooter's manifesto calling Trump a 'rapist' led to Trump's defensive outburst on 60 Minutes where he denied being a rapist before the interviewer suggested it referred to him.",
+      "title": "WHCD Shooting exploited for ballroom construction",
+      "summary": "Multiple Republican officials immediately framed the White House Correspondents' Dinner shooting as justification for Trump's long-stalled ballroom construction project, claiming it's a national security necessity. The timing and coordination suggest opportunistic weaponization of the incident to advance a pre-existing real estate agenda.",
       "subreddits": [
-        "outoftheloop",
-        "therewasanattempt",
+        "unusual_whales",
+        "law",
         "underreportednews",
-        "fauxmoi",
         "whitepeopletwitter",
-        "quiverquantitative",
-        "sipstea",
-        "prepperintel"
+        "quiverquantitative"
       ],
       "cross_community_score": 5,
       "engagement_score": 5,
       "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Cross-community convergence on specific anomalies (evacuation order, smiling officials, advance warning claims) suggests this narrative has legs beyond partisan interpretation.",
+      "why_signal": "Multiple high-engagement posts across financial, legal, and cultural communities showing coordinated messaging within hours of incident suggests pre-planned strategy.",
+      "posts": [
+        {
+          "title": "The ballroom will be a solution for this - Speaker Mike Johnson responds to the shooting by pitching a new White House ballroom",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1sx689r/the_ballroom_will_be_a_solution_for_this_speaker/",
+          "subreddit": "unusual_whales",
+          "score": 173
+        },
+        {
+          "title": "Justice Department urges group to drop Trump ballroom lawsuit after WHCA dinner shooting",
+          "url": "https://www.reddit.com/r/law/comments/1swr94e/justice_department_urges_group_to_drop_trump_ballroom_lawsuit_after_whca_dinner_shooting/",
+          "subreddit": "law",
+          "score": 4016
+        },
+        {
+          "title": "Republicans want to spend millions on a ballroom after years of not caring about school shootings?",
+          "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1sx4poc/republicans_want_to_spend_millions_on_a_ballroom_after_years_of_not_caring_about_school_shootings/",
+          "subreddit": "whitepeopletwitter",
+          "score": 1608
+        }
+      ]
+    },
+    {
+      "title": "WHCD shooting was false flag or staged",
+      "summary": "Across multiple communities, users are questioning the authenticity of the White House Correspondents' Dinner shooting, pointing to inconsistencies in official narratives, security failures, and behavioral anomalies from officials present. Claims range from fully staged false flag to serious questions about investigative inconsistencies.",
+      "subreddits": [
+        "outoftheloop",
+        "therewasanattempt",
+        "underreportednews",
+        "redscarepod",
+        "fauxmoi"
+      ],
+      "cross_community_score": 5,
+      "engagement_score": 5,
+      "total_score": 10,
+      "momentum": "surging",
+      "why_signal": "19k+ upvotes on a single 'attempt to look relieved' post, combined with mainstream cultural commentary (fauxmoi, redscarepod) treating it seriously suggests this skepticism is breaking containment beyond fringe communities.",
       "posts": [
         {
           "title": "What's going on with people saying that the alleged shooting at the Correspondents Dinner was staged?",
           "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1swb24x/whats_going_on_with_people_saying_that_the/",
           "subreddit": "outoftheloop",
-          "score": 2478
+          "score": 2547
         },
         {
-          "title": "to look relieved the situation had been diffused",
+          "title": "to look relieved the situation had been diffused - Seriously what is the official explanation why these people were smirking and laughing?",
           "url": "https://www.reddit.com/r/therewasanattempt/comments/1swmi20/to_look_relieved_the_situation_had_been_diffused/",
           "subreddit": "therewasanattempt",
-          "score": 18793
+          "score": 19676
         },
         {
-          "title": "Fox News yanks caller off the air after they claim that Karoline Leavitt's husband warned them",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swdo2f/fox_news_yanks_caller_off_the_air_after_they/",
+          "title": "Acting US AG Todd Blanche unable to determine whose bullet hit agent two days after shooting",
+          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sxf0ts/acting_us_ag_todd_blanche_is_asked_two_days_after_the_whcd_incident_if_the_doj_has_been_able_to_determine_if_the_gunman_fired_shots/",
           "subreddit": "underreportednews",
-          "score": 1997
+          "score": 527
         }
       ]
     },
     {
-      "title": "Shooting Exploited for Ballroom Construction",
-      "summary": "Republicans including Speaker Johnson and Rep. Lawler are using the WHCD shooting to justify Trump's controversial White House ballroom project, claiming it's a 'national security necessity.' Critics across communities see this as opportunistic exploitation of a crisis to fund a vanity project, especially given GOP resistance to school shooting responses.",
+      "title": "MAGA infrastructure is 'fake, staged, coordinated'",
+      "summary": "A former Trump insider (Ashley St. Clair) is alleging that the entire MAGA movement operates through secret group chats where Trump directly controls what influencers post in real time, with everything being fabricated and orchestrated rather than organic.",
       "subreddits": [
+        "underreportednews",
         "unusual_whales",
-        "underreportednews",
-        "therewasanattempt",
-        "whitepeopletwitter",
-        "law"
-      ],
-      "cross_community_score": 5,
-      "engagement_score": 4,
-      "total_score": 9,
-      "momentum": "emerging",
-      "why_signal": "The speed with which officials pivoted to ballroom advocacy post-shooting, combined with DOJ pressure on preservationist lawsuit, suggests coordinated messaging.",
-      "posts": [
-        {
-          "title": "Justice Department urges group to drop Trump ballroom lawsuit after WHCA dinner shooting",
-          "url": "https://www.reddit.com/r/law/comments/1swr94e/justice_department_urges_group_to_drop_trump/",
-          "subreddit": "law",
-          "score": 3922
-        },
-        {
-          "title": "To justify a ballroom nobody wants or needs",
-          "url": "https://www.reddit.com/r/therewasanattempt/comments/1sweyuh/to_justify_a_ballroom_nobody_wants_or_needs/",
-          "subreddit": "therewasanattempt",
-          "score": 3724
-        },
-        {
-          "title": "Speaker Mike Johnson responds to the shooting by pitching a new White House ballroom",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1sx689r/the_ballroom_will_be_a_solution_for_this_speaker/",
-          "subreddit": "unusual_whales",
-          "score": 121
-        }
-      ]
-    },
-    {
-      "title": "MAGA Coordination Infrastructure Revealed",
-      "summary": "Ashley St. Clair and other insiders are exposing secret White House group chats that coordinate what right-leaning social media influencers post in real-time. Claims that 'everything in MAGA is fake, staged, and coordinated' are gaining traction, suggesting an orchestrated propaganda operation directing online discourse.",
-      "subreddits": [
-        "underreportednews",
-        "fauxmoi",
         "whitepeopletwitter"
       ],
       "cross_community_score": 3,
-      "engagement_score": 5,
-      "total_score": 8,
-      "momentum": "surging",
-      "why_signal": "Multiple named insiders coming forward simultaneously suggests either coordinated whistleblowing or genuine infrastructure exposure.",
+      "engagement_score": 4,
+      "total_score": 7,
+      "momentum": "holding",
+      "why_signal": "Insider testimony claiming direct coordination infrastructure aligns with ballroom narrative construction timing, suggesting systematic capacity for rapid messaging campaigns.",
       "posts": [
         {
           "title": "Everything in MAGA is fake, staged, and coordinated - Former insider Ashley St. Clair reveals secret group chats",
           "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swm8jg/everything_in_maga_is_fake_staged_and_coordinated/",
           "subreddit": "underreportednews",
-          "score": 2481
+          "score": 2613
         },
         {
           "title": "Musk's Baby Mama Alleges White House Has Group Chats Telling Right-Leaning Social Media Accounts What to Post",
           "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sx8u4z/musks_baby_mama_alleges_white_house_has_group/",
           "subreddit": "underreportednews",
-          "score": 1776
-        },
-        {
-          "title": "Fox News reporter spills a little too much behind the scenes goss, gets cut off",
-          "url": "https://www.reddit.com/r/Fauxmoi/comments/1swm9hl/fox_news_reporter_spills_a_little_too_much_behind/",
-          "subreddit": "fauxmoi",
-          "score": 39045
+          "score": 4367
         }
       ]
     },
     {
-      "title": "US Food/Agriculture Crisis Accelerating",
-      "summary": "Convergent signals from farming communities, produce reports, and market watchers indicate severe agricultural stress: Southeast drought killing cattle operations, Minnesota farmers skipping planting due to costs, hay prices spiking, and produce shortages across categories. Goldman predicting 10,000 job losses monthly while RFK Jr. claims beef prices dropped when they're up 20%.",
+      "title": "Trump admission suggests guilt on assault claims",
+      "summary": "During a 60 Minutes interview about the WHCD shooting manifesto mentioning a 'rapist traitor,' Trump defensively blurted 'I'm not a rapist. I didn't rape anybody,' unprompted by direct accusation. When confronted, he appeared to assume the manifesto was about him, suggesting consciousness of guilt.",
       "subreddits": [
-        "prepperintel",
-        "unusual_whales",
-        "quiverquantitative"
+        "fauxmoi",
+        "whitepeopletwitter",
+        "therewasanattempt",
+        "quiverquantitative",
+        "underreportednews"
       ],
-      "cross_community_score": 3,
-      "engagement_score": 4,
-      "total_score": 7,
+      "cross_community_score": 5,
+      "engagement_score": 5,
+      "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Ground-level reports from actual farmers combined with institutional predictions and government data contradictions point to underreported agricultural collapse.",
+      "why_signal": "25k+ upvotes across cultural communities combined with legal/political communities treating this as significant suggests mainstream breakthrough on long-dormant accusation narratives.",
       "posts": [
         {
-          "title": "This drought is killing me. I am deep in the red. My normal water hole has completely dried up.",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1stdvb2/this_drought_is_killing_me_i_am_deep_in_the_red/",
-          "subreddit": "prepperintel",
-          "score": 1459
+          "title": "Trump lashes out at interviewer - Trump: I'm not a rapist. I didn't rape anybody. O'Donnell: Oh, you think he was referring to you?",
+          "url": "https://www.reddit.com/r/Fauxmoi/comments/1swxokd/trump_lashes_out_at_interviewer_trump_im_not_a/",
+          "subreddit": "fauxmoi",
+          "score": 14903
         },
         {
-          "title": "Some Minnesota farmers skipping planting season amid rising fuel and fertilizer costs",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1stj1t0/some_minnesota_farmers_skipping_planting_season/",
-          "subreddit": "prepperintel",
-          "score": 608
-        },
-        {
-          "title": "Senator: Beef prices are up 20%. RFK Jr.: Beef has dropped by 1%.",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1swnpnk/senator_do_these_high_grocery_prices_make_it/",
-          "subreddit": "unusual_whales",
-          "score": 1103
+          "title": "Oh, you think he was talking about you",
+          "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1sx79ro/oh_you_think_he_was_talking_about_you/",
+          "subreddit": "whitepeopletwitter",
+          "score": 4552
         }
       ]
     },
     {
-      "title": "Trump Family Corruption Goes Mainstream",
-      "summary": "Senator Ossoff directly called the first family 'crooks' on record while Eric Trump brags about Pentagon contracts. Commerce Secretary Lutnick's son's hedge fund activities are under congressional scrutiny. A judge is skeptical of a 'corrupt $10 billion IRS settlement with Trump,' suggesting institutional resistance to self-dealing.",
+      "title": "Trump family corruption goes mainstream political attack",
+      "summary": "Democratic lawmakers are now openly attacking Trump and his family members on major platforms for financial corruption, from Eric's Pentagon contracts to the family's wealth growing billions during tenure. This represents mainstreaming of corruption narratives that were previously sidelined.",
       "subreddits": [
         "unusual_whales",
         "quiverquantitative",
+        "whitepeopletwitter",
         "law"
       ],
-      "cross_community_score": 3,
-      "engagement_score": 4,
-      "total_score": 7,
+      "cross_community_score": 4,
+      "engagement_score": 5,
+      "total_score": 9,
       "momentum": "holding",
-      "why_signal": "Mainstream politicians openly using words like 'crooks' while courts push back on settlements signals potential institutional breaking point.",
+      "why_signal": "Ossoff's $895 upvote post about 'crooks' combined with financial community tracking of Pentagon contracts suggests corruption narratives are now crossing from political into economic analysis.",
       "posts": [
         {
-          "title": "Ossoff: the first family's wealth is growing by billions because they are crooks",
+          "title": "Ossoff: While you pay more for everything, the first family's wealth is growing by billions because they are crooks",
           "url": "https://www.reddit.com/r/unusual_whales/comments/1svs0og/ossoff_remember_while_you_pay_more_for_everything/",
           "subreddit": "unusual_whales",
-          "score": 896
+          "score": 895
         },
         {
-          "title": "Eric Trump bragging about $24 million Pentagon contract on Maria Bartiromo's show",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1stj299/eric_trump_the_presidents_son_is_on_maria/",
+          "title": "Eric Trump bragging about his company landing a $24 million Pentagon contract on Maria Bartiromo's show",
+          "url": "https://www.reddit.com/r/quiverquantitative/comments/1stj299/eric_trump_the_presidents_son_is_on_maria/",
           "subreddit": "quiverquantitative",
-          "score": 679
-        },
-        {
-          "title": "Judge Skeptical of Corrupt $10 Billion IRS Settlement with Trump",
-          "url": "https://www.reddit.com/r/law/comments/1sx6ol9/judge_skeptical_of_corrupt_10_billion_irs/",
-          "subreddit": "law",
-          "score": 3364
+          "score": 681
         }
       ]
     },
     {
-      "title": "Gerrymandering Blitz Across Multiple States",
-      "summary": "Coordinated gerrymandering push across Texas (SCOTUS greenlights map), Virginia (GOP challenging voter-approved maps), and Florida (DeSantis unveils aggressive new gerrymander). Legal communities tracking this as potential election-rigging infrastructure being locked in before midterms.",
+      "title": "Gerrymandering blitz expanding with court approval",
+      "summary": "Supreme Court officially greenlit Texas gerrymandered map, and multiple states (Florida, Virginia) are now moving forward with aggressive GOP redistricting efforts. Legal community sees this as systematic dismantling of fair representation rather than isolated incidents.",
       "subreddits": [
         "law",
-        "whitepeopletwitter"
+        "whitepeopletwitter",
+        "underreportednews"
       ],
-      "cross_community_score": 2,
+      "cross_community_score": 3,
       "engagement_score": 5,
-      "total_score": 7,
-      "momentum": "emerging",
-      "why_signal": "Simultaneous multi-state gerrymandering action with Supreme Court backing suggests coordinated timing to lock in advantages before legal challenges can mature.",
+      "total_score": 8,
+      "momentum": "surging",
+      "why_signal": "7680 upvotes on Supreme Court ruling combined with multiple state-level gerrymandering stories suggests coordinated multi-state push, not random activity.",
       "posts": [
         {
           "title": "Supreme Court officially greenlights Texas' gerrymandered congressional map for midterms",
           "url": "https://www.reddit.com/r/law/comments/1sx5di7/as_expected_supreme_court_officially_greenlights/",
           "subreddit": "law",
-          "score": 5359
+          "score": 7680
         },
         {
-          "title": "Virginia court declines to block Democrats from using new voter-approved congressional map",
-          "url": "https://www.reddit.com/r/law/comments/1swlv7f/virginia_court_declines_to_block_democrats_from/",
-          "subreddit": "law",
-          "score": 5410
-        },
-        {
-          "title": "Florida Gov. DeSantis unveils aggressive new GOP gerrymander",
-          "url": "https://www.reddit.com/r/law/comments/1sx8cjg/florida_gov_desantis_unveils_aggressive_new_gop/",
-          "subreddit": "law",
-          "score": 428
+          "title": "In the US, voters don't choose politicians. Politicians choose the voters",
+          "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1sx88t4/in_the_us_voters_dont_choose_politicians/",
+          "subreddit": "whitepeopletwitter",
+          "score": 3334
         }
       ]
     },
     {
-      "title": "Strait of Hormuz Crisis Developing",
-      "summary": "Bloomberg reports Strait of Hormuz 'essentially closed' while US-Iran peace talks have stalled. Asia supply shock warnings from CNN predict shortages if strait remains blocked. Lebanon evacuation advisories suggest broader Middle East escalation expected.",
+      "title": "Unemployment data broken, mass layoffs accelerating",
+      "summary": "Goldman Sachs predicting massive wave of monthly layoffs while government admits unemployment data collection is fundamentally broken. Financial communities treating this as indicator of hidden economic crisis worse than official statistics show.",
       "subreddits": [
         "unusual_whales",
+        "wallstreetbets",
         "prepperintel"
       ],
-      "cross_community_score": 2,
-      "engagement_score": 3,
-      "total_score": 5,
+      "cross_community_score": 3,
+      "engagement_score": 4,
+      "total_score": 7,
       "momentum": "emerging",
-      "why_signal": "Hormuz closure combined with stalled negotiations and evacuation advisories suggests escalation timeline may be shorter than markets reflect.",
+      "why_signal": "Combination of Goldman forecast + government data reliability admission creates credibility that official economic picture is systematically wrong.",
+      "posts": [
+        {
+          "title": "10,000 jobs gone every month - Goldman predicting massive wave of layoffs while government admits unemployment data is broken",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1sxas7u/10000_jobs_gone_every_month_goldman_is_predicting/",
+          "subreddit": "unusual_whales",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "title": "RFK Jr misquoting/manipulating price data in hearings",
+      "summary": "RFK Jr claimed beef prices dropped 1% while Senator corrected him citing actual 20% increase. This represents either incompetence or deliberate deception about food inflation during USDA confirmation, yet engagement suggests this is being normalized.",
+      "subreddits": [
+        "unusual_whales",
+        "quiverquantitative",
+        "whitepeopletwitter"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 5,
+      "total_score": 8,
+      "momentum": "holding",
+      "why_signal": "1149 upvotes suggests public recognition that food price narratives being pushed are factually backwards from reality, undermining food security claims.",
+      "posts": [
+        {
+          "title": "Senator: Do these high grocery prices make it harder for families to eat healthy food? RFK Jr.: Beef has dropped by 1%. Senator: Beef prices are up 20%.",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1swnpnk/senator_do_these_high_grocery_prices_make_it/",
+          "subreddit": "unusual_whales",
+          "score": 1149
+        }
+      ]
+    },
+    {
+      "title": "Strait of Hormuz effectively closed, energy crisis brewing",
+      "summary": "Bloomberg reporting Strait of Hormuz 'essentially closed' for commercial traffic, creating potential oil supply shock. Multiple communities treating this as precursor to broader supply chain and energy crisis, with prepper communities already tracking fallout.",
+      "subreddits": [
+        "unusual_whales",
+        "prepperintel",
+        "suppressed_news"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 3,
+      "total_score": 6,
+      "momentum": "holding",
+      "why_signal": "Cross-community signal from financial analysts to preppers indicates real belief in supply shock, not just geopolitical theater.",
       "posts": [
         {
           "title": "The Strait of Hormuz is still essentially closed, per Bloomberg",
           "url": "https://www.reddit.com/r/unusual_whales/comments/1sxbfqq/the_strait_of_hormuz_is_still_essentially_closed/",
           "subreddit": "unusual_whales",
-          "score": 16
-        },
-        {
-          "title": "Asia's spiraling supply shock is coming for America (CNN)",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sv3obf/asias_spiraling_supply_shock_is_coming_for/",
-          "subreddit": "prepperintel",
-          "score": 668
-        },
-        {
-          "title": "Lebanon, U.S. Citizens Advised to Leave While Commercial Flights Available",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1stlwxi/422_lebanon_us_citizens_advised_to_leave_while/",
-          "subreddit": "prepperintel",
-          "score": 977
+          "score": 46
         }
       ]
     },
     {
-      "title": "Germany Lithium Discovery Strategic Shift",
-      "summary": "43 million tons of lithium discovered beneath Germany's Altmark region represents potential game-changer for European battery independence. This comes as China warns EU over 'Made in Europe' plans, suggesting resource nationalism escalating between blocs.",
-      "subreddits": [
-        "europe"
-      ],
-      "cross_community_score": 1,
-      "engagement_score": 5,
-      "total_score": 6,
-      "momentum": "holding",
-      "why_signal": "Scale of discovery combined with EU-China trade tensions timing suggests this could reshape European industrial policy debates.",
-      "posts": [
-        {
-          "title": "Germany discovers 43 million tons of lithium beneath Altmark region",
-          "url": "https://www.reddit.com/r/europe/comments/1swglko/germany_discovers_a_treasure_trove_beneath_an_old/",
-          "subreddit": "europe",
-          "score": 9756
-        },
-        {
-          "title": "China warns EU over 'Made in Europe' plan, vows countermeasures",
-          "url": "https://www.reddit.com/r/europe/comments/1swv09x/china_warns_eu_over_made_in_europe_plan_vows/",
-          "subreddit": "europe",
-          "score": 4028
-        }
-      ]
-    },
-    {
-      "title": "Immigration Weaponized Against Speech",
-      "summary": "Trump administration issuing guidance to deny green cards for political speech including social media posts about Israel and participation in protests. This represents potential First Amendment crisis for non-citizens, with particular targeting of pro-Palestine expression.",
+      "title": "Political speech now disqualifies immigrants from green cards",
+      "summary": "Trump administration issuing guidance to deny immigrants green cards for expressing political opinions online, including posts about Israel or pro-Palestine activism, and desecrating the US flag. This represents weaponization of immigration law against free speech.",
       "subreddits": [
         "law",
-        "suppressed_news"
+        "underreportednews",
+        "whitepeopletwitter"
       ],
-      "cross_community_score": 2,
+      "cross_community_score": 3,
       "engagement_score": 4,
-      "total_score": 6,
+      "total_score": 7,
       "momentum": "emerging",
-      "why_signal": "Explicit policy targeting political speech creates legal test case that could expand to citizens; legal community attention suggests serious constitutional challenge brewing.",
+      "why_signal": "Legal community treating this as constitutional threat while mainstream culture seeing it as normalization of political persecution via immigration law.",
       "posts": [
         {
-          "title": "Trump Administration Says Immigrants Can Be Denied Green Cards for Expressing Political Opinions",
-          "url": "https://www.reddit.com/r/law/comments/1sx341c/trump_administration_says_immigrants_can_be/",
+          "title": "Trump Administration Says Immigrants Can Be Denied Green Cards for Expressing Political Opinions, Including Posting About Israel",
+          "url": "https://www.reddit.com/r/law/comments/1sx341c/trump_administration_says_immigrants_can_be_denied/",
           "subreddit": "law",
-          "score": 2072
-        },
-        {
-          "title": "ICE detained family less than two days after court ordered their release",
-          "url": "https://www.reddit.com/r/law/comments/1sx1mms/ice_detained_family_less_than_two_days_after/",
-          "subreddit": "law",
-          "score": 902
+          "score": 2523
         }
       ]
     }
