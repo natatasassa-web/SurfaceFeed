@@ -1,271 +1,302 @@
 {
   "date": "2026-04-27",
-  "run_timestamp": "2026-04-27T15:40:01.167487+00:00",
-  "total_posts_analyzed": 198,
-  "subreddits_active": 16,
+  "run_timestamp": "2026-04-27T18:51:16.916380+00:00",
+  "total_posts_analyzed": 178,
+  "subreddits_active": 14,
   "theories": [
     {
-      "title": "WHCD Shooting False Flag Narrative Explodes",
-      "summary": "Multiple communities are analyzing the White House Correspondents' Dinner shooting with deep suspicion. Key claims include officials smirking/laughing during evacuation, Fox News cutting off a caller who mentioned Karoline Leavitt's husband gave advance warning, the VP being evacuated before the President, and the shooter's IDF connections being scrubbed. The push for a new 'secure ballroom' is seen as the real goal.",
+      "title": "WHCD Shooting False Flag Narrative Intensifies",
+      "summary": "Multiple communities are analyzing inconsistencies in the White House Correspondents' Dinner shooting, including claims that Vance was evacuated before Trump, officials smiling/laughing during evacuation, and a Fox News caller claiming Karoline Leavitt's husband gave advance warning. The shooter's manifesto calling Trump a 'rapist' led to Trump's defensive outburst on 60 Minutes where he denied being a rapist before the interviewer suggested it referred to him.",
       "subreddits": [
-        "unusual_whales",
-        "quiverquantitative",
-        "prepperintel",
-        "underreportednews",
         "outoftheloop",
         "therewasanattempt",
-        "sipstea",
+        "underreportednews",
         "fauxmoi",
         "whitepeopletwitter",
-        "redscarepod",
-        "law"
+        "quiverquantitative",
+        "sipstea",
+        "prepperintel"
       ],
       "cross_community_score": 5,
       "engagement_score": 5,
       "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Cross-community skepticism with specific anomalies being documented (evacuation order, official reactions, pre-warning claims) suggests this narrative will persist regardless of official explanations.",
+      "why_signal": "Cross-community convergence on specific anomalies (evacuation order, smiling officials, advance warning claims) suggests this narrative has legs beyond partisan interpretation.",
       "posts": [
-        {
-          "title": "Fox News yanks caller off the air after they claim that Karoline Leavitt's husband warned them 'you need to be very safe' before the WHCD shooting",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swdo2f/fox_news_yanks_caller_off_the_air_after_they/",
-          "subreddit": "underreportednews",
-          "score": 1921
-        },
-        {
-          "title": "to delete the shooter's link with the IDF",
-          "url": "https://www.reddit.com/r/therewasanattempt/comments/1sw3lee/to_delete_the_shooters_link_with_the_idf/",
-          "subreddit": "therewasanattempt",
-          "score": 19954
-        },
         {
           "title": "What's going on with people saying that the alleged shooting at the Correspondents Dinner was staged?",
           "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1swb24x/whats_going_on_with_people_saying_that_the/",
           "subreddit": "outoftheloop",
-          "score": 2371
+          "score": 2478
+        },
+        {
+          "title": "to look relieved the situation had been diffused",
+          "url": "https://www.reddit.com/r/therewasanattempt/comments/1swmi20/to_look_relieved_the_situation_had_been_diffused/",
+          "subreddit": "therewasanattempt",
+          "score": 18793
+        },
+        {
+          "title": "Fox News yanks caller off the air after they claim that Karoline Leavitt's husband warned them",
+          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swdo2f/fox_news_yanks_caller_off_the_air_after_they/",
+          "subreddit": "underreportednews",
+          "score": 1997
         }
       ]
     },
     {
-      "title": "Trump Family Corruption Goes Mainstream",
-      "summary": "Senators openly calling the Trump family 'crooks' on record, Eric Trump bragging about $24M Pentagon contracts on TV, Commerce Secretary Lutnick's son's hedge fund activity being questioned, and a judge expressing skepticism over a $10 billion IRS settlement with Trump. The corruption narrative is now bipartisan mainstream news rather than fringe criticism.",
+      "title": "Shooting Exploited for Ballroom Construction",
+      "summary": "Republicans including Speaker Johnson and Rep. Lawler are using the WHCD shooting to justify Trump's controversial White House ballroom project, claiming it's a 'national security necessity.' Critics across communities see this as opportunistic exploitation of a crisis to fund a vanity project, especially given GOP resistance to school shooting responses.",
       "subreddits": [
         "unusual_whales",
-        "quiverquantitative",
-        "law",
-        "whitepeopletwitter"
+        "underreportednews",
+        "therewasanattempt",
+        "whitepeopletwitter",
+        "law"
       ],
-      "cross_community_score": 4,
-      "engagement_score": 5,
+      "cross_community_score": 5,
+      "engagement_score": 4,
       "total_score": 9,
-      "momentum": "surging",
-      "why_signal": "Financial and legal communities now tracking specific dollar amounts and contracts represents escalation from rhetorical accusations to documented financial flows.",
+      "momentum": "emerging",
+      "why_signal": "The speed with which officials pivoted to ballroom advocacy post-shooting, combined with DOJ pressure on preservationist lawsuit, suggests coordinated messaging.",
       "posts": [
         {
-          "title": "Ossoff: 'Remember, while you pay more for everything, the first family's wealth is growing by billions of dollars because they are crooks, and everybody knows it.'",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1svs0og/ossoff_remember_while_you_pay_more_for_everything/",
-          "subreddit": "unusual_whales",
-          "score": 897
-        },
-        {
-          "title": "Eric Trump -- the president's son -- is on Maria Bartiromo's show bragging about one of his companies landing a $24 million Pentagon contract",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1stj299/eric_trump_the_presidents_son_is_on_maria/",
-          "subreddit": "quiverquantitative",
-          "score": 683
-        },
-        {
-          "title": "Judge Skeptical of Corrupt $10 Billion IRS Settlement with Trump",
-          "url": "https://www.reddit.com/r/law/comments/1sx6ol9/judge_skeptical_of_corrupt_10_billion_irs/",
+          "title": "Justice Department urges group to drop Trump ballroom lawsuit after WHCA dinner shooting",
+          "url": "https://www.reddit.com/r/law/comments/1swr94e/justice_department_urges_group_to_drop_trump/",
           "subreddit": "law",
-          "score": 254
+          "score": 3922
+        },
+        {
+          "title": "To justify a ballroom nobody wants or needs",
+          "url": "https://www.reddit.com/r/therewasanattempt/comments/1sweyuh/to_justify_a_ballroom_nobody_wants_or_needs/",
+          "subreddit": "therewasanattempt",
+          "score": 3724
+        },
+        {
+          "title": "Speaker Mike Johnson responds to the shooting by pitching a new White House ballroom",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1sx689r/the_ballroom_will_be_a_solution_for_this_speaker/",
+          "subreddit": "unusual_whales",
+          "score": 121
         }
       ]
     },
     {
-      "title": "US Food/Agriculture Crisis Intensifies",
-      "summary": "RFK Jr. caught lying about beef prices in Senate testimony, Southeast farmers reporting catastrophic drought conditions, Minnesota farmers skipping planting due to costs, hay price tracking showing summer crisis incoming, and produce supply reports showing tight conditions. Navy food crisis posts continue alongside civilian supply concerns.",
+      "title": "MAGA Coordination Infrastructure Revealed",
+      "summary": "Ashley St. Clair and other insiders are exposing secret White House group chats that coordinate what right-leaning social media influencers post in real-time. Claims that 'everything in MAGA is fake, staged, and coordinated' are gaining traction, suggesting an orchestrated propaganda operation directing online discourse.",
       "subreddits": [
-        "unusual_whales",
-        "prepperintel",
-        "outoftheloop"
+        "underreportednews",
+        "fauxmoi",
+        "whitepeopletwitter"
       ],
       "cross_community_score": 3,
       "engagement_score": 5,
       "total_score": 8,
       "momentum": "surging",
-      "why_signal": "Farmer-level posts about skipping planting and drilling emergency wells represent real-time ground truth that precedes official acknowledgment by months.",
+      "why_signal": "Multiple named insiders coming forward simultaneously suggests either coordinated whistleblowing or genuine infrastructure exposure.",
       "posts": [
         {
-          "title": "This drought is killing me. I am deep in the red. My normal water hole has completely dried up. Have had to drill 3 new wells for my cows",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1stdvb2/this_drought_is_killing_me_i_am_deep_in_the_red/",
-          "subreddit": "prepperintel",
-          "score": 1461
+          "title": "Everything in MAGA is fake, staged, and coordinated - Former insider Ashley St. Clair reveals secret group chats",
+          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swm8jg/everything_in_maga_is_fake_staged_and_coordinated/",
+          "subreddit": "underreportednews",
+          "score": 2481
         },
         {
-          "title": "Senator: Do these high grocery prices make it harder for families to eat healthy food? RFK Jr.: Beef has dropped by 1%. Senator: Beef prices are up 20%.",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1swnpnk/senator_do_these_high_grocery_prices_make_it/",
-          "subreddit": "unusual_whales",
-          "score": 1012
+          "title": "Musk's Baby Mama Alleges White House Has Group Chats Telling Right-Leaning Social Media Accounts What to Post",
+          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sx8u4z/musks_baby_mama_alleges_white_house_has_group/",
+          "subreddit": "underreportednews",
+          "score": 1776
+        },
+        {
+          "title": "Fox News reporter spills a little too much behind the scenes goss, gets cut off",
+          "url": "https://www.reddit.com/r/Fauxmoi/comments/1swm9hl/fox_news_reporter_spills_a_little_too_much_behind/",
+          "subreddit": "fauxmoi",
+          "score": 39045
+        }
+      ]
+    },
+    {
+      "title": "US Food/Agriculture Crisis Accelerating",
+      "summary": "Convergent signals from farming communities, produce reports, and market watchers indicate severe agricultural stress: Southeast drought killing cattle operations, Minnesota farmers skipping planting due to costs, hay prices spiking, and produce shortages across categories. Goldman predicting 10,000 job losses monthly while RFK Jr. claims beef prices dropped when they're up 20%.",
+      "subreddits": [
+        "prepperintel",
+        "unusual_whales",
+        "quiverquantitative"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 4,
+      "total_score": 7,
+      "momentum": "surging",
+      "why_signal": "Ground-level reports from actual farmers combined with institutional predictions and government data contradictions point to underreported agricultural collapse.",
+      "posts": [
+        {
+          "title": "This drought is killing me. I am deep in the red. My normal water hole has completely dried up.",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1stdvb2/this_drought_is_killing_me_i_am_deep_in_the_red/",
+          "subreddit": "prepperintel",
+          "score": 1459
         },
         {
           "title": "Some Minnesota farmers skipping planting season amid rising fuel and fertilizer costs",
           "url": "https://www.reddit.com/r/PrepperIntel/comments/1stj1t0/some_minnesota_farmers_skipping_planting_season/",
           "subreddit": "prepperintel",
-          "score": 610
+          "score": 608
+        },
+        {
+          "title": "Senator: Beef prices are up 20%. RFK Jr.: Beef has dropped by 1%.",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1swnpnk/senator_do_these_high_grocery_prices_make_it/",
+          "subreddit": "unusual_whales",
+          "score": 1103
         }
       ]
     },
     {
-      "title": "Vehicle Surveillance Mandate 2027 Confirmed",
-      "summary": "Federal law requiring constant driver surveillance technology in all new cars by 2027 is now being widely discussed. Posts frame this as extension of surveillance state rather than safety measure. Bill HR 8470 discussion shows MAGA representatives framing surveillance expansion as 'curbing' surveillance.",
+      "title": "Trump Family Corruption Goes Mainstream",
+      "summary": "Senator Ossoff directly called the first family 'crooks' on record while Eric Trump brags about Pentagon contracts. Commerce Secretary Lutnick's son's hedge fund activities are under congressional scrutiny. A judge is skeptical of a 'corrupt $10 billion IRS settlement with Trump,' suggesting institutional resistance to self-dealing.",
       "subreddits": [
-        "underreportednews",
-        "prepperintel",
-        "outoftheloop"
+        "unusual_whales",
+        "quiverquantitative",
+        "law"
       ],
       "cross_community_score": 3,
       "engagement_score": 4,
       "total_score": 7,
       "momentum": "holding",
-      "why_signal": "Legislative timeline (2027) creates actionable prep window; cross-community awareness suggests this will become mainstream privacy flashpoint.",
+      "why_signal": "Mainstream politicians openly using words like 'crooks' while courts push back on settlements signals potential institutional breaking point.",
       "posts": [
         {
-          "title": "Every new car in the U.S. will be required by law to have tech that puts constant surveillance on the driver by 2027",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1sw8l6x/every_new_car_in_the_us_will_be_required_by_law/",
-          "subreddit": "underreportednews",
-          "score": 2480
+          "title": "Ossoff: the first family's wealth is growing by billions because they are crooks",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1svs0og/ossoff_remember_while_you_pay_more_for_everything/",
+          "subreddit": "unusual_whales",
+          "score": 896
         },
         {
-          "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sux81y/federal_surveillance_tech_becomes_mandatory_in/",
-          "subreddit": "prepperintel",
-          "score": 943
+          "title": "Eric Trump bragging about $24 million Pentagon contract on Maria Bartiromo's show",
+          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1stj299/eric_trump_the_presidents_son_is_on_maria/",
+          "subreddit": "quiverquantitative",
+          "score": 679
         },
         {
-          "title": "What's going on with Surveillance State Bill HR 8470?",
-          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1svku2v/whats_going_on_with_surveillance_state_bill_hr/",
-          "subreddit": "outoftheloop",
-          "score": 72
+          "title": "Judge Skeptical of Corrupt $10 Billion IRS Settlement with Trump",
+          "url": "https://www.reddit.com/r/law/comments/1sx6ol9/judge_skeptical_of_corrupt_10_billion_irs/",
+          "subreddit": "law",
+          "score": 3364
         }
       ]
     },
     {
-      "title": "Israel Solar/Aid Infrastructure Targeting",
-      "summary": "Israel assassinated a man running a solar-powered phone charging station in Gaza, continuing a pattern of targeting civilian infrastructure. Separately, a Heritage Foundation MoU would embed Israel into US infrastructure for 20 years, making defunding nearly impossible. Lindsay Graham reportedly pushing to end direct aid while this alternative enmeshment proceeds.",
+      "title": "Gerrymandering Blitz Across Multiple States",
+      "summary": "Coordinated gerrymandering push across Texas (SCOTUS greenlights map), Virginia (GOP challenging voter-approved maps), and Florida (DeSantis unveils aggressive new gerrymander). Legal communities tracking this as potential election-rigging infrastructure being locked in before midterms.",
       "subreddits": [
-        "suppressed_news",
-        "underreportednews"
+        "law",
+        "whitepeopletwitter"
       ],
       "cross_community_score": 2,
-      "engagement_score": 4,
-      "total_score": 6,
-      "momentum": "holding",
-      "why_signal": "The Heritage MoU detail represents a specific policy mechanism that could lock in aid regardless of political changes, worth monitoring for congressional action.",
+      "engagement_score": 5,
+      "total_score": 7,
+      "momentum": "emerging",
+      "why_signal": "Simultaneous multi-state gerrymandering action with Supreme Court backing suggests coordinated timing to lock in advantages before legal challenges can mature.",
       "posts": [
         {
-          "title": "A few hours ago, Israel in a terrorist strike assassinated Imad Miqdad. His crime was having a solar-powered phone charging station to help Gazans have some contact with the world.",
-          "url": "https://www.reddit.com/r/suppressed_news/comments/1sw00wu/a_few_hours_ago_israel_in_a_terrorist_strike/",
-          "subreddit": "suppressed_news",
-          "score": 2481
+          "title": "Supreme Court officially greenlights Texas' gerrymandered congressional map for midterms",
+          "url": "https://www.reddit.com/r/law/comments/1sx5di7/as_expected_supreme_court_officially_greenlights/",
+          "subreddit": "law",
+          "score": 5359
         },
         {
-          "title": "Lindsay Graham has been pushing to end direct aid to Israel but the new proposed MoU between US and Israel was written by Heritage and would enmesh Israel into US infrastructure for the next 20 years",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swngc8/lindsay_graham_has_been_pushing_to_end_direct_aid/",
-          "subreddit": "underreportednews",
-          "score": 283
+          "title": "Virginia court declines to block Democrats from using new voter-approved congressional map",
+          "url": "https://www.reddit.com/r/law/comments/1swlv7f/virginia_court_declines_to_block_democrats_from/",
+          "subreddit": "law",
+          "score": 5410
+        },
+        {
+          "title": "Florida Gov. DeSantis unveils aggressive new GOP gerrymander",
+          "url": "https://www.reddit.com/r/law/comments/1sx8cjg/florida_gov_desantis_unveils_aggressive_new_gop/",
+          "subreddit": "law",
+          "score": 428
         }
       ]
     },
     {
-      "title": "Scientists Dying Pattern Under Investigation",
-      "summary": "Formal US investigation launched into deaths/disappearances of 11 scientists. OutOfTheLoop post with high engagement indicates mainstream awareness crossing from conspiracy into legitimate news territory. Details remain sparse but official acknowledgment is significant.",
+      "title": "Strait of Hormuz Crisis Developing",
+      "summary": "Bloomberg reports Strait of Hormuz 'essentially closed' while US-Iran peace talks have stalled. Asia supply shock warnings from CNN predict shortages if strait remains blocked. Lebanon evacuation advisories suggest broader Middle East escalation expected.",
       "subreddits": [
-        "outoftheloop"
+        "unusual_whales",
+        "prepperintel"
       ],
-      "cross_community_score": 1,
-      "engagement_score": 4,
+      "cross_community_score": 2,
+      "engagement_score": 3,
       "total_score": 5,
-      "momentum": "holding",
-      "why_signal": "Official investigation announcement transforms this from speculation to tracked development; watch for which agencies/fields are involved.",
+      "momentum": "emerging",
+      "why_signal": "Hormuz closure combined with stalled negotiations and evacuation advisories suggests escalation timeline may be shorter than markets reflect.",
       "posts": [
         {
-          "title": "What's going on with the 11 scientists who have recently died or disappeared?",
-          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1sutiws/whats_going_on_with_the_11_scientists_who_have/",
-          "subreddit": "outoftheloop",
-          "score": 1303
+          "title": "The Strait of Hormuz is still essentially closed, per Bloomberg",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1sxbfqq/the_strait_of_hormuz_is_still_essentially_closed/",
+          "subreddit": "unusual_whales",
+          "score": 16
+        },
+        {
+          "title": "Asia's spiraling supply shock is coming for America (CNN)",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1sv3obf/asias_spiraling_supply_shock_is_coming_for/",
+          "subreddit": "prepperintel",
+          "score": 668
+        },
+        {
+          "title": "Lebanon, U.S. Citizens Advised to Leave While Commercial Flights Available",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1stlwxi/422_lebanon_us_citizens_advised_to_leave_while/",
+          "subreddit": "prepperintel",
+          "score": 977
         }
       ]
     },
     {
       "title": "Germany Lithium Discovery Strategic Shift",
-      "summary": "43 million tons of lithium discovered beneath German Altmark region gas field. Framed as enabling European battery independence. Comes alongside reports of German-driven European defense spending reaching historic levels.",
+      "summary": "43 million tons of lithium discovered beneath Germany's Altmark region represents potential game-changer for European battery independence. This comes as China warns EU over 'Made in Europe' plans, suggesting resource nationalism escalating between blocs.",
       "subreddits": [
         "europe"
       ],
       "cross_community_score": 1,
       "engagement_score": 5,
       "total_score": 6,
-      "momentum": "emerging",
-      "why_signal": "Resource discoveries of this scale have multi-year market and geopolitical implications; China warning EU over 'Made in Europe' plans in same feed suggests strategic context.",
+      "momentum": "holding",
+      "why_signal": "Scale of discovery combined with EU-China trade tensions timing suggests this could reshape European industrial policy debates.",
       "posts": [
         {
-          "title": "Germany discovers a treasure trove beneath an old gas field: 43 million tons of lithium have been found beneath the Altmark region",
+          "title": "Germany discovers 43 million tons of lithium beneath Altmark region",
           "url": "https://www.reddit.com/r/europe/comments/1swglko/germany_discovers_a_treasure_trove_beneath_an_old/",
           "subreddit": "europe",
-          "score": 9467
+          "score": 9756
         },
         {
           "title": "China warns EU over 'Made in Europe' plan, vows countermeasures",
           "url": "https://www.reddit.com/r/europe/comments/1swv09x/china_warns_eu_over_made_in_europe_plan_vows/",
           "subreddit": "europe",
-          "score": 3442
+          "score": 4028
         }
       ]
     },
     {
-      "title": "MAGA Coordination Infrastructure Exposed",
-      "summary": "Former insider Ashley St. Clair reveals secret group chats used by Trump to control influencer posts in real time. Claims 'everything in MAGA is fake, staged, and coordinated.' Combines with reporting on FOIA dismantlement and DOJ pressuring groups to drop lawsuits.",
+      "title": "Immigration Weaponized Against Speech",
+      "summary": "Trump administration issuing guidance to deny green cards for political speech including social media posts about Israel and participation in protests. This represents potential First Amendment crisis for non-citizens, with particular targeting of pro-Palestine expression.",
       "subreddits": [
-        "underreportednews",
-        "law"
+        "law",
+        "suppressed_news"
       ],
       "cross_community_score": 2,
       "engagement_score": 4,
       "total_score": 6,
       "momentum": "emerging",
-      "why_signal": "Insider defection with operational details (group chats, real-time coordination) provides actionable information for tracking future coordinated narratives.",
+      "why_signal": "Explicit policy targeting political speech creates legal test case that could expand to citizens; legal community attention suggests serious constitutional challenge brewing.",
       "posts": [
         {
-          "title": "'Everything in MAGA is fake, staged, and coordinated.' Former insider Ashley St. Clair reveals the secret group chats used by Trump to control what influencers post in real time.",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1swm8jg/everything_in_maga_is_fake_staged_and_coordinated/",
-          "subreddit": "underreportednews",
-          "score": 2268
+          "title": "Trump Administration Says Immigrants Can Be Denied Green Cards for Expressing Political Opinions",
+          "url": "https://www.reddit.com/r/law/comments/1sx341c/trump_administration_says_immigrants_can_be/",
+          "subreddit": "law",
+          "score": 2072
         },
         {
-          "title": "The Trump Administration Is Dismantling FOIA",
-          "url": "https://www.reddit.com/r/law/comments/1sx3ws7/the_trump_administration_is_dismantling_foia/",
+          "title": "ICE detained family less than two days after court ordered their release",
+          "url": "https://www.reddit.com/r/law/comments/1sx1mms/ice_detained_family_less_than_two_days_after/",
           "subreddit": "law",
-          "score": 675
-        }
-      ]
-    },
-    {
-      "title": "Northern Ireland Violence Returns",
-      "summary": "Car bomb exploded near police station in Dunmurry, Northern Ireland. Prepper community tracking as significant escalation signal. Context of broader European instability (Mali, Romania political crisis, Alpine divorce phenomenon).",
-      "subreddits": [
-        "prepperintel"
-      ],
-      "cross_community_score": 1,
-      "engagement_score": 3,
-      "total_score": 4,
-      "momentum": "emerging",
-      "why_signal": "Car bombings in Northern Ireland represent potential return to Troubles-era violence; worth monitoring for follow-on incidents or political responses.",
-      "posts": [
-        {
-          "title": "A car bomb exploded near a police station in Dunmurry, Northern Ireland.",
-          "url": "https://www.reddit.com/r/PrepperIntel/comments/1swdtbb/a_car_bomb_exploded_near_a_police_station_in/",
-          "subreddit": "prepperintel",
-          "score": 523
+          "score": 902
         }
       ]
     }

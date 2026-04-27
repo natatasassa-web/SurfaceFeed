@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-13",
-      "theories": [
-        "Strait of Hormuz Blockade Escalates",
-        "Orb\u00e1n Falls, Europe Celebrates",
-        "Trump vs Pope Leo XIV",
-        "China Preparing Military Response",
-        "Trump Firing Judges, ICE Surveillance",
-        "Canada Declares Defense Independence",
-        "Sam Altman Targeted Twice",
-        "Epstein Connections Resurface Everywhere",
-        "Apple Erasing Lebanese Geography"
-      ],
-      "scores": {
-        "Strait of Hormuz Blockade Escalates": 10,
-        "Orb\u00e1n Falls, Europe Celebrates": 10,
-        "Trump vs Pope Leo XIV": 10,
-        "China Preparing Military Response": 8,
-        "Trump Firing Judges, ICE Surveillance": 8,
-        "Canada Declares Defense Independence": 6,
-        "Sam Altman Targeted Twice": 6,
-        "Epstein Connections Resurface Everywhere": 6,
-        "Apple Erasing Lebanese Geography": 5
-      }
-    },
-    {
       "date": "2026-04-14",
       "theories": [
         "Hormuz Blockade Sparks Global Crisis",
@@ -354,6 +329,31 @@
         "Germany Lithium Discovery Strategic Shift": 6,
         "MAGA Coordination Infrastructure Exposed": 6,
         "Northern Ireland Violence Returns": 4
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "theories": [
+        "WHCD Shooting False Flag Narrative Intensifies",
+        "Shooting Exploited for Ballroom Construction",
+        "MAGA Coordination Infrastructure Revealed",
+        "US Food/Agriculture Crisis Accelerating",
+        "Trump Family Corruption Goes Mainstream",
+        "Gerrymandering Blitz Across Multiple States",
+        "Strait of Hormuz Crisis Developing",
+        "Germany Lithium Discovery Strategic Shift",
+        "Immigration Weaponized Against Speech"
+      ],
+      "scores": {
+        "WHCD Shooting False Flag Narrative Intensifies": 10,
+        "Shooting Exploited for Ballroom Construction": 9,
+        "MAGA Coordination Infrastructure Revealed": 8,
+        "US Food/Agriculture Crisis Accelerating": 7,
+        "Trump Family Corruption Goes Mainstream": 7,
+        "Gerrymandering Blitz Across Multiple States": 7,
+        "Strait of Hormuz Crisis Developing": 5,
+        "Germany Lithium Discovery Strategic Shift": 6,
+        "Immigration Weaponized Against Speech": 6
       }
     }
   ]
