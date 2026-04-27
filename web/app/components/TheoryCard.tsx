@@ -101,7 +101,7 @@ export default function TheoryCard({ theory, rank }: { theory: Theory; rank: num
       </div>
 
       {/* Summary */}
-      <p className={`text-base mt-3 ml-8 leading-relaxed text-[#1C1A17]/80`}>
+      <p className={`text-base mt-3 ml-8 leading-snug text-[#1C1A17]/80`}>
         {theory.summary}
       </p>
 
