@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-15",
-      "theories": [
-        "Epstein Files Stonewalling Intensifies",
-        "Trump Mental Fitness Crisis Escalates",
-        "Congress Stripping Presidential Powers",
-        "Hormuz Blockade Global Food Crisis",
-        "Orb\u00e1n Defeat Reshapes Europe",
-        "China Military Posture Escalating",
-        "MAGA Influencer Network Crumbling",
-        "ICE Surveillance State Expanding",
-        "Amazon Worker Death Cover-Up",
-        "Sam Altman Targeted Twice"
-      ],
-      "scores": {
-        "Epstein Files Stonewalling Intensifies": 10,
-        "Trump Mental Fitness Crisis Escalates": 10,
-        "Congress Stripping Presidential Powers": 9,
-        "Hormuz Blockade Global Food Crisis": 10,
-        "Orb\u00e1n Defeat Reshapes Europe": 8,
-        "China Military Posture Escalating": 8,
-        "MAGA Influencer Network Crumbling": 9,
-        "ICE Surveillance State Expanding": 8,
-        "Amazon Worker Death Cover-Up": 8,
-        "Sam Altman Targeted Twice": 7
-      }
-    },
-    {
       "date": "2026-04-16",
       "theories": [
         "Pope Leo vs Trump Escalating",
@@ -356,6 +329,33 @@
         "RFK Jr misquoting/manipulating price data in hearings": 8,
         "Strait of Hormuz effectively closed, energy crisis brewing": 6,
         "Political speech now disqualifies immigrants from green cards": 7
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "theories": [
+        "Ballroom exploited post-shooting for construction",
+        "WHCD shooting narrative collapse in progress",
+        "RFK Jr. data manipulation in official hearings",
+        "Unemployment data broken, layoffs accelerating",
+        "Trump family embedded in Pentagon contracting",
+        "Strait of Hormuz effectively closed by Iran",
+        "Benefits cuts justified by false economy claims",
+        "White House coordinating social media narrative",
+        "UAE abandoning OPEC signals oil cartel collapse",
+        "OpenAI missing targets before IPO signal"
+      ],
+      "scores": {
+        "Ballroom exploited post-shooting for construction": 10,
+        "WHCD shooting narrative collapse in progress": 10,
+        "RFK Jr. data manipulation in official hearings": 8,
+        "Unemployment data broken, layoffs accelerating": 7,
+        "Trump family embedded in Pentagon contracting": 7,
+        "Strait of Hormuz effectively closed by Iran": 7,
+        "Benefits cuts justified by false economy claims": 7,
+        "White House coordinating social media narrative": 6,
+        "UAE abandoning OPEC signals oil cartel collapse": 6,
+        "OpenAI missing targets before IPO signal": 6
       }
     }
   ]
