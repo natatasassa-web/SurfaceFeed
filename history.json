@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-16",
-      "theories": [
-        "Pope Leo vs Trump Escalating",
-        "Hegseth Pentagon Bible Fraud",
-        "Hormuz Crisis Threatens Global Food",
-        "NYC Wealth Tax Breakthrough",
-        "25th Amendment Battle Intensifies",
-        "Hungary Post-Orb\u00e1n Pivot Accelerating",
-        "Suspicious Pre-Announcement Trading Pattern",
-        "Military Draft Expansion Quietly Advancing",
-        "China Embassy Fortifying DC"
-      ],
-      "scores": {
-        "Pope Leo vs Trump Escalating": 10,
-        "Hegseth Pentagon Bible Fraud": 10,
-        "Hormuz Crisis Threatens Global Food": 9,
-        "NYC Wealth Tax Breakthrough": 9,
-        "25th Amendment Battle Intensifies": 8,
-        "Hungary Post-Orb\u00e1n Pivot Accelerating": 9,
-        "Suspicious Pre-Announcement Trading Pattern": 6,
-        "Military Draft Expansion Quietly Advancing": 7,
-        "China Embassy Fortifying DC": 5
-      }
-    },
-    {
       "date": "2026-04-17",
       "theories": [
         "Pope Leo vs Trump War Intensifies",
@@ -356,6 +331,33 @@
         "White House coordinating social media narrative": 6,
         "UAE abandoning OPEC signals oil cartel collapse": 6,
         "OpenAI missing targets before IPO signal": 6
+      }
+    },
+    {
+      "date": "2026-04-29",
+      "theories": [
+        "Supreme Court dismantling voting rights protections",
+        "WHCD shooting narrative actively collapsing",
+        "Iran war costs breaking economy domestically",
+        "China rare earth leverage over Trump administration",
+        "Powell's Fed exit signals rate structure locked in",
+        "Executive branch weaponizing FCC against speech",
+        "All GOP justices dining with Trump ahead of cases",
+        "Epstein files investigation dodging, testimony forced",
+        "European institutional anxiety over US power",
+        "Insider trading via congressional stock purchases"
+      ],
+      "scores": {
+        "Supreme Court dismantling voting rights protections": 10,
+        "WHCD shooting narrative actively collapsing": 9,
+        "Iran war costs breaking economy domestically": 8,
+        "China rare earth leverage over Trump administration": 7,
+        "Powell's Fed exit signals rate structure locked in": 8,
+        "Executive branch weaponizing FCC against speech": 7,
+        "All GOP justices dining with Trump ahead of cases": 6,
+        "Epstein files investigation dodging, testimony forced": 6,
+        "European institutional anxiety over US power": 9,
+        "Insider trading via congressional stock purchases": 6
       }
     }
   ]
