@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-17",
-      "theories": [
-        "Pope Leo vs Trump War Intensifies",
-        "Hormuz Crisis Chaos and Confusion",
-        "Hungary Post-Orb\u00e1n Transformation Accelerating",
-        "Epstein Network Billion-Dollar Coverup",
-        "Kushner Saudi Corruption Probe Opens",
-        "Congressional Insider Trading Pattern Confirmed",
-        "Pentagon Industrial Mobilization Accelerating",
-        "DOJ Voter Roll Cases Collapsing",
-        "Tech Earnings Bubble $1.7T Illusion"
-      ],
-      "scores": {
-        "Pope Leo vs Trump War Intensifies": 10,
-        "Hormuz Crisis Chaos and Confusion": 10,
-        "Hungary Post-Orb\u00e1n Transformation Accelerating": 7,
-        "Epstein Network Billion-Dollar Coverup": 8,
-        "Kushner Saudi Corruption Probe Opens": 7,
-        "Congressional Insider Trading Pattern Confirmed": 7,
-        "Pentagon Industrial Mobilization Accelerating": 6,
-        "DOJ Voter Roll Cases Collapsing": 5,
-        "Tech Earnings Bubble $1.7T Illusion": 6
-      }
-    },
-    {
       "date": "2026-04-18",
       "theories": [
         "Hormuz Crisis Volatility Intensifies",
@@ -358,6 +333,33 @@
         "Epstein files investigation dodging, testimony forced": 6,
         "European institutional anxiety over US power": 9,
         "Insider trading via congressional stock purchases": 6
+      }
+    },
+    {
+      "date": "2026-04-30",
+      "theories": [
+        "Supreme Court gutted voting rights protections",
+        "Iran war costs breaking domestic economy",
+        "Powell staying on as Fed governor post-term",
+        "Congressional insider trading accelerating visibly",
+        "White House Correspondents' dinner narrative collapse",
+        "China rare earth monopoly leverage over Trump",
+        "Israel raids Gaza aid flotilla in international waters",
+        "Trump administration blocking Epstein files release",
+        "Trump administration disregarding Fed independence",
+        "Subsidy capture: Trump rewarding energy firms for climate reversal"
+      ],
+      "scores": {
+        "Supreme Court gutted voting rights protections": 9,
+        "Iran war costs breaking domestic economy": 10,
+        "Powell staying on as Fed governor post-term": 8,
+        "Congressional insider trading accelerating visibly": 6,
+        "White House Correspondents' dinner narrative collapse": 7,
+        "China rare earth monopoly leverage over Trump": 6,
+        "Israel raids Gaza aid flotilla in international waters": 6,
+        "Trump administration blocking Epstein files release": 7,
+        "Trump administration disregarding Fed independence": 7,
+        "Subsidy capture: Trump rewarding energy firms for climate reversal": 4
       }
     }
   ]
