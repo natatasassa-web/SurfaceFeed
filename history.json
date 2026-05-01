@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-18",
-      "theories": [
-        "Hormuz Crisis Volatility Intensifies",
-        "FBI Director Kash Patel Imploding",
-        "Pope Leo vs Trump Escalates",
-        "Kushner Saudi Probe Expands",
-        "Europe Fuel Crisis Looms",
-        "Congressional Insider Trading Documented",
-        "Pentagon Industrial Mobilization Accelerating",
-        "Hungary Post-Orb\u00e1n Transformation Confirmed",
-        "AI Danger Concerns Go Mainstream",
-        "Voting Machine Oversight Blocked"
-      ],
-      "scores": {
-        "Hormuz Crisis Volatility Intensifies": 10,
-        "FBI Director Kash Patel Imploding": 9,
-        "Pope Leo vs Trump Escalates": 8,
-        "Kushner Saudi Probe Expands": 8,
-        "Europe Fuel Crisis Looms": 6,
-        "Congressional Insider Trading Documented": 6,
-        "Pentagon Industrial Mobilization Accelerating": 6,
-        "Hungary Post-Orb\u00e1n Transformation Confirmed": 5,
-        "AI Danger Concerns Go Mainstream": 6,
-        "Voting Machine Oversight Blocked": 6
-      }
-    },
-    {
       "date": "2026-04-19",
       "theories": [
         "Congressional Insider Trading Scandal Explodes",
@@ -360,6 +333,35 @@
         "Trump administration blocking Epstein files release": 7,
         "Trump administration disregarding Fed independence": 7,
         "Subsidy capture: Trump rewarding energy firms for climate reversal": 4
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "theories": [
+        "Supreme Court weaponizes voting rights gutting",
+        "Iran war costs collapse domestic economy",
+        "Blatant Trump family corruption cascading",
+        "Congressional insider trading accelerating visibly",
+        "Fed independence under direct assault",
+        "Energy sector subsidy capture and climate reversal",
+        "Cost-of-living crisis triggering May Day unrest",
+        "White House Correspondents dinner shooter surfacing",
+        "Western payment systems losing global dominance",
+        "Corporate malfeasance toxifying brand institutions",
+        "UK terror threat level raised to severe"
+      ],
+      "scores": {
+        "Supreme Court weaponizes voting rights gutting": 9,
+        "Iran war costs collapse domestic economy": 9,
+        "Blatant Trump family corruption cascading": 10,
+        "Congressional insider trading accelerating visibly": 7,
+        "Fed independence under direct assault": 6,
+        "Energy sector subsidy capture and climate reversal": 6,
+        "Cost-of-living crisis triggering May Day unrest": 7,
+        "White House Correspondents dinner shooter surfacing": 7,
+        "Western payment systems losing global dominance": 7,
+        "Corporate malfeasance toxifying brand institutions": 8,
+        "UK terror threat level raised to severe": 4
       }
     }
   ]
