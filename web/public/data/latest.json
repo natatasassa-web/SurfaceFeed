@@ -1,116 +1,150 @@
 {
   "date": "2026-05-02",
-  "run_timestamp": "2026-05-02T16:23:52.086424+00:00",
+  "run_timestamp": "2026-05-02T16:49:22.013377+00:00",
   "total_posts_analyzed": 287,
-  "subreddits_active": 11,
+  "subreddits_active": 21,
   "theories": [
     {
-      "title": "Institutional collapse through weaponized legal/executive power",
-      "summary": "Supreme Court, judiciary, and Trump DOJ systematically dismantling democratic guardrails (voting rights, judicial independence, congressional authority). Federal judges ignoring lower court rulings, military lawyers prosecuting civilians, and Congress deferring to executive on war powers signal breakdown of checks-and-balances architecture itself.",
+      "title": "Institutional power defying judicial oversight",
+      "summary": "Trump administration openly flouting lower court rulings on immigration policy, military lawyers prosecuting civilians, and judicial nominees uncertain about constitutional limits on presidential power. Pattern shows executive branch asserting dominance over checks and balances through normalized insubordination.",
       "subreddits": [
         "law",
-        "quiverquantitative",
         "whitepeopletwitter",
-        "underreportednews"
+        "quiverquantitative"
       ],
       "cross_community_score": 4,
       "engagement_score": 5,
       "total_score": 9,
       "momentum": "surging",
-      "why_signal": "High-velocity legal posts (disbarment of Chief Justice Roberts, judicial nominees not understanding constitutional limits, War Powers Resolution defiance) hitting mainstream political and financial subreddits simultaneously\u2014signals systemic legitimacy crisis, not isolated scandal.",
+      "why_signal": "Escalation from yesterday's score of 9 \u2014 now showing concrete examples of defiance rather than just pattern observation; institutional norm collapse accelerating visibly.",
       "posts": [
         {
-          "title": "BREAKING: Disbarment Complaint Filed Against Chief Justice Roberts for Corruption",
-          "url": "https://www.reddit.com/r/law/comments/1t1784b/breaking_disbarment_complaint_filed_against_chief/",
-          "subreddit": "r/law",
-          "score": 29504
+          "title": "Trump flouts lower court rulings in unprecedented display of executive power",
+          "url": "https://www.reddit.com/r/law/comments/1t1qmse/trump_flouts_lower_court_rulings_in_unprecedented/",
+          "subreddit": "law",
+          "score": 1358
         },
         {
           "title": "Judicial nominees don't know if Trump can run for a 3rd term",
           "url": "https://www.reddit.com/r/law/comments/1t139jf/judicial_nominees_dont_know_if_trump_can_run_for/",
-          "subreddit": "r/law",
-          "score": 41816
+          "subreddit": "law",
+          "score": 41943
         },
         {
-          "title": "Trump flouts lower court rulings in unprecedented display of executive power",
-          "url": "https://www.reddit.com/r/law/comments/1t1qmse/trump_flouts_lower_court_rulings_in_unprecedented/",
-          "subreddit": "r/law",
-          "score": 1106
+          "title": "US Justice Department can use military lawyers to prosecute civilians, judge rules",
+          "url": "https://www.reddit.com/r/law/comments/1t1kl24/us_justice_department_can_use_military_lawyers_to/",
+          "subreddit": "law",
+          "score": 530
         }
       ]
     },
     {
-      "title": "Iran war costs domestic economy structural damage",
-      "summary": "$25 billion spent on Iran war while fertilizer shortages threaten 10 billion meals/week globally and homelessness remains unfunded domestically. Narrative claims war spending is crowding out infrastructure, food security, and basic welfare\u2014with global supply chain consequences appearing in real time.",
+      "title": "Voting rights gutting enables explicit suppression",
+      "summary": "Supreme Court ruled to limit Voting Rights Act; DOJ explicitly confirms targeting minority voters nationwide; Louisiana Republicans eliminated elected position before exoneree could take office. Pattern shows legal framework for racial voter suppression now normalized and enacted.",
       "subreddits": [
-        "quiverquantitative",
-        "prepperintel",
-        "wallstreetbets",
+        "law",
+        "whitepeopletwitter",
+        "outoftheloop",
         "underreportednews"
       ],
       "cross_community_score": 4,
       "engagement_score": 5,
       "total_score": 9,
       "momentum": "surging",
-      "why_signal": "Pentagon cost admission (1327 upvotes) paired with fertilizer crisis posts and May Day unrest trending together\u2014this is the supply-side pain of war spending becoming visible in commodity and labor markets.",
+      "why_signal": "Escalation from yesterday's score of 9 \u2014 ruling now being actively deployed through DOJ actions and state-level electoral manipulation in real time.",
       "posts": [
         {
-          "title": "Pentagon Says, Iran war has costed $25 billion so far. For context, $9.6 billion would end homelessness across America",
-          "url": "https://www.reddit.com/r/quiverquantitative/comments/1sz4s6a/pentagon_says_iran_war_has_costed_25_billion_so/",
-          "subreddit": "r/quiverquantitative",
-          "score": 1327
+          "title": "BREAKING: Disbarment Complaint Filed Against Chief Justice Roberts for Corruption",
+          "url": "https://www.reddit.com/r/law/comments/1t1784b/breaking_disbarment_complaint_filed_against_chief/",
+          "subreddit": "law",
+          "score": 29737
         },
         {
-          "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-          "url": "https://www.reddit.com/r/prepperintel/comments/1t14m9u/fertiliser_boss_says_war_puts_10_billion_meals_a/",
-          "subreddit": "r/prepperintel",
-          "score": 390
+          "title": "'Lines are going to change': Trump DOJ confirms it will target minority voters nationwide after Supreme Court ruling",
+          "url": "https://www.reddit.com/r/law/comments/1t1dn5j/lines_are_going_to_change_trump_doj_confirms_it/",
+          "subreddit": "law",
+          "score": 3542
         },
         {
-          "title": "Nationwide May Day protests launch as gas prices hit record highs",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1t10gp0/nationwide_may_day_protests_launch_as_gas_prices/",
-          "subreddit": "r/unusual_whales",
-          "score": 29
+          "title": "What's going on with the Supreme Court limiting the Voting Rights Act?",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1sz4emn/whats_going_on_with_the_supreme_court_limiting/",
+          "subreddit": "outoftheloop",
+          "score": 1628
         }
       ]
     },
     {
-      "title": "Congressional insider trading accelerating visibly",
-      "summary": "Multiple verified trades by senators and representatives showing 384% Intel gains (Tim Moore), 61% Micron gains (Fetterman)\u2014pattern suggests coordinated access to non-public information. Senate unanimously banned prediction market trading, implying trading on secret information is now standard enough to need emergency legislation.",
+      "title": "Iran war destroying domestic economy",
+      "summary": "Pentagon reports $25B spent on Iran war; war is disrupting global fertilizer supplies threatening 10 billion meals per week; ceasefire exploited to circumvent War Powers Resolution congressional authority. Massive resource hemorrhage while Congress defers to Trump rather than enforce constitutional war-declaring role.",
       "subreddits": [
         "quiverquantitative",
-        "wallstreetbets",
-        "unusual_whales"
+        "law",
+        "prepperintel",
+        "wallstreetbets"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 5,
+      "total_score": 9,
+      "momentum": "surging",
+      "why_signal": "Yesterday's score of 9 now has concrete food security impact data; fertilizer crisis creates cascade risk across global food chains; constitutional violation becoming operational reality.",
+      "posts": [
+        {
+          "title": "Pentagon Says, Iran war has costed $25 billion so far. For context, $9.6 billion would end homelessness across America",
+          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1t4s6a_pentagon_says_iran_war_has_costed_25_billion_so/",
+          "subreddit": "quiverquantitative",
+          "score": 1333
+        },
+        {
+          "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1t14m9u/fertiliser_boss_says_war_puts_10_billion_meals_a/",
+          "subreddit": "prepperintel",
+          "score": 391
+        },
+        {
+          "title": "Republicans say they will defer to Trump on Iran war despite arrival of 60-day deadline",
+          "url": "https://www.reddit.com/r/law/comments/1t0zumr/republicans_say_they_will_defer_to_trump_on_lran/",
+          "subreddit": "law",
+          "score": 2650
+        }
+      ]
+    },
+    {
+      "title": "Congressional insider trading accelerating openly",
+      "summary": "Senator Fetterman's Micron stock purchase up 61%; Representative Tim Moore's Intel position up 384%; Senate just banned trading on prediction markets (suspicious timing). Legislators mining advance knowledge while common restrictions barely enforced.",
+      "subreddits": [
+        "quiverquantitative",
+        "unusual_whales",
+        "law"
       ],
       "cross_community_score": 3,
       "engagement_score": 5,
       "total_score": 8,
       "momentum": "holding",
-      "why_signal": "Prediction market ban (1334 upvotes) + documented politician trades with absurd returns + Elizabeth Warren grilling Hegseth on insider trading = pattern recognition across financial communities that this is now openly happening.",
+      "why_signal": "Consistent with yesterday's score of 8; Senate ban appears to be damage control after pattern exposure; specific trade timings show knowledge advantage before market moves.",
       "posts": [
-        {
-          "title": "BREAKING: The Senate just unanimously banned Senators from trading on prediction markets, effective immediately",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1t04avs/breaking_the_senate_just_unanimously_banned/",
-          "subreddit": "r/unusual_whales",
-          "score": 1334
-        },
         {
           "title": "UPDATE: Senator John Fetterman filed a purchase of Micron stock earlier this month. It has now risen 61% since the trade.",
           "url": "https://www.reddit.com/r/quiverquantitative/comments/1sx79ia/update_senator_john_fetterman_filed_a_purchase_of/",
-          "subreddit": "r/quiverquantitative",
-          "score": 763
+          "subreddit": "quiverquantitative",
+          "score": 764
+        },
+        {
+          "title": "BREAKING: The Senate just unanimously banned Senators from trading on prediction markets, effective immediately",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1t04avs/breaking_the_senate_just_unanimously_banned/",
+          "subreddit": "unusual_whales",
+          "score": 1337
         },
         {
           "title": "Intel stock has now risen 384% since Representative Tim Moore's purchase in August",
           "url": "https://www.reddit.com/r/quiverquantitative/comments/1t32ax/intel_stock_has_now_risen_384_since/",
-          "subreddit": "r/quiverquantitative",
-          "score": 96
+          "subreddit": "quiverquantitative",
+          "score": 94
         }
       ]
     },
     {
       "title": "Billionaire capital flight from wealth-tax jurisdictions",
-      "summary": "$1 trillion in billionaire net worth fleeing California as wealth tax nears ballot. Narrative frames this as wealthy abandoning social contracts in real-time, with direct correlation to tax policy triggering migration.",
+      "summary": "Billionaires worth combined $1 trillion fleeing California as wealth tax ballot measure approaches; California tax initiative just crossed 1.5 million signature threshold. Massive wealth exodus response to imminent taxation, creating tax base erosion cascade.",
       "subreddits": [
         "unusual_whales",
         "underreportednews"
@@ -118,29 +152,29 @@
       "cross_community_score": 2,
       "engagement_score": 4,
       "total_score": 6,
-      "momentum": "emerging",
-      "why_signal": "Two separate posts on same day ($1T flight + 1.5M ballot signatures) suggests coordinated narrative push; financial subreddits treating wealth exit as economic signal worth tracking.",
+      "momentum": "holding",
+      "why_signal": "Same as yesterday's score of 6 but now ballot initiative has qualified for actual vote; capital flight no longer theoretical but directly responsive to specific policy proximity.",
       "posts": [
         {
-          "title": "Billionaires worth a combined $1 trillion have fled California as a wealth tax inches closer to the ballot",
+          "title": "Billionaires worth a combined $1 trillion have fled California as a wealth tax inches closer to the ballot, per Forbes",
           "url": "https://www.reddit.com/r/unusual_whales/comments/1t1a5cr/billionaires_worth_a_combined_1_trillion_have/",
-          "subreddit": "r/unusual_whales",
-          "score": 768
+          "subreddit": "unusual_whales",
+          "score": 772
         },
         {
           "title": "California billionaire tax gathers over 1.5 million signatures, enough to head to ballot",
           "url": "https://www.reddit.com/r/UnderReportedNews/comments/1t1tyxj/california_billionaire_tax_gathers_over_15/",
-          "subreddit": "r/underreportednews",
-          "score": 242
+          "subreddit": "underreportednews",
+          "score": 680
         }
       ]
     },
     {
-      "title": "Commercial aviation industry collapse cascade",
-      "summary": "Spirit Airlines shutting down after $500M government bailout falls apart. Narrative signals broader infrastructure fragility: major industries requiring emergency government rescue, bondholders blocking deals, systemic inability to sustain service sector.",
+      "title": "Commercial aviation collapse cascade accelerating",
+      "summary": "Spirit Airlines shutting down operations entirely; bailout deal fell apart; bondholders rejected Trump admin rescue package. Second major carrier unable to be saved by government intervention, signaling systemic solvency crisis in low-cost carrier segment.",
       "subreddits": [
-        "unusual_whales",
         "wallstreetbets",
+        "unusual_whales",
         "outoftheloop",
         "prepperintel"
       ],
@@ -148,191 +182,168 @@
       "engagement_score": 5,
       "total_score": 9,
       "momentum": "surging",
-      "why_signal": "Spirit collapse (5775 upvotes on WSB) paired with CBOE layoffs and broader employment questions suggests sector-wide distress, not isolated bankruptcy.",
+      "why_signal": "Yesterday's score of 9 now with concrete company shutdown; bailout failure shows even government rescue mechanisms are failing; creates precedent that bankruptcy is inevitable.",
       "posts": [
-        {
-          "title": "Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart",
-          "url": "https://www.reddit.com/r/wallstreetbets/comments/1t0wb25/spirit_airlines_prepares_to_shut_down_as_rescue/",
-          "subreddit": "r/wallstreetbets",
-          "score": 5775
-        },
         {
           "title": "Spirit Is Winding Down All Operations",
           "url": "https://www.reddit.com/r/wallstreetbets/comments/1t1hu8x/spirit_is_winding_down_all_operations/",
-          "subreddit": "r/wallstreetbets",
-          "score": 1610
+          "subreddit": "wallstreetbets",
+          "score": 1654
         },
         {
-          "title": "What's up with Spirit Airlines ceasing operations?",
-          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1t1sz9t/whats_up_with_spirit_airlines_ceasing_operations/",
-          "subreddit": "r/outoftheloop",
-          "score": 50
+          "title": "Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1t0wb25/spirit_airlines_prepares_to_shut_down_as_rescue/",
+          "subreddit": "wallstreetbets",
+          "score": 5788
+        },
+        {
+          "title": "Spirit Airlines is preparing to shut down after a $500 million government bailout fell apart, per WSJ",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1t10wja/spirit_airlines_is_preparing_to_shut_down_after_a/",
+          "subreddit": "unusual_whales",
+          "score": 420
         }
       ]
     },
     {
-      "title": "Trump family corruption pattern normalized openly",
-      "summary": "Posts cite blatant Trump administration corruption (TrumpIRA product launches, family business deals, Pete Hegseth insider trading allegations) without apparent legal consequence. Pattern suggests anti-corruption enforcement has collapsed.",
+      "title": "Trump administration corruption normalized publicly",
+      "summary": "Posts flagging Trump family corruption as unusually blatant; insider trading by appointees (Pete Hegseth); abuse of executive power becoming accepted practice. Pattern shows corruption no longer hidden or denied but integrated into governance narrative.",
       "subreddits": [
         "unusual_whales",
         "quiverquantitative",
-        "whitepeopletwitter",
         "law"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 4,
-      "total_score": 8,
-      "momentum": "holding",
-      "why_signal": "Multiple communities independently noting corruption escalation + specific financial product (TrumpIRA) suggests captured regulatory environment; not just political perception.",
-      "posts": [
-        {
-          "title": "Has corruption ever been so blatant as in the Trump family?",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1t0wszg/has_corruption_ever_been_so_blatant_as_in_the/",
-          "subreddit": "r/unusual_whales",
-          "score": 1044
-        },
-        {
-          "title": "JUST IN: Elizabeth Warren grills Pete Hegseth on alleged insider trading",
-          "url": "https://www.reddit.com/r/quiverquantitative/comments/1t06l8g/just_in_elizabeth_warren_grills_pete_hegseth_on/",
-          "subreddit": "r/quiverquantitative",
-          "score": 459
-        },
-        {
-          "title": "Trump signs executive order to expand retirement account access through TrumpIRA",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1t0a7a7/trump_signs_executive_order_to_expand_retirement/",
-          "subreddit": "r/unusual_whales",
-          "score": 184
-        }
-      ]
-    },
-    {
-      "title": "Voting rights gutting enables explicit voter suppression",
-      "summary": "Supreme Court ruling on Voting Rights Act combined with Trump DOJ announcing nationwide targeting of minority voters and Republican states eliminating minority electoral districts in real-time. Narrative: legal framework for racial disenfranchisement now established.",
-      "subreddits": [
-        "law",
-        "whitepeopletwitter",
-        "underreportednews",
-        "outoftheloop"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 5,
-      "total_score": 9,
-      "momentum": "surging",
-      "why_signal": "Supreme Court ruling (41,816 upvotes on judicial nominees), DOJ confirmation of voter targeting (3453 upvotes), and immediate implementation in South Carolina/Louisiana = pattern of institutional acceleration, not isolated cases.",
-      "posts": [
-        {
-          "title": "Judicial nominees don't know if Trump can run for a 3rd term",
-          "url": "https://www.reddit.com/r/law/comments/1t139jf/judicial_nominees_dont_know_if_trump_can_run_for/",
-          "subreddit": "r/law",
-          "score": 41816
-        },
-        {
-          "title": "'Lines are going to change': Trump DOJ confirms it will target minority voters nationwide after Supreme Court ruling",
-          "url": "https://www.reddit.com/r/law/comments/1t1dn5j/lines_are_going_to_change_trump_doj_confirms_it/",
-          "subreddit": "r/law",
-          "score": 3453
-        },
-        {
-          "title": "South Carolina GOP urges governor to call special session to eliminate only minority district",
-          "url": "https://www.reddit.com/r/law/comments/1t1dmdd/south_carolina_gop_urges_governor_to_call_special/",
-          "subreddit": "r/law",
-          "score": 654
-        }
-      ]
-    },
-    {
-      "title": "Global payment system sovereignty shift underway",
-      "summary": "U.S. sanctions overreach (especially Iran war) forcing European and other nations to abandon Visa/Mastercard. Narrative: American financial hegemony eroding as allies build alternative payment infrastructure to escape U.S. geopolitical weaponization.",
-      "subreddits": [
-        "quiverquantitative",
-        "europe",
-        "prepperintel"
-      ],
-      "cross_community_score": 3,
-      "engagement_score": 3,
-      "total_score": 6,
-      "momentum": "emerging",
-      "why_signal": "EU alternative to Starlink getting traction + payment system challenge to Visa/MC + U.S. troop withdrawal from Germany suggests coordinated European de-dollarization push.",
-      "posts": [
-        {
-          "title": "Is the US government the biggest threat to the business of Visa and Mastercard? Sanctions overreach by US is forcing European and other countries to ditch MA and V.",
-          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1t0pl49/is_the_us_government_the_biggest_threat_to_the/",
-          "subreddit": "r/quiverquantitative",
-          "score": 377
-        },
-        {
-          "title": "First non-EU countries join European alternative to Starlink",
-          "url": "https://www.reddit.com/r/europe/comments/1t1kq8u/first_noneu_countries_join_european_alternative/",
-          "subreddit": "r/europe",
-          "score": 716
-        },
-        {
-          "title": "US withdrawing 5,000 troops from Germany, US officials say",
-          "url": "https://www.reddit.com/r/europe/comments/1t17ghb/us_withdrawing_5000_troops_from_germany_us/",
-          "subreddit": "r/europe",
-          "score": 4216
-        }
-      ]
-    },
-    {
-      "title": "Cost-of-living crisis triggering visible labor unrest",
-      "summary": "May Day protests nationwide coinciding with record gas prices ($4.39+) and workers reporting inability to afford basic food/clothing. Narrative: inflation + wage stagnation reaching breaking point where structural protest emerges.",
-      "subreddits": [
-        "unusual_whales",
-        "underreportednews",
-        "prepperintel"
-      ],
-      "cross_community_score": 3,
-      "engagement_score": 3,
-      "total_score": 6,
-      "momentum": "holding",
-      "why_signal": "Coordinated May Day coverage across financial + labor-focused subreddits with gas price peaks signals this is measurable economic pain translating to political action.",
-      "posts": [
-        {
-          "title": "Nationwide May Day protests launch as gas prices hit record highs and striking workers tell reporters they can no longer afford basic clothes or food.",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1t10gp0/nationwide_may_day_protests_launch_as_gas_prices/",
-          "subreddit": "r/unusual_whales",
-          "score": 29
-        },
-        {
-          "title": "Thousands of workers around the world are rallying in the streets to celebrate May Day, calling for higher wages, better working conditions, and international peace",
-          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1t11lnu/thousands_of_workers_around_the_world_are/",
-          "subreddit": "r/underreportednews",
-          "score": 627
-        },
-        {
-          "title": "Starting the Month Off with ATH Gas Prices at $4.39 National Average",
-          "url": "https://www.reddit.com/r/unusual_whales/comments/1t0v5ry/starting_the_month_off_with_ath_gas_prices_at_439/",
-          "subreddit": "r/unusual_whales",
-          "score": 39
-        }
-      ]
-    },
-    {
-      "title": "White House Correspondents shooter triggers Trump crisis",
-      "summary": "Cole Allen Tomas identified as shooter with manifesto accusing Trump of pedophilia/treason. Trump's 60 Minutes meltdown when manifesto read aloud signals vulnerability to personal violence rhetoric weaponization; event treated as institutional security failure.",
-      "subreddits": [
-        "quiverquantitative",
-        "law",
-        "prepperintel"
       ],
       "cross_community_score": 3,
       "engagement_score": 4,
       "total_score": 7,
       "momentum": "holding",
-      "why_signal": "Shooter identification + Trump response video appearing simultaneously suggests narrative coalescing around vulnerability of political elite to radicalized violence; security implications noted across threat-aware subreddits.",
+      "why_signal": "Consistent with yesterday's score of 8 but no major escalation; normalization itself is the pattern \u2014 corruption treated as expected feature rather than scandal.",
       "posts": [
         {
-          "title": "Trump has a MEGA meltdown on 60 minutes after the interviewer reads in verbatim the manifesto from Cole Allen Tomas(WHC Dinner Shooter)",
-          "url": "https://www.reddit.com/r/quiverquantitative/comments/1sx36g2/trump_has_a_mega_meltdown_on_60_minutes_after_the/",
-          "subreddit": "r/quiverquantitative",
-          "score": 1137
+          "title": "Has corruption ever been so blatant as in the Trump family?",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1t0wszg/has_corruption_ever_been_so_blatant_as_in_the/",
+          "subreddit": "unusual_whales",
+          "score": 1049
         },
         {
-          "title": "White House Correspondents dinner shooter identified as Cole Tomas Allen.",
+          "title": "JUST IN: Elizabeth Warren grills Pete Hegseth on alleged insider trading",
+          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1t06l8g/just_in_elizabeth_warren_grills_pete_hegseth_on/",
+          "subreddit": "quiverquantitative",
+          "score": 460
+        }
+      ]
+    },
+    {
+      "title": "Cost-of-living crisis triggering visible labor unrest",
+      "summary": "May Day protests nationwide launching as gas prices hit record highs ($4.39 average); striking workers report inability to afford basic food and clothing; CEO pay soared 20x faster than workers' pay in 2025. Organized labor response to collapsing real wages.",
+      "subreddits": [
+        "unusual_whales",
+        "underreportednews",
+        "whitepeopletwitter"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 3,
+      "total_score": 6,
+      "momentum": "holding",
+      "why_signal": "Same as yesterday's score of 6; May Day protests are coordinated signal of labor organizing; gas prices at ATH suggests cost-of-living still accelerating despite policy statements.",
+      "posts": [
+        {
+          "title": "Nationwide May Day protests launch as gas prices hit record highs and striking workers tell reporters they can no longer afford basic clothes or food.",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1t10gp0/nationwide_may_day_protests_launch_as_gas_prices/",
+          "subreddit": "unusual_whales",
+          "score": 27
+        },
+        {
+          "title": "Starting the Month Off with ATH Gas Prices at $4.39 National Average",
+          "url": "https://www.reddit.com/r/unusual_whales/comments/1t0v5ry/starting_the_month_off_with_ath_gas_prices_at_439/",
+          "subreddit": "unusual_whales",
+          "score": 41
+        },
+        {
+          "title": "CEO pay soared in 2025, 20 times faster than workers' pay",
+          "url": "https://www.reddit.com/r/UnderReportedNews/comments/1t1bqrr/ceo_pay_soared_in_2025_20_times_faster_than/",
+          "subreddit": "underreportednews",
+          "score": 242
+        }
+      ]
+    },
+    {
+      "title": "White House Correspondents shooter triggers Trump crisis",
+      "summary": "Cole Thomas Allen shooter's manifesto explicitly cited Trump as 'pedophile, rapist, and traitor'; Trump had 'MEGA meltdown' on 60 Minutes when manifesto was read verbatim. Political violence escalating with explicit ideological targeting of sitting president.",
+      "subreddits": [
+        "quiverquantitative",
+        "law"
+      ],
+      "cross_community_score": 2,
+      "engagement_score": 4,
+      "total_score": 6,
+      "momentum": "holding",
+      "why_signal": "Same as yesterday's score of 7 but with slightly less engagement; manifesto content shows articulated grievance rather than random violence; president's visible distress is notable.",
+      "posts": [
+        {
+          "title": "Trump has a MEGA meltdown on 60 minutes after the interviewer reads in verbatim the manifesto from Cole Allen Tomas",
+          "url": "https://www.reddit.com/r/quiverquantitative/comments/1t3g2/trump_has_a_mega_meltdown_on_60_minutes_after_the/",
+          "subreddit": "quiverquantitative",
+          "score": 1144
+        },
+        {
+          "title": "White House Correspondents dinner shooter identified as Cole Tomas Allen",
           "url": "https://www.reddit.com/r/quiverquantitative/comments/1sw7abo/white_house_correspondents_dinner_shooter/",
-          "subreddit": "r/quiverquantitative",
-          "score": 727
+          "subreddit": "quiverquantitative",
+          "score": 720
+        }
+      ]
+    },
+    {
+      "title": "Global payment system sovereignty shift accelerating",
+      "summary": "US government sanctions overreach is forcing European and other countries to ditch Visa and Mastercard; sanction abuse threatens payment card company business models. De-dollarization and payment system diversification moving from theory to policy implementation.",
+      "subreddits": [
+        "quiverquantitative"
+      ],
+      "cross_community_score": 1,
+      "engagement_score": 4,
+      "total_score": 5,
+      "momentum": "emerging",
+      "why_signal": "Not in yesterday's feed; emerging discussion of sanctions as existential threat to USD-based payment infrastructure; European response shows systemic shift underway.",
+      "posts": [
+        {
+          "title": "Is the US government the biggest threat to the business of Visa and Mastercard? Sanctions overreach by US is forcing European and other countries to ditch MA and V.",
+          "url": "https://www.reddit.com/r/QuiverQuantitative/comments/1t0pl49/is_the_us_government_the_biggest_threat_to_the/",
+          "subreddit": "quiverquantitative",
+          "score": 460
+        }
+      ]
+    },
+    {
+      "title": "AI bubble infrastructure cracks under demand",
+      "summary": "OpenAI's token budget constraints forcing LLM companies to cut costs; ChatGPT obsessed with goblins/gremlins glitches; LLM token apocalypse as computing power runs out; Gen Z increasingly hates AI despite forced adoption. Underlying computational infrastructure failing under hype-driven demand.",
+      "subreddits": [
+        "technology",
+        "betteroffline",
+        "prepperintel"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 4,
+      "total_score": 7,
+      "momentum": "emerging",
+      "why_signal": "New narrative; infrastructure breaking down before economic model proven; user backlash despite corporate push suggests adoption hitting resistance; token scarcity is hard constraint.",
+      "posts": [
+        {
+          "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene",
+          "url": "https://www.reddit.com/r/technology/comments/1t1dz4e/chatgpt_became_so_obsessed_with_goblins_that/",
+          "subreddit": "technology",
+          "score": 9175
+        },
+        {
+          "title": "LLM token apocalypse",
+          "url": "https://www.reddit.com/r/PrepperIntel/comments/1syy78d/llm_token_apocalypse/",
+          "subreddit": "prepperintel",
+          "score": 678
+        },
+        {
+          "title": "The more young people use AI, the more they hate it",
+          "url": "https://www.reddit.com/r/BetterOffline/comments/1t0uf0a/the_more_young_people_use_ai_the_more_they_hate_it/",
+          "subreddit": "betteroffline",
+          "score": 192
         }
       ]
     }
