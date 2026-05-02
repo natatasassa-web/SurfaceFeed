@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-19",
-      "theories": [
-        "Congressional Insider Trading Scandal Explodes",
-        "FBI Director Patel Crisis Deepens",
-        "Iran-US Conflict Escalating Rapidly",
-        "Hungary's Post-Orb\u00e1n Transformation Accelerating",
-        "Europe Fuel Crisis Imminent",
-        "Israeli Soldier Jesus Statue Destruction",
-        "Trump Psychedelics Executive Order",
-        "Mass Shootings Media Blackout Pattern",
-        "Epstein Files Implicate Fed Nominee"
-      ],
-      "scores": {
-        "Congressional Insider Trading Scandal Explodes": 9,
-        "FBI Director Patel Crisis Deepens": 10,
-        "Iran-US Conflict Escalating Rapidly": 10,
-        "Hungary's Post-Orb\u00e1n Transformation Accelerating": 7,
-        "Europe Fuel Crisis Imminent": 6,
-        "Israeli Soldier Jesus Statue Destruction": 7,
-        "Trump Psychedelics Executive Order": 6,
-        "Mass Shootings Media Blackout Pattern": 7,
-        "Epstein Files Implicate Fed Nominee": 4
-      }
-    },
-    {
       "date": "2026-04-21",
       "theories": [
         "Insider Trading Scandal Reaches White House",
@@ -362,6 +337,33 @@
         "Western payment systems losing global dominance": 7,
         "Corporate malfeasance toxifying brand institutions": 8,
         "UK terror threat level raised to severe": 4
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "theories": [
+        "Institutional collapse through weaponized legal/executive power",
+        "Iran war costs domestic economy structural damage",
+        "Congressional insider trading accelerating visibly",
+        "Billionaire capital flight from wealth-tax jurisdictions",
+        "Commercial aviation industry collapse cascade",
+        "Trump family corruption pattern normalized openly",
+        "Voting rights gutting enables explicit voter suppression",
+        "Global payment system sovereignty shift underway",
+        "Cost-of-living crisis triggering visible labor unrest",
+        "White House Correspondents shooter triggers Trump crisis"
+      ],
+      "scores": {
+        "Institutional collapse through weaponized legal/executive power": 9,
+        "Iran war costs domestic economy structural damage": 9,
+        "Congressional insider trading accelerating visibly": 8,
+        "Billionaire capital flight from wealth-tax jurisdictions": 6,
+        "Commercial aviation industry collapse cascade": 9,
+        "Trump family corruption pattern normalized openly": 8,
+        "Voting rights gutting enables explicit voter suppression": 9,
+        "Global payment system sovereignty shift underway": 6,
+        "Cost-of-living crisis triggering visible labor unrest": 6,
+        "White House Correspondents shooter triggers Trump crisis": 7
       }
     }
   ]
