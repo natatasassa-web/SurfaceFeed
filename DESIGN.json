@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-05-02T00:00:00Z",
+  "title": "Design System: SurfaceFeed",
+  "extensions": {
+    "colorMeta": {
+      "morning-paper": {
+        "role": "neutral",
+        "displayName": "Morning Paper",
+        "canonical": "oklch(92% 0.008 85)",
+        "tonalRamp": ["oklch(14% 0.005 85)", "oklch(26% 0.006 85)", "oklch(38% 0.007 85)", "oklch(52% 0.007 85)", "oklch(65% 0.008 85)", "oklch(78% 0.008 85)", "oklch(88% 0.008 85)", "oklch(95% 0.005 85)"]
+      },
+      "ink": {
+        "role": "primary",
+        "displayName": "Ink",
+        "canonical": "oklch(13% 0.006 75)",
+        "tonalRamp": ["oklch(10% 0.004 75)", "oklch(20% 0.005 75)", "oklch(30% 0.006 75)", "oklch(40% 0.006 75)", "oklch(52% 0.007 75)", "oklch(65% 0.007 75)", "oklch(78% 0.006 75)", "oklch(90% 0.004 75)"]
+      },
+      "worn-type": {
+        "role": "neutral",
+        "displayName": "Worn Type",
+        "canonical": "oklch(62% 0.012 75)",
+        "tonalRamp": ["oklch(15% 0.009 75)", "oklch(25% 0.010 75)", "oklch(36% 0.011 75)", "oklch(47% 0.011 75)", "oklch(58% 0.012 75)", "oklch(68% 0.011 75)", "oklch(78% 0.009 75)", "oklch(89% 0.006 75)"]
+      },
+      "warm-rule": {
+        "role": "neutral",
+        "displayName": "Warm Rule",
+        "canonical": "oklch(83% 0.008 83)",
+        "tonalRamp": ["oklch(16% 0.006 83)", "oklch(28% 0.007 83)", "oklch(40% 0.007 83)", "oklch(53% 0.008 83)", "oklch(65% 0.008 83)", "oklch(76% 0.008 83)", "oklch(86% 0.007 83)", "oklch(94% 0.005 83)"]
+      },
+      "muted-secondary": {
+        "role": "neutral",
+        "displayName": "Muted Secondary",
+        "canonical": "oklch(42% 0.012 75)",
+        "tonalRamp": ["oklch(12% 0.008 75)", "oklch(22% 0.009 75)", "oklch(33% 0.010 75)", "oklch(43% 0.011 75)", "oklch(52% 0.011 75)", "oklch(62% 0.011 75)", "oklch(72% 0.009 75)", "oklch(83% 0.007 75)"]
+      },
+      "signal-surging": {
+        "role": "semantic",
+        "displayName": "Signal: Surging",
+        "canonical": "oklch(82% 0.12 88)",
+        "tonalRamp": ["oklch(20% 0.08 88)", "oklch(32% 0.10 88)", "oklch(44% 0.11 88)", "oklch(56% 0.12 88)", "oklch(67% 0.13 88)", "oklch(76% 0.13 88)", "oklch(84% 0.12 88)", "oklch(92% 0.08 88)"]
+      },
+      "signal-emerging": {
+        "role": "semantic",
+        "displayName": "Signal: Emerging",
+        "canonical": "oklch(83% 0.06 140)",
+        "tonalRamp": ["oklch(18% 0.04 140)", "oklch(30% 0.05 140)", "oklch(42% 0.06 140)", "oklch(54% 0.06 140)", "oklch(65% 0.06 140)", "oklch(74% 0.06 140)", "oklch(83% 0.05 140)", "oklch(92% 0.03 140)"]
+      },
+      "signal-holding": {
+        "role": "semantic",
+        "displayName": "Signal: Holding",
+        "canonical": "oklch(77% 0.04 220)",
+        "tonalRamp": ["oklch(18% 0.03 220)", "oklch(28% 0.04 220)", "oklch(40% 0.04 220)", "oklch(52% 0.04 220)", "oklch(63% 0.04 220)", "oklch(72% 0.04 220)", "oklch(80% 0.04 220)", "oklch(90% 0.02 220)"]
+      },
+      "signal-fading": {
+        "role": "semantic",
+        "displayName": "Signal: Fading",
+        "canonical": "oklch(67% 0.07 10)",
+        "tonalRamp": ["oklch(18% 0.05 10)", "oklch(28% 0.06 10)", "oklch(40% 0.07 10)", "oklch(52% 0.07 10)", "oklch(62% 0.07 10)", "oklch(70% 0.07 10)", "oklch(80% 0.06 10)", "oklch(91% 0.03 10)"]
+      },
+      "signal-isolated": {
+        "role": "semantic",
+        "displayName": "Signal: Isolated",
+        "canonical": "oklch(85% 0.005 80)",
+        "tonalRamp": ["oklch(15% 0.004 80)", "oklch(27% 0.005 80)", "oklch(39% 0.005 80)", "oklch(51% 0.005 80)", "oklch(63% 0.005 80)", "oklch(73% 0.005 80)", "oklch(83% 0.005 80)", "oklch(92% 0.004 80)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Wordmark only. Used once per view." },
+      "body": { "displayName": "Body", "purpose": "Theory summaries. Primary reading content." },
+      "label": { "displayName": "Label", "purpose": "Momentum badges. Uppercase, tracked." },
+      "mono": { "displayName": "Mono", "purpose": "Rank numbers and score metadata." }
+    },
+    "motion": [
+      { "name": "ease-standard", "value": "cubic-bezier(0.4, 0, 0.2, 1)", "purpose": "Default for state transitions (hover, focus)." },
+      { "name": "duration-fast", "value": "150ms", "purpose": "Color and opacity shifts on hover." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Theory Card — Isolated",
+      "kind": "card",
+      "refersTo": "theory-card",
+      "description": "Default card state. Low cross-community signal, single source.",
+      "html": "<div class=\"ds-theory-card\"><div class=\"ds-theory-card__top\"><span class=\"ds-theory-card__rank\">1</span><div class=\"ds-theory-card__meta\"><span class=\"ds-momentum-badge\">● isolated</span><span class=\"ds-theory-card__score\">score 5/10</span></div></div><h2 class=\"ds-theory-card__title\">Multiple communities notice the same pattern</h2><p class=\"ds-theory-card__summary\">A shared narrative is forming across unrelated subreddits — signal, not noise.</p><p class=\"ds-theory-card__why\">↳ Cross-community convergence with no coordination</p><div class=\"ds-tags\"><span class=\"ds-tag\">r/law</span><span class=\"ds-tag\">r/underreportednews</span></div></div>",
+      "css": ".ds-theory-card { border-radius: 16px; border: 1px solid #C4BEB4; background-color: #D8D2C8; padding: 20px; font-family: 'Geist Sans', system-ui, sans-serif; color: #1C1A17; } .ds-theory-card__top { display: flex; align-items: flex-start; gap: 12px; } .ds-theory-card__rank { color: rgba(28,26,23,0.3); font-size: 0.75rem; font-family: 'Geist Mono', monospace; padding-top: 2px; width: 20px; flex-shrink: 0; } .ds-theory-card__meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; } .ds-theory-card__score { font-size: 0.75rem; color: rgba(28,26,23,0.4); } .ds-theory-card__title { font-weight: 700; font-size: 1rem; line-height: 1.375; margin: 8px 0 0 32px; color: #1C1A17; } .ds-theory-card__summary { font-size: 1rem; line-height: 1.375; margin: 12px 0 0 32px; color: rgba(28,26,23,0.8); } .ds-theory-card__why { font-size: 0.75rem; font-style: italic; margin: 8px 0 0 32px; color: #6B6358; } .ds-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 0 32px; } .ds-tag { font-size: 0.75rem; padding: 2px 8px; border-radius: 9999px; border: 1px solid rgba(28,26,23,0.1); background-color: rgba(196,190,180,0.6); color: #4A4540; } .ds-momentum-badge { display: inline-flex; align-items: center; gap: 4px; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; padding: 2px 8px; border-radius: 9999px; background-color: #9E9589; color: white; }"
+    },
+    {
+      "name": "Theory Card — Surging",
+      "kind": "card",
+      "refersTo": "theory-card-surging",
+      "description": "Highest momentum state. Breaking signal, high cross-community convergence.",
+      "html": "<div class=\"ds-theory-card ds-theory-card--surging\"><div class=\"ds-theory-card__top\"><span class=\"ds-theory-card__rank\">1</span><div class=\"ds-theory-card__meta\"><span class=\"ds-momentum-badge ds-momentum-badge--surging\">⚡ surging</span><span class=\"ds-theory-card__score\">score 9/10</span></div></div><h2 class=\"ds-theory-card__title\">Signal is breaking fast across communities</h2><p class=\"ds-theory-card__summary\">Three unrelated subreddits are all independently arriving at the same conclusion today.</p><p class=\"ds-theory-card__why ds-theory-card__why--surging\">↳ Rapid cross-community convergence, no coordination found</p><div class=\"ds-tags\"><span class=\"ds-tag ds-tag--surging\">r/unusual_whales</span><span class=\"ds-tag ds-tag--surging\">r/law</span><span class=\"ds-tag ds-tag--surging\">r/prepperintel</span></div></div>",
+      "css": ".ds-theory-card { border-radius: 16px; border: 1px solid #C4BEB4; background-color: #D8D2C8; padding: 20px; font-family: 'Geist Sans', system-ui, sans-serif; color: #1C1A17; } .ds-theory-card--surging { background-color: #E8C96B; border-color: #D4B455; } .ds-theory-card__top { display: flex; align-items: flex-start; gap: 12px; } .ds-theory-card__rank { color: rgba(28,26,23,0.3); font-size: 0.75rem; font-family: 'Geist Mono', monospace; padding-top: 2px; width: 20px; flex-shrink: 0; } .ds-theory-card__meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; } .ds-theory-card__score { font-size: 0.75rem; color: rgba(28,26,23,0.4); } .ds-theory-card__title { font-weight: 700; font-size: 1rem; line-height: 1.375; margin: 8px 0 0 32px; color: #1C1A17; } .ds-theory-card__summary { font-size: 1rem; line-height: 1.375; margin: 12px 0 0 32px; color: rgba(28,26,23,0.8); } .ds-theory-card__why { font-size: 0.75rem; font-style: italic; margin: 8px 0 0 32px; color: #6B6358; } .ds-theory-card__why--surging { color: #7A6420; } .ds-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 0 32px; } .ds-tag { font-size: 0.75rem; padding: 2px 8px; border-radius: 9999px; border: 1px solid rgba(28,26,23,0.1); background-color: rgba(196,190,180,0.6); color: #4A4540; } .ds-tag--surging { background-color: rgba(212,180,85,0.4); color: #5C4A10; } .ds-momentum-badge { display: inline-flex; align-items: center; gap: 4px; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; padding: 2px 8px; border-radius: 9999px; background-color: #9E9589; color: white; } .ds-momentum-badge--surging { background-color: #C9A840; color: #1C1A17; }"
+    },
+    {
+      "name": "Post Link",
+      "kind": "custom",
+      "refersTo": null,
+      "description": "Expandable post thread link inside a TheoryCard. Opens in new tab.",
+      "html": "<a class=\"ds-post-link\" href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"ds-post-link__sub\">r/law</span><span class=\"ds-post-link__score\">↑1.2k</span><span class=\"ds-post-link__title\">Judge rules against emergency motion in high-profile case</span></a>",
+      "css": ".ds-post-link { display: block; font-size: 0.75rem; color: rgba(28,26,23,0.6); border: 1px solid rgba(28,26,23,0.1); border-radius: 12px; padding: 10px; background-color: rgba(255,255,255,0.3); text-decoration: none; transition: color 150ms cubic-bezier(0.4,0,0.2,1), border-color 150ms cubic-bezier(0.4,0,0.2,1), background-color 150ms cubic-bezier(0.4,0,0.2,1); } .ds-post-link:hover { color: #1C1A17; border-color: rgba(28,26,23,0.2); background-color: rgba(255,255,255,0.5); } .ds-post-link__sub { color: rgba(28,26,23,0.4); margin-right: 6px; } .ds-post-link__score { color: rgba(28,26,23,0.4); margin-right: 6px; }"
+    },
+    {
+      "name": "Score Bar",
+      "kind": "custom",
+      "refersTo": null,
+      "description": "5-dot bar using ▪ characters. Filled dots = full Ink; empty = 20% Ink. Two rows: cross-community and engagement.",
+      "html": "<div class=\"ds-scores\"><div class=\"ds-score-bar\"><span class=\"ds-score-bar__label\">cross-community</span><span class=\"ds-score-bar__dot ds-score-bar__dot--filled\">▪</span><span class=\"ds-score-bar__dot ds-score-bar__dot--filled\">▪</span><span class=\"ds-score-bar__dot ds-score-bar__dot--filled\">▪</span><span class=\"ds-score-bar__dot\">▪</span><span class=\"ds-score-bar__dot\">▪</span></div><div class=\"ds-score-bar\"><span class=\"ds-score-bar__label\">engagement</span><span class=\"ds-score-bar__dot ds-score-bar__dot--filled\">▪</span><span class=\"ds-score-bar__dot ds-score-bar__dot--filled\">▪</span><span class=\"ds-score-bar__dot\">▪</span><span class=\"ds-score-bar__dot\">▪</span><span class=\"ds-score-bar__dot\">▪</span></div></div>",
+      "css": ".ds-scores { display: flex; gap: 24px; margin-top: 12px; margin-left: 32px; } .ds-score-bar { display: flex; align-items: center; gap: 2px; font-size: 0.75rem; color: rgba(28,26,23,0.5); } .ds-score-bar__label { margin-right: 4px; } .ds-score-bar__dot--filled { color: #1C1A17; } .ds-score-bar__dot { color: rgba(28,26,23,0.2); }"
+    },
+    {
+      "name": "Header / Wordmark",
+      "kind": "nav",
+      "refersTo": null,
+      "description": "Top header with wordmark, tagline, date metadata, and momentum legend.",
+      "html": "<header class=\"ds-header\"><div class=\"ds-header__inner\"><div><h1 class=\"ds-wordmark\">Surface<span class=\"ds-wordmark__suffix\">Feed</span></h1><p class=\"ds-tagline\">What Reddit is cooking — across communities</p></div><div class=\"ds-header__meta\"><div class=\"ds-date\">Saturday, May 2, 2026</div><div class=\"ds-stats\">247 posts · 13 subreddits</div></div></div><div class=\"ds-header__legend\"><span class=\"ds-legend-item ds-legend-surging\"><span>⚡</span><span class=\"ds-legend-label\">surging</span></span><span class=\"ds-legend-item ds-legend-emerging\"><span>●</span><span class=\"ds-legend-label\">emerging</span></span><span class=\"ds-legend-item ds-legend-holding\"><span>●</span><span class=\"ds-legend-label\">holding</span></span><span class=\"ds-legend-item ds-legend-fading\"><span>●</span><span class=\"ds-legend-label\">fading</span></span><span class=\"ds-legend-item ds-legend-isolated\"><span>●</span><span class=\"ds-legend-label\">isolated</span></span></div></header>",
+      "css": ".ds-header { border-bottom: 1px solid #D4CFC6; margin-bottom: 32px; font-family: 'Geist Sans', system-ui, sans-serif; } .ds-header__inner { max-width: 768px; margin: 0 auto; padding: 32px 16px 0; display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; } .ds-wordmark { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.025em; color: #1C1A17; } .ds-wordmark__suffix { color: #6B6358; } .ds-tagline { font-size: 0.875rem; color: #9E9589; margin-top: 4px; } .ds-header__meta { text-align: right; font-size: 0.875rem; color: #9E9589; } .ds-date { color: #1C1A17; font-weight: 500; } .ds-stats { font-size: 0.75rem; margin-top: 4px; } .ds-header__legend { max-width: 768px; margin: 0 auto; padding: 20px 16px 24px; display: flex; gap: 20px; flex-wrap: wrap; } .ds-legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.75rem; } .ds-legend-label { color: #6B6358; } .ds-legend-surging { color: #C9A840; } .ds-legend-emerging { color: #5C8A4A; } .ds-legend-holding { color: #4A7A90; } .ds-legend-fading { color: #B07880; } .ds-legend-isolated { color: #9E9589; }"
+    },
+    {
+      "name": "Button — Primary",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary action button. Not currently in the dashboard; defined for future landing page and sharing flows.",
+      "html": "<button class=\"ds-btn-primary\">View signal</button>",
+      "css": ".ds-btn-primary { background-color: #1C1A17; color: #E9E5DC; border: none; border-radius: 6px; padding: 10px 20px; font-family: 'Geist Sans', system-ui, sans-serif; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; cursor: pointer; transition: background-color 150ms cubic-bezier(0.4,0,0.2,1), transform 150ms cubic-bezier(0.4,0,0.2,1); } .ds-btn-primary:hover { background-color: #2C2A27; transform: translateY(-1px); } .ds-btn-primary:active { transform: translateY(0); } .ds-btn-primary:focus-visible { outline: 2px solid #1C1A17; outline-offset: 3px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Signal Room",
+    "overview": "SurfaceFeed is a room you enter every morning to find what matters. It is not a feed — it is a filtered dispatch. The name says it: surface, then feed. The design follows that logic. Everything that is not signal is invisible. Everything that is signal has weight.\n\nThe palette is warm parchment — Morning Paper, Ink, Worn Type. Not clinical white, not aggressive dark. The material reference is the printed page: considered, legible, made with care. Momentum colors (surging gold, emerging green, holding blue, fading rose, isolated grey) are the only saturated elements; their restraint as a percentage of the surface makes them meaningful when they appear.\n\nTypography is quiet and confident. Geist Sans carries the hierarchy; Geist Mono handles metadata (ranks, scores) as a secondary material. Spacing is generous. Components are tactile and considered: rounded enough to feel warm, structured enough to hold information. No shadows — surfaces are flat, distinction comes from tonal shifts and border weight.",
+    "keyCharacteristics": [
+      "Warm parchment base with flat tonal surfaces",
+      "Momentum color system as the primary semantic layer",
+      "Generous spacing with deliberate rhythm",
+      "Subtle retro sensibility: print textures, not nostalgia",
+      "No shadows — elevation through tone, not depth"
+    ],
+    "rules": [
+      { "name": "The Momentum Monopoly Rule", "body": "Momentum colors are the only saturated elements in the interface. They appear exclusively on TheoryCards as background tints. Their rarity is their meaning — diluting them to decorative use destroys the signal system.", "section": "colors" },
+      { "name": "The Warm Neutral Rule", "body": "Every neutral is warm, not cool. Never introduce a grey with blue or green cast. The palette reads as parchment and print, not screen and glass.", "section": "colors" },
+      { "name": "The Two-Face Rule", "body": "Geist Sans handles editorial content; Geist Mono handles data. Never use mono for prose, never use sans for rank numbers or scores. The material distinction is functional.", "section": "typography" },
+      { "name": "The Flat Surface Rule", "body": "If you are considering adding a box-shadow, the answer is no. Reconsider the tonal hierarchy instead.", "section": "elevation" },
+      { "name": "The Indent Rule", "body": "All card body content (title, summary, signal reason, tags, scores) is offset 32px from the left edge — visually aligning with the content, not the rank number. The rank number is a margin annotation, not a column.", "section": "components" }
+    ],
+    "dos": [
+      "Do use Morning Paper (#E9E5DC) as the page background. All light surfaces should be this warm parchment, never pure white or cool grey.",
+      "Do give cards and text room to breathe. Padding at 20px inside cards, 32px at the page header, 16px gap between cards.",
+      "Do use momentum colors only in their assigned semantic context — TheoryCard backgrounds and their derived badge/tag colors.",
+      "Do use Geist Mono exclusively for rank numbers and score metadata.",
+      "Do keep the Surface + Feed wordmark split: Ink for Surface, Muted Secondary for Feed.",
+      "Do distinguish momentum states through color, icon, and label simultaneously — never by color alone.",
+      "Do use the ▪ score bar convention for quantitative values."
+    ],
+    "donts": [
+      "Don't add shadows. No box-shadow, no drop-shadow. This system is flat by design.",
+      "Don't use momentum colors decoratively or outside of TheoryCard state assignment.",
+      "Don't make this look like amie.so: no featureless flat UI with no personality, no interaction affordance, no considered hierarchy.",
+      "Don't make this look like usedropshot.com: no dark mode, no heavy backgrounds, no aggressive color weight.",
+      "Don't use pure black (#000) or pure white (#fff). All surfaces and text are warm-tinted.",
+      "Don't introduce gradients. No background-clip text, no gradient backgrounds, no glassmorphism.",
+      "Don't use border-left accent stripes on cards or list items.",
+      "Don't nest cards. The TheoryCard is the container — post links inside are link items, not nested cards.",
+      "Don't make buttons pill-shaped. The 6px radius is the correct register."
+    ]
+  }
+}
