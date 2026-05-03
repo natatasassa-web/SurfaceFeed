@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-22",
-      "theories": [
-        "Epstein-Linked Fed Nominee Under Fire",
-        "Virginia Redistricting Shifts National Power",
-        "Pre-Tweet Insider Trading Confirmed",
-        "Iran Ceasefire Collapse Imminent",
-        "Kash Patel Legal Implosion Accelerates",
-        "Trump Crypto Venture Fraud Collapse",
-        "Missing Scientists Now National Security",
-        "EU Hardens Stance Post-Orb\u00e1n",
-        "Palantir Dark Enlightenment Ideology Exposed"
-      ],
-      "scores": {
-        "Epstein-Linked Fed Nominee Under Fire": 9,
-        "Virginia Redistricting Shifts National Power": 10,
-        "Pre-Tweet Insider Trading Confirmed": 7,
-        "Iran Ceasefire Collapse Imminent": 9,
-        "Kash Patel Legal Implosion Accelerates": 7,
-        "Trump Crypto Venture Fraud Collapse": 7,
-        "Missing Scientists Now National Security": 6,
-        "EU Hardens Stance Post-Orb\u00e1n": 6,
-        "Palantir Dark Enlightenment Ideology Exposed": 6
-      }
-    },
-    {
       "date": "2026-04-23",
       "theories": [
         "Maxwell USB Pardon Deal Emerging",
@@ -368,6 +343,33 @@
         "White House Correspondents shooter triggers Trump crisis": 6,
         "Global payment system sovereignty shift accelerating": 5,
         "AI bubble infrastructure cracks under demand": 7
+      }
+    },
+    {
+      "date": "2026-05-03",
+      "theories": [
+        "Congressional insider trading openly normalized",
+        "Supreme Court gutting voting rights enables suppression",
+        "Iran war destroying domestic economy visibly",
+        "Trump administration openly defying federal courts",
+        "Billionaire capital flight from wealth-tax jurisdictions",
+        "Commercial aviation collapse cascade accelerating",
+        "Wealth concentration at historic extreme levels",
+        "US sanctions policy backfiring internationally",
+        "MAGA movement exposed as plunder mechanism",
+        "White House proximity to human trafficking networks"
+      ],
+      "scores": {
+        "Congressional insider trading openly normalized": 9,
+        "Supreme Court gutting voting rights enables suppression": 9,
+        "Iran war destroying domestic economy visibly": 9,
+        "Trump administration openly defying federal courts": 8,
+        "Billionaire capital flight from wealth-tax jurisdictions": 7,
+        "Commercial aviation collapse cascade accelerating": 9,
+        "Wealth concentration at historic extreme levels": 8,
+        "US sanctions policy backfiring internationally": 8,
+        "MAGA movement exposed as plunder mechanism": 7,
+        "White House proximity to human trafficking networks": 7
       }
     }
   ]
