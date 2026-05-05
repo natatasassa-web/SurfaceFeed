@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-24",
-      "theories": [
-        "SPLC Indictment Confirms Fascist DOJ Alignment",
-        "Trump Family Pentagon Contract Corruption",
-        "Iran Ceasefire Collapse Imminent",
-        "Polymarket Insider Trading Scandal Expands",
-        "US Food System Crisis Accelerating",
-        "EU-NATO Fracturing Over US Actions",
-        "Warsh-Epstein Financial Ties Scrutinized",
-        "Musk SpaceX-Tesla Self-Dealing Confirmed",
-        "Citizens United Challenge Gains Traction"
-      ],
-      "scores": {
-        "SPLC Indictment Confirms Fascist DOJ Alignment": 10,
-        "Trump Family Pentagon Contract Corruption": 9,
-        "Iran Ceasefire Collapse Imminent": 9,
-        "Polymarket Insider Trading Scandal Expands": 8,
-        "US Food System Crisis Accelerating": 8,
-        "EU-NATO Fracturing Over US Actions": 8,
-        "Warsh-Epstein Financial Ties Scrutinized": 7,
-        "Musk SpaceX-Tesla Self-Dealing Confirmed": 5,
-        "Citizens United Challenge Gains Traction": 6
-      }
-    },
-    {
       "date": "2025-04-25",
       "theories": [
         "Trump Family Corruption Goes Mainstream",
@@ -370,6 +345,33 @@
         "Inflation weaponized against working class": 7,
         "Media coverage of executive health collapses": 5,
         "Young people economically unmoored permanently": 4
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "theories": [
+        "Executive power openly defying courts and law",
+        "Geopolitical crisis driving economic collapse visibly",
+        "Wealth oligarchy openly self-dealing and looting",
+        "Permanent economic exclusion of young generations",
+        "Billionaire wealth consolidation via mass acquisition plays",
+        "Techno-surveillance state rapidly normalizing",
+        "Celebrity/cultural rejection of billionaire power",
+        "Trump administration openly threatening military expansionism",
+        "Inflation deliberately weaponized against poor",
+        "Supply chains and infrastructure systematically failing"
+      ],
+      "scores": {
+        "Executive power openly defying courts and law": 9,
+        "Geopolitical crisis driving economic collapse visibly": 9,
+        "Wealth oligarchy openly self-dealing and looting": 8,
+        "Permanent economic exclusion of young generations": 7,
+        "Billionaire wealth consolidation via mass acquisition plays": 7,
+        "Techno-surveillance state rapidly normalizing": 7,
+        "Celebrity/cultural rejection of billionaire power": 8,
+        "Trump administration openly threatening military expansionism": 7,
+        "Inflation deliberately weaponized against poor": 6,
+        "Supply chains and infrastructure systematically failing": 6
       }
     }
   ]
