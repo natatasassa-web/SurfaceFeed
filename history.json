@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2025-04-25",
-      "theories": [
-        "Trump Family Corruption Goes Mainstream",
-        "Citizens United Challenge Gains Real Traction",
-        "EU-US Alliance Actively Fracturing",
-        "Polymarket Insider Trading Scandal Deepens",
-        "US Food/Agriculture Crisis Accelerating",
-        "Palantir Emerges As Surveillance Villain",
-        "DOJ Weaponization Continues Expanding",
-        "Iran Ceasefire Collapse Still Imminent",
-        "Scientists Dying/Disappearing Investigation",
-        "Democrats Planning Day-One Impeachment"
-      ],
-      "scores": {
-        "Trump Family Corruption Goes Mainstream": 10,
-        "Citizens United Challenge Gains Real Traction": 7,
-        "EU-US Alliance Actively Fracturing": 9,
-        "Polymarket Insider Trading Scandal Deepens": 8,
-        "US Food/Agriculture Crisis Accelerating": 7,
-        "Palantir Emerges As Surveillance Villain": 8,
-        "DOJ Weaponization Continues Expanding": 8,
-        "Iran Ceasefire Collapse Still Imminent": 7,
-        "Scientists Dying/Disappearing Investigation": 5,
-        "Democrats Planning Day-One Impeachment": 7
-      }
-    },
-    {
       "date": "2025-04-26",
       "theories": [
         "WHCD Shooting False Flag Theories Explode",
@@ -372,6 +345,33 @@
         "Trump administration openly threatening military expansionism": 7,
         "Inflation deliberately weaponized against poor": 6,
         "Supply chains and infrastructure systematically failing": 6
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "theories": [
+        "Executive power openly ignoring courts, defying law",
+        "Young adults permanently locked out of housing market",
+        "Geopolitical crisis forcing physical supply chain collapse",
+        "AI training via mass copyright theft now openly admitted",
+        "Massive energy grab by AI datacenter oligopoly",
+        "Election integrity being systematically dismantled",
+        "Military expansionism openly announced without opposition",
+        "Insider trading and Congress self-dealing becoming visible norm",
+        "US credibility collapsing with allies and markets",
+        "Consumer economy running on debt, collapse imminent"
+      ],
+      "scores": {
+        "Executive power openly ignoring courts, defying law": 9,
+        "Young adults permanently locked out of housing market": 8,
+        "Geopolitical crisis forcing physical supply chain collapse": 8,
+        "AI training via mass copyright theft now openly admitted": 8,
+        "Massive energy grab by AI datacenter oligopoly": 8,
+        "Election integrity being systematically dismantled": 7,
+        "Military expansionism openly announced without opposition": 6,
+        "Insider trading and Congress self-dealing becoming visible norm": 7,
+        "US credibility collapsing with allies and markets": 7,
+        "Consumer economy running on debt, collapse imminent": 7
       }
     }
   ]
