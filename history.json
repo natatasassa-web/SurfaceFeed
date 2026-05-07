@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2025-04-26",
-      "theories": [
-        "WHCD Shooting False Flag Theories Explode",
-        "Trump Family Corruption Goes Mainstream",
-        "US Food Crisis Signals Intensify",
-        "Mandatory Vehicle Surveillance By 2027",
-        "Israel Solar Panel Destruction Pattern",
-        "Palantir Surveillance Scandal Spreads UK",
-        "Orb\u00e1n Oligarchs Fleeing Hungary",
-        "Scientists Dying Investigation Grows",
-        "Navy Food Crisis Signals Dysfunction"
-      ],
-      "scores": {
-        "WHCD Shooting False Flag Theories Explode": 10,
-        "Trump Family Corruption Goes Mainstream": 7,
-        "US Food Crisis Signals Intensify": 8,
-        "Mandatory Vehicle Surveillance By 2027": 7,
-        "Israel Solar Panel Destruction Pattern": 7,
-        "Palantir Surveillance Scandal Spreads UK": 5,
-        "Orb\u00e1n Oligarchs Fleeing Hungary": 5,
-        "Scientists Dying Investigation Grows": 5,
-        "Navy Food Crisis Signals Dysfunction": 5
-      }
-    },
-    {
       "date": "2026-04-27",
       "theories": [
         "WHCD Shooting False Flag Narrative Explodes",
@@ -372,6 +347,33 @@
         "Insider trading and Congress self-dealing becoming visible norm": 7,
         "US credibility collapsing with allies and markets": 7,
         "Consumer economy running on debt, collapse imminent": 7
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "theories": [
+        "Insider trading & pre-announcement shorts openly visible",
+        "Military command structure disintegrating under leadership",
+        "Young adults permanently excluded from housing ownership",
+        "Executive branch openly defying courts and law",
+        "Supreme Court being used to dismantle voting rights",
+        "Hantavirus outbreak spreading globally via cruise ships",
+        "AI datacenters bypassing local democracy via construction",
+        "Consumer economy running entirely on unsustainable debt",
+        "Geopolitical alliances fracturing; US reliability collapsing",
+        "Public legal files/evidence being weaponized via spectacle"
+      ],
+      "scores": {
+        "Insider trading & pre-announcement shorts openly visible": 8,
+        "Military command structure disintegrating under leadership": 6,
+        "Young adults permanently excluded from housing ownership": 7,
+        "Executive branch openly defying courts and law": 8,
+        "Supreme Court being used to dismantle voting rights": 6,
+        "Hantavirus outbreak spreading globally via cruise ships": 8,
+        "AI datacenters bypassing local democracy via construction": 7,
+        "Consumer economy running entirely on unsustainable debt": 7,
+        "Geopolitical alliances fracturing; US reliability collapsing": 7,
+        "Public legal files/evidence being weaponized via spectacle": 7
       }
     }
   ]
