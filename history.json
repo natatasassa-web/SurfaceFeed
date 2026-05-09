@@ -3,31 +3,6 @@
     {
       "date": "2026-04-27",
       "theories": [
-        "WHCD Shooting False Flag Narrative Intensifies",
-        "Shooting Exploited for Ballroom Construction",
-        "MAGA Coordination Infrastructure Revealed",
-        "US Food/Agriculture Crisis Accelerating",
-        "Trump Family Corruption Goes Mainstream",
-        "Gerrymandering Blitz Across Multiple States",
-        "Strait of Hormuz Crisis Developing",
-        "Germany Lithium Discovery Strategic Shift",
-        "Immigration Weaponized Against Speech"
-      ],
-      "scores": {
-        "WHCD Shooting False Flag Narrative Intensifies": 10,
-        "Shooting Exploited for Ballroom Construction": 9,
-        "MAGA Coordination Infrastructure Revealed": 8,
-        "US Food/Agriculture Crisis Accelerating": 7,
-        "Trump Family Corruption Goes Mainstream": 7,
-        "Gerrymandering Blitz Across Multiple States": 7,
-        "Strait of Hormuz Crisis Developing": 5,
-        "Germany Lithium Discovery Strategic Shift": 6,
-        "Immigration Weaponized Against Speech": 6
-      }
-    },
-    {
-      "date": "2026-04-27",
-      "theories": [
         "WHCD Shooting exploited for ballroom construction",
         "WHCD shooting was false flag or staged",
         "MAGA infrastructure is 'fake, staged, coordinated'",
@@ -376,6 +351,35 @@
         "AI datacenter expansion overwhelming local infrastructure": 7,
         "Epstein evidence unsealing and political interference": 6,
         "Economic reality diverging from official messaging": 8
+      }
+    },
+    {
+      "date": "2026-05-09",
+      "theories": [
+        "Supreme Court systematically dismantling voting rights",
+        "Pentagon leadership collapse under current defense secretary",
+        "Oil markets manipulated around geopolitical conflict timing",
+        "Executive branch openly defying federal court authority",
+        "Tech sector widespread layoffs + AI efficiency narrative failing",
+        "Economic data diverging from official messaging on wages/jobs",
+        "Food assistance removal targeting vulnerable populations explicitly",
+        "Hantavirus cruise outbreak spreading across multiple nations",
+        "MAGA movement displays cult-like religious iconography openly",
+        "Data centers straining power grids toward infrastructure collapse",
+        "Global realignment away from US alliance structures"
+      ],
+      "scores": {
+        "Supreme Court systematically dismantling voting rights": 9,
+        "Pentagon leadership collapse under current defense secretary": 8,
+        "Oil markets manipulated around geopolitical conflict timing": 7,
+        "Executive branch openly defying federal court authority": 7,
+        "Tech sector widespread layoffs + AI efficiency narrative failing": 8,
+        "Economic data diverging from official messaging on wages/jobs": 7,
+        "Food assistance removal targeting vulnerable populations explicitly": 6,
+        "Hantavirus cruise outbreak spreading across multiple nations": 7,
+        "MAGA movement displays cult-like religious iconography openly": 8,
+        "Data centers straining power grids toward infrastructure collapse": 8,
+        "Global realignment away from US alliance structures": 7
       }
     }
   ]
