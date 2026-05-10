@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-27",
-      "theories": [
-        "WHCD Shooting exploited for ballroom construction",
-        "WHCD shooting was false flag or staged",
-        "MAGA infrastructure is 'fake, staged, coordinated'",
-        "Trump admission suggests guilt on assault claims",
-        "Trump family corruption goes mainstream political attack",
-        "Gerrymandering blitz expanding with court approval",
-        "Unemployment data broken, mass layoffs accelerating",
-        "RFK Jr misquoting/manipulating price data in hearings",
-        "Strait of Hormuz effectively closed, energy crisis brewing",
-        "Political speech now disqualifies immigrants from green cards"
-      ],
-      "scores": {
-        "WHCD Shooting exploited for ballroom construction": 10,
-        "WHCD shooting was false flag or staged": 10,
-        "MAGA infrastructure is 'fake, staged, coordinated'": 7,
-        "Trump admission suggests guilt on assault claims": 10,
-        "Trump family corruption goes mainstream political attack": 9,
-        "Gerrymandering blitz expanding with court approval": 8,
-        "Unemployment data broken, mass layoffs accelerating": 7,
-        "RFK Jr misquoting/manipulating price data in hearings": 8,
-        "Strait of Hormuz effectively closed, energy crisis brewing": 6,
-        "Political speech now disqualifies immigrants from green cards": 7
-      }
-    },
-    {
       "date": "2026-04-28",
       "theories": [
         "Ballroom exploited post-shooting for construction",
@@ -380,6 +353,35 @@
         "MAGA movement displays cult-like religious iconography openly": 8,
         "Data centers straining power grids toward infrastructure collapse": 8,
         "Global realignment away from US alliance structures": 7
+      }
+    },
+    {
+      "date": "2026-05-10",
+      "theories": [
+        "Data centers destroying power grids, water",
+        "Military draining domestic oil, gas prices",
+        "SCOTUS gutting voting rights via data manipulation",
+        "MAGA religious cult iconography openly displayed",
+        "Congressional insider trading tied to geopolitics",
+        "Food destruction while Americans face starvation",
+        "Trump administration weaponizing DOJ against opponents",
+        "European realignment away from US alliance",
+        "NASDAQ bubble 2000-level valuation extremes",
+        "Hantavirus cruise outbreak spreading uncontained",
+        "Trump ventures collapsing with insider fraud patterns"
+      ],
+      "scores": {
+        "Data centers destroying power grids, water": 9,
+        "Military draining domestic oil, gas prices": 8,
+        "SCOTUS gutting voting rights via data manipulation": 8,
+        "MAGA religious cult iconography openly displayed": 9,
+        "Congressional insider trading tied to geopolitics": 7,
+        "Food destruction while Americans face starvation": 7,
+        "Trump administration weaponizing DOJ against opponents": 5,
+        "European realignment away from US alliance": 7,
+        "NASDAQ bubble 2000-level valuation extremes": 7,
+        "Hantavirus cruise outbreak spreading uncontained": 7,
+        "Trump ventures collapsing with insider fraud patterns": 7
       }
     }
   ]
