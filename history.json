@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-29",
-      "theories": [
-        "Supreme Court dismantling voting rights protections",
-        "WHCD shooting narrative actively collapsing",
-        "Iran war costs breaking economy domestically",
-        "China rare earth leverage over Trump administration",
-        "Powell's Fed exit signals rate structure locked in",
-        "Executive branch weaponizing FCC against speech",
-        "All GOP justices dining with Trump ahead of cases",
-        "Epstein files investigation dodging, testimony forced",
-        "European institutional anxiety over US power",
-        "Insider trading via congressional stock purchases"
-      ],
-      "scores": {
-        "Supreme Court dismantling voting rights protections": 10,
-        "WHCD shooting narrative actively collapsing": 9,
-        "Iran war costs breaking economy domestically": 8,
-        "China rare earth leverage over Trump administration": 7,
-        "Powell's Fed exit signals rate structure locked in": 8,
-        "Executive branch weaponizing FCC against speech": 7,
-        "All GOP justices dining with Trump ahead of cases": 6,
-        "Epstein files investigation dodging, testimony forced": 6,
-        "European institutional anxiety over US power": 9,
-        "Insider trading via congressional stock purchases": 6
-      }
-    },
-    {
       "date": "2026-04-30",
       "theories": [
         "Supreme Court gutted voting rights protections",
@@ -382,6 +355,33 @@
         "Hantavirus cruise outbreak spreading uncontained": 6,
         "Iran nuclear standoff escalating with rhetoric": 6,
         "European realignment away from US security": 5
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "theories": [
+        "Trump empire financial collapse accelerating",
+        "Congressional insiders trading energy amid escalation",
+        "Inflation outpacing wages while employment claims inflate",
+        "Election system integrity failing at multiple levels",
+        "Middle East escalation via proxy strikes intensifying",
+        "Tech giants losing control of data/surveillance systems",
+        "AI hype cycle collapsing into mass skepticism",
+        "Executive branch weaponizing federal apparatus against targets",
+        "European strategic autonomy decoupling from US security",
+        "Food supply chain stress signals pre-crisis conditions"
+      ],
+      "scores": {
+        "Trump empire financial collapse accelerating": 8,
+        "Congressional insiders trading energy amid escalation": 7,
+        "Inflation outpacing wages while employment claims inflate": 8,
+        "Election system integrity failing at multiple levels": 7,
+        "Middle East escalation via proxy strikes intensifying": 7,
+        "Tech giants losing control of data/surveillance systems": 9,
+        "AI hype cycle collapsing into mass skepticism": 8,
+        "Executive branch weaponizing federal apparatus against targets": 7,
+        "European strategic autonomy decoupling from US security": 6,
+        "Food supply chain stress signals pre-crisis conditions": 6
       }
     }
   ]
