@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-01",
-      "theories": [
-        "Supreme Court weaponizes voting rights gutting",
-        "Iran war costs collapse domestic economy",
-        "Blatant Trump family corruption cascading",
-        "Congressional insider trading accelerating visibly",
-        "Fed independence under direct assault",
-        "Energy sector subsidy capture and climate reversal",
-        "Cost-of-living crisis triggering May Day unrest",
-        "White House Correspondents dinner shooter surfacing",
-        "Western payment systems losing global dominance",
-        "Corporate malfeasance toxifying brand institutions",
-        "UK terror threat level raised to severe"
-      ],
-      "scores": {
-        "Supreme Court weaponizes voting rights gutting": 9,
-        "Iran war costs collapse domestic economy": 9,
-        "Blatant Trump family corruption cascading": 10,
-        "Congressional insider trading accelerating visibly": 7,
-        "Fed independence under direct assault": 6,
-        "Energy sector subsidy capture and climate reversal": 6,
-        "Cost-of-living crisis triggering May Day unrest": 7,
-        "White House Correspondents dinner shooter surfacing": 7,
-        "Western payment systems losing global dominance": 7,
-        "Corporate malfeasance toxifying brand institutions": 8,
-        "UK terror threat level raised to severe": 4
-      }
-    },
-    {
       "date": "2026-05-02",
       "theories": [
         "Institutional collapse through weaponized legal/executive power",
@@ -380,6 +351,33 @@
         "Supply chain stress signaling pre-crisis conditions": 5,
         "AI hype cycle collapsing into skepticism and dysfunction": 7,
         "Democratic political opposition being systematically dismantled": 6
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "theories": [
+        "AI data centers draining power grids catastrophically",
+        "Trump-Xi summit signals geopolitical leverage shift",
+        "Executive branch weaponizing Justice Dept against opposition",
+        "Congressional insiders trading on conflict escalation massively",
+        "Inflation and cost-of-living crisis intensifying despite rhetoric",
+        "Trump empire and media holdings financially collapsing",
+        "Institutional education systems unraveling due to AI cheating",
+        "Supply chain fragility and food crisis emerging from Strait disruption",
+        "Infectious disease outbreak spreading from cruise ship vectors",
+        "Europe's strategic independence from US tech accelerating"
+      ],
+      "scores": {
+        "AI data centers draining power grids catastrophically": 10,
+        "Trump-Xi summit signals geopolitical leverage shift": 10,
+        "Executive branch weaponizing Justice Dept against opposition": 9,
+        "Congressional insiders trading on conflict escalation massively": 8,
+        "Inflation and cost-of-living crisis intensifying despite rhetoric": 8,
+        "Trump empire and media holdings financially collapsing": 8,
+        "Institutional education systems unraveling due to AI cheating": 6,
+        "Supply chain fragility and food crisis emerging from Strait disruption": 7,
+        "Infectious disease outbreak spreading from cruise ship vectors": 6,
+        "Europe's strategic independence from US tech accelerating": 6
       }
     }
   ]
