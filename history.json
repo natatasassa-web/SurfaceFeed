@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-04",
-      "theories": [
-        "Congressional insider trading openly normalized",
-        "Iran war destroying economy visibly",
-        "Wealth concentration enables plunder mechanisms",
-        "Trump administration openly defying courts",
-        "GameStop CEO pivots to mega-acquisitions play",
-        "US sanctions policy backfiring internationally",
-        "Inflation weaponized against working class",
-        "Media coverage of executive health collapses",
-        "Young people economically unmoored permanently"
-      ],
-      "scores": {
-        "Congressional insider trading openly normalized": 9,
-        "Iran war destroying economy visibly": 10,
-        "Wealth concentration enables plunder mechanisms": 9,
-        "Trump administration openly defying courts": 7,
-        "GameStop CEO pivots to mega-acquisitions play": 8,
-        "US sanctions policy backfiring internationally": 8,
-        "Inflation weaponized against working class": 7,
-        "Media coverage of executive health collapses": 5,
-        "Young people economically unmoored permanently": 4
-      }
-    },
-    {
       "date": "2026-05-05",
       "theories": [
         "Executive power openly defying courts and law",
@@ -376,6 +351,31 @@
         "Infectious disease outbreak cascade: Ebola, Hantavirus, disease vectors": 6,
         "Trump using federal apparatus for personal construction vanity projects": 7,
         "Cabinet member financial conflicts ignored during confirmation": 6
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "theories": [
+        "Trump executing textbook insider trading pattern",
+        "Executive branch weaponizing DOJ for political patronage",
+        "Cascading system failures in AI-dependent infrastructure",
+        "Global energy crisis threatening economic collapse",
+        "Environmental/epidemiological cascade events materializing",
+        "US housing market bifurcation by age/wealth",
+        "European tech sovereignty accelerating away from US",
+        "Cabinet member conflicts ignored/normalized by Congress",
+        "Working Americans unable to meet basic needs"
+      ],
+      "scores": {
+        "Trump executing textbook insider trading pattern": 10,
+        "Executive branch weaponizing DOJ for political patronage": 10,
+        "Cascading system failures in AI-dependent infrastructure": 9,
+        "Global energy crisis threatening economic collapse": 9,
+        "Environmental/epidemiological cascade events materializing": 7,
+        "US housing market bifurcation by age/wealth": 6,
+        "European tech sovereignty accelerating away from US": 7,
+        "Cabinet member conflicts ignored/normalized by Congress": 7,
+        "Working Americans unable to meet basic needs": 8
       }
     }
   ]
