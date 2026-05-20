@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-05",
-      "theories": [
-        "Executive power openly defying courts and law",
-        "Geopolitical crisis driving economic collapse visibly",
-        "Wealth oligarchy openly self-dealing and looting",
-        "Permanent economic exclusion of young generations",
-        "Billionaire wealth consolidation via mass acquisition plays",
-        "Techno-surveillance state rapidly normalizing",
-        "Celebrity/cultural rejection of billionaire power",
-        "Trump administration openly threatening military expansionism",
-        "Inflation deliberately weaponized against poor",
-        "Supply chains and infrastructure systematically failing"
-      ],
-      "scores": {
-        "Executive power openly defying courts and law": 9,
-        "Geopolitical crisis driving economic collapse visibly": 9,
-        "Wealth oligarchy openly self-dealing and looting": 8,
-        "Permanent economic exclusion of young generations": 7,
-        "Billionaire wealth consolidation via mass acquisition plays": 7,
-        "Techno-surveillance state rapidly normalizing": 7,
-        "Celebrity/cultural rejection of billionaire power": 8,
-        "Trump administration openly threatening military expansionism": 7,
-        "Inflation deliberately weaponized against poor": 6,
-        "Supply chains and infrastructure systematically failing": 6
-      }
-    },
-    {
       "date": "2026-05-06",
       "theories": [
         "Executive power openly ignoring courts, defying law",
@@ -376,6 +349,33 @@
         "European tech sovereignty accelerating away from US": 7,
         "Cabinet member conflicts ignored/normalized by Congress": 7,
         "Working Americans unable to meet basic needs": 8
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "theories": [
+        "Trump executing textbook insider trading pattern",
+        "Executive branch weaponizing DOJ for political patronage",
+        "Political primary system captured by foreign influence",
+        "Stock market artificially inflated by megacap concentration",
+        "Gen Z mounting organized AI infrastructure backlash",
+        "Global energy crisis collapsing economic assumptions",
+        "Housing market bifurcation by generational wealth lock",
+        "European tech sovereignty acceleration from US decoupling",
+        "Multiple public safety institutions normalizing security theater",
+        "AI infrastructure investment economically inviable long-term"
+      ],
+      "scores": {
+        "Trump executing textbook insider trading pattern": 10,
+        "Executive branch weaponizing DOJ for political patronage": 10,
+        "Political primary system captured by foreign influence": 9,
+        "Stock market artificially inflated by megacap concentration": 8,
+        "Gen Z mounting organized AI infrastructure backlash": 9,
+        "Global energy crisis collapsing economic assumptions": 8,
+        "Housing market bifurcation by generational wealth lock": 6,
+        "European tech sovereignty acceleration from US decoupling": 6,
+        "Multiple public safety institutions normalizing security theater": 8,
+        "AI infrastructure investment economically inviable long-term": 7
       }
     }
   ]
