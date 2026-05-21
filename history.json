@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-06",
-      "theories": [
-        "Executive power openly ignoring courts, defying law",
-        "Young adults permanently locked out of housing market",
-        "Geopolitical crisis forcing physical supply chain collapse",
-        "AI training via mass copyright theft now openly admitted",
-        "Massive energy grab by AI datacenter oligopoly",
-        "Election integrity being systematically dismantled",
-        "Military expansionism openly announced without opposition",
-        "Insider trading and Congress self-dealing becoming visible norm",
-        "US credibility collapsing with allies and markets",
-        "Consumer economy running on debt, collapse imminent"
-      ],
-      "scores": {
-        "Executive power openly ignoring courts, defying law": 9,
-        "Young adults permanently locked out of housing market": 8,
-        "Geopolitical crisis forcing physical supply chain collapse": 8,
-        "AI training via mass copyright theft now openly admitted": 8,
-        "Massive energy grab by AI datacenter oligopoly": 8,
-        "Election integrity being systematically dismantled": 7,
-        "Military expansionism openly announced without opposition": 6,
-        "Insider trading and Congress self-dealing becoming visible norm": 7,
-        "US credibility collapsing with allies and markets": 7,
-        "Consumer economy running on debt, collapse imminent": 7
-      }
-    },
-    {
       "date": "2026-05-07",
       "theories": [
         "Insider trading & pre-announcement shorts openly visible",
@@ -376,6 +349,31 @@
         "European tech sovereignty acceleration from US decoupling": 6,
         "Multiple public safety institutions normalizing security theater": 8,
         "AI infrastructure investment economically inviable long-term": 7
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "theories": [
+        "Trump executing systematic self-enrichment via executive power",
+        "AI infrastructure investment economically inviable, pyramid cracking",
+        "Mass public safety institutions normalizing pre-crime surveillance state",
+        "Political violence escalating, protection infrastructure hardening visibly",
+        "Cost of living crisis deepening, wage collapse accelerating",
+        "European decoupling from US tech and security architecture",
+        "Supply chain fragility triggering preemptive resource hoarding",
+        "Executive branch removing constitutional and legal guardrails systematically",
+        "Information ecosystems collapsing, trust in institutions evaporating"
+      ],
+      "scores": {
+        "Trump executing systematic self-enrichment via executive power": 10,
+        "AI infrastructure investment economically inviable, pyramid cracking": 10,
+        "Mass public safety institutions normalizing pre-crime surveillance state": 9,
+        "Political violence escalating, protection infrastructure hardening visibly": 8,
+        "Cost of living crisis deepening, wage collapse accelerating": 8,
+        "European decoupling from US tech and security architecture": 8,
+        "Supply chain fragility triggering preemptive resource hoarding": 7,
+        "Executive branch removing constitutional and legal guardrails systematically": 7,
+        "Information ecosystems collapsing, trust in institutions evaporating": 7
       }
     }
   ]
