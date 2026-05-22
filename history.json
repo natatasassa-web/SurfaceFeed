@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-07",
-      "theories": [
-        "Insider trading & pre-announcement shorts openly visible",
-        "Military command structure disintegrating under leadership",
-        "Young adults permanently excluded from housing ownership",
-        "Executive branch openly defying courts and law",
-        "Supreme Court being used to dismantle voting rights",
-        "Hantavirus outbreak spreading globally via cruise ships",
-        "AI datacenters bypassing local democracy via construction",
-        "Consumer economy running entirely on unsustainable debt",
-        "Geopolitical alliances fracturing; US reliability collapsing",
-        "Public legal files/evidence being weaponized via spectacle"
-      ],
-      "scores": {
-        "Insider trading & pre-announcement shorts openly visible": 8,
-        "Military command structure disintegrating under leadership": 6,
-        "Young adults permanently excluded from housing ownership": 7,
-        "Executive branch openly defying courts and law": 8,
-        "Supreme Court being used to dismantle voting rights": 6,
-        "Hantavirus outbreak spreading globally via cruise ships": 8,
-        "AI datacenters bypassing local democracy via construction": 7,
-        "Consumer economy running entirely on unsustainable debt": 7,
-        "Geopolitical alliances fracturing; US reliability collapsing": 7,
-        "Public legal files/evidence being weaponized via spectacle": 7
-      }
-    },
-    {
       "date": "2026-05-08",
       "theories": [
         "Hantavirus cruise outbreak spreading globally",
@@ -374,6 +347,33 @@
         "Supply chain fragility triggering preemptive resource hoarding": 7,
         "Executive branch removing constitutional and legal guardrails systematically": 7,
         "Information ecosystems collapsing, trust in institutions evaporating": 7
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "theories": [
+        "Trump executing systematic self-enrichment via executive power",
+        "AI infrastructure investment economically inviable, pyramid cracking",
+        "Executive branch removing constitutional guardrails systematically",
+        "Cost of living crisis deepening, wage collapse accelerating",
+        "Political violence escalating, protection hardening visibly",
+        "Supply chain fragility triggering preemptive resource hoarding",
+        "Information ecosystems collapsing, trust evaporating rapidly",
+        "Mass surveillance normalized, pre-crime infrastructure hardening",
+        "Democratic institutions failing, norms breaking irreversibly",
+        "Tech CEO dominance reshaping labor markets structurally"
+      ],
+      "scores": {
+        "Trump executing systematic self-enrichment via executive power": 10,
+        "AI infrastructure investment economically inviable, pyramid cracking": 9,
+        "Executive branch removing constitutional guardrails systematically": 8,
+        "Cost of living crisis deepening, wage collapse accelerating": 7,
+        "Political violence escalating, protection hardening visibly": 7,
+        "Supply chain fragility triggering preemptive resource hoarding": 6,
+        "Information ecosystems collapsing, trust evaporating rapidly": 7,
+        "Mass surveillance normalized, pre-crime infrastructure hardening": 7,
+        "Democratic institutions failing, norms breaking irreversibly": 6,
+        "Tech CEO dominance reshaping labor markets structurally": 7
       }
     }
   ]
