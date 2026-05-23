@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-08",
-      "theories": [
-        "Hantavirus cruise outbreak spreading globally",
-        "Insider trading visible in oil price movements",
-        "Supreme Court dismantling voting rights systematically",
-        "Military command structure fracturing under leadership",
-        "US alliances fracturing; global realignment away",
-        "Food assistance removal targeting vulnerable populations",
-        "Executive branch openly defying federal court rulings",
-        "AI datacenter expansion overwhelming local infrastructure",
-        "Epstein evidence unsealing and political interference",
-        "Economic reality diverging from official messaging"
-      ],
-      "scores": {
-        "Hantavirus cruise outbreak spreading globally": 10,
-        "Insider trading visible in oil price movements": 7,
-        "Supreme Court dismantling voting rights systematically": 9,
-        "Military command structure fracturing under leadership": 7,
-        "US alliances fracturing; global realignment away": 8,
-        "Food assistance removal targeting vulnerable populations": 6,
-        "Executive branch openly defying federal court rulings": 6,
-        "AI datacenter expansion overwhelming local infrastructure": 7,
-        "Epstein evidence unsealing and political interference": 6,
-        "Economic reality diverging from official messaging": 8
-      }
-    },
-    {
       "date": "2026-05-09",
       "theories": [
         "Supreme Court systematically dismantling voting rights",
@@ -374,6 +347,31 @@
         "Mass surveillance normalized, pre-crime infrastructure hardening": 7,
         "Democratic institutions failing, norms breaking irreversibly": 6,
         "Tech CEO dominance reshaping labor markets structurally": 7
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "theories": [
+        "Executive self-enrichment via slush funds",
+        "Constitutional guardrails collapsing systematically",
+        "AI infrastructure economically inviable",
+        "Consumer sentiment collapsing amid cost crisis",
+        "Mass surveillance & pre-crime infrastructure hardening",
+        "Supply chain fragility triggering preemptive hoarding",
+        "Information ecosystems collapsing, institutional trust evaporating",
+        "Tech CEO dominance reshaping labor, democratic voice eroding",
+        "Democratic institutions failing, electoral integrity threatened"
+      ],
+      "scores": {
+        "Executive self-enrichment via slush funds": 10,
+        "Constitutional guardrails collapsing systematically": 9,
+        "AI infrastructure economically inviable": 9,
+        "Consumer sentiment collapsing amid cost crisis": 8,
+        "Mass surveillance & pre-crime infrastructure hardening": 8,
+        "Supply chain fragility triggering preemptive hoarding": 7,
+        "Information ecosystems collapsing, institutional trust evaporating": 8,
+        "Tech CEO dominance reshaping labor, democratic voice eroding": 8,
+        "Democratic institutions failing, electoral integrity threatened": 8
       }
     }
   ]
