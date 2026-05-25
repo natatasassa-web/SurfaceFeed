@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-09",
-      "theories": [
-        "Supreme Court systematically dismantling voting rights",
-        "Pentagon leadership collapse under current defense secretary",
-        "Oil markets manipulated around geopolitical conflict timing",
-        "Executive branch openly defying federal court authority",
-        "Tech sector widespread layoffs + AI efficiency narrative failing",
-        "Economic data diverging from official messaging on wages/jobs",
-        "Food assistance removal targeting vulnerable populations explicitly",
-        "Hantavirus cruise outbreak spreading across multiple nations",
-        "MAGA movement displays cult-like religious iconography openly",
-        "Data centers straining power grids toward infrastructure collapse",
-        "Global realignment away from US alliance structures"
-      ],
-      "scores": {
-        "Supreme Court systematically dismantling voting rights": 9,
-        "Pentagon leadership collapse under current defense secretary": 8,
-        "Oil markets manipulated around geopolitical conflict timing": 7,
-        "Executive branch openly defying federal court authority": 7,
-        "Tech sector widespread layoffs + AI efficiency narrative failing": 8,
-        "Economic data diverging from official messaging on wages/jobs": 7,
-        "Food assistance removal targeting vulnerable populations explicitly": 6,
-        "Hantavirus cruise outbreak spreading across multiple nations": 7,
-        "MAGA movement displays cult-like religious iconography openly": 8,
-        "Data centers straining power grids toward infrastructure collapse": 8,
-        "Global realignment away from US alliance structures": 7
-      }
-    },
-    {
       "date": "2026-05-10",
       "theories": [
         "Data centers destroying power grids, water",
@@ -372,6 +343,33 @@
         "Information ecosystems collapsing, institutional trust evaporating": 8,
         "Tech CEO dominance reshaping labor, democratic voice eroding": 8,
         "Democratic institutions failing, electoral integrity threatened": 8
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "theories": [
+        "Executive wealth extraction via slush funds intensifying",
+        "Constitutional guardrails collapsing, judiciary compromised",
+        "AI economically inviable, costs exceed human labor",
+        "Mass censorship, information warfare, soft power narrative control",
+        "Consumer sentiment collapsing amid cost-of-living crisis",
+        "Geopolitical escalation: Iran, Israel, military buildup signals",
+        "Tech CEO dominance reshaping labor, democratic voice eroding",
+        "Surveillance, pre-crime, and data center environmental destruction",
+        "Institutional trust breakdown, media capturing itself",
+        "Physical infrastructure failing, supply chain fragility exposed"
+      ],
+      "scores": {
+        "Executive wealth extraction via slush funds intensifying": 9,
+        "Constitutional guardrails collapsing, judiciary compromised": 8,
+        "AI economically inviable, costs exceed human labor": 8,
+        "Mass censorship, information warfare, soft power narrative control": 9,
+        "Consumer sentiment collapsing amid cost-of-living crisis": 8,
+        "Geopolitical escalation: Iran, Israel, military buildup signals": 8,
+        "Tech CEO dominance reshaping labor, democratic voice eroding": 8,
+        "Surveillance, pre-crime, and data center environmental destruction": 7,
+        "Institutional trust breakdown, media capturing itself": 7,
+        "Physical infrastructure failing, supply chain fragility exposed": 7
       }
     }
   ]
