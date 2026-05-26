@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-10",
-      "theories": [
-        "Data centers destroying power grids, water",
-        "Military draining domestic oil, gas prices",
-        "SCOTUS gutting voting rights via data manipulation",
-        "MAGA religious cult iconography openly displayed",
-        "Congressional insider trading tied to geopolitics",
-        "Food destruction while Americans face starvation",
-        "Trump administration weaponizing DOJ against opponents",
-        "European realignment away from US alliance",
-        "NASDAQ bubble 2000-level valuation extremes",
-        "Hantavirus cruise outbreak spreading uncontained",
-        "Trump ventures collapsing with insider fraud patterns"
-      ],
-      "scores": {
-        "Data centers destroying power grids, water": 9,
-        "Military draining domestic oil, gas prices": 8,
-        "SCOTUS gutting voting rights via data manipulation": 8,
-        "MAGA religious cult iconography openly displayed": 9,
-        "Congressional insider trading tied to geopolitics": 7,
-        "Food destruction while Americans face starvation": 7,
-        "Trump administration weaponizing DOJ against opponents": 5,
-        "European realignment away from US alliance": 7,
-        "NASDAQ bubble 2000-level valuation extremes": 7,
-        "Hantavirus cruise outbreak spreading uncontained": 7,
-        "Trump ventures collapsing with insider fraud patterns": 7
-      }
-    },
-    {
       "date": "2026-05-11",
       "theories": [
         "AI data centers draining critical infrastructure",
@@ -370,6 +341,31 @@
         "Surveillance, pre-crime, and data center environmental destruction": 7,
         "Institutional trust breakdown, media capturing itself": 7,
         "Physical infrastructure failing, supply chain fragility exposed": 7
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "theories": [
+        "Consumer sentiment at historic lows",
+        "Epstein files disclosure imminent",
+        "AI economically unviable, exceeds human labor",
+        "Data center infrastructure crisis accelerating",
+        "Executive wealth extraction, slush fund networks",
+        "Constitutional guardrails failing, judiciary politicized",
+        "Geopolitical escalation: Iran conflict deepening",
+        "NYC mayor directly challenging federal power",
+        "President health decline, ability to govern questioned"
+      ],
+      "scores": {
+        "Consumer sentiment at historic lows": 9,
+        "Epstein files disclosure imminent": 9,
+        "AI economically unviable, exceeds human labor": 9,
+        "Data center infrastructure crisis accelerating": 8,
+        "Executive wealth extraction, slush fund networks": 8,
+        "Constitutional guardrails failing, judiciary politicized": 8,
+        "Geopolitical escalation: Iran conflict deepening": 8,
+        "NYC mayor directly challenging federal power": 6,
+        "President health decline, ability to govern questioned": 6
       }
     }
   ]
