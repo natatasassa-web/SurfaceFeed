@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-11",
-      "theories": [
-        "AI data centers draining critical infrastructure",
-        "Trump venture empire collapsing with massive losses",
-        "Congressional insiders trading on geopolitical escalation",
-        "Military-driven domestic fuel scarcity emerging",
-        "Election integrity operations expanding coercively",
-        "Federal judiciary loyalty-vetted for executive alignment",
-        "NASDAQ bubble exceeds 2000 dotcom extremes",
-        "Hantavirus cruise outbreak spreading uncontained",
-        "Iran nuclear standoff escalating with rhetoric",
-        "European realignment away from US security"
-      ],
-      "scores": {
-        "AI data centers draining critical infrastructure": 9,
-        "Trump venture empire collapsing with massive losses": 8,
-        "Congressional insiders trading on geopolitical escalation": 6,
-        "Military-driven domestic fuel scarcity emerging": 5,
-        "Election integrity operations expanding coercively": 5,
-        "Federal judiciary loyalty-vetted for executive alignment": 5,
-        "NASDAQ bubble exceeds 2000 dotcom extremes": 6,
-        "Hantavirus cruise outbreak spreading uncontained": 6,
-        "Iran nuclear standoff escalating with rhetoric": 6,
-        "European realignment away from US security": 5
-      }
-    },
-    {
       "date": "2026-05-12",
       "theories": [
         "Trump empire financial collapse accelerating",
@@ -366,6 +339,35 @@
         "Geopolitical escalation: Iran conflict deepening": 8,
         "NYC mayor directly challenging federal power": 6,
         "President health decline, ability to govern questioned": 6
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "theories": [
+        "Consumer sentiment collapsing beyond crisis peaks",
+        "Geopolitical escalation Iran ceasefire violations deepening",
+        "AI financially unviable token spending exceeds returns",
+        "Data center infrastructure poisoning water supplies",
+        "Executive wealth extraction via slush funds expanding",
+        "Judiciary politicized, constitutional guardrails cracking",
+        "Micron AI hype bubble created insider trading pattern",
+        "Government restricting dissent threatening legal speakers",
+        "NYC mayor directly challenging federal/billionaire power",
+        "Epstein files disclosure imminent via congressional release",
+        "Middle East escalation Israel bombing Lebanon infrastructure"
+      ],
+      "scores": {
+        "Consumer sentiment collapsing beyond crisis peaks": 9,
+        "Geopolitical escalation Iran ceasefire violations deepening": 8,
+        "AI financially unviable token spending exceeds returns": 8,
+        "Data center infrastructure poisoning water supplies": 9,
+        "Executive wealth extraction via slush funds expanding": 7,
+        "Judiciary politicized, constitutional guardrails cracking": 7,
+        "Micron AI hype bubble created insider trading pattern": 7,
+        "Government restricting dissent threatening legal speakers": 8,
+        "NYC mayor directly challenging federal/billionaire power": 8,
+        "Epstein files disclosure imminent via congressional release": 6,
+        "Middle East escalation Israel bombing Lebanon infrastructure": 7
       }
     }
   ]
