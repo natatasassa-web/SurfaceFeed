@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-12",
-      "theories": [
-        "Trump empire financial collapse accelerating",
-        "Congressional insiders trading energy amid escalation",
-        "Inflation outpacing wages while employment claims inflate",
-        "Election system integrity failing at multiple levels",
-        "Middle East escalation via proxy strikes intensifying",
-        "Tech giants losing control of data/surveillance systems",
-        "AI hype cycle collapsing into mass skepticism",
-        "Executive branch weaponizing federal apparatus against targets",
-        "European strategic autonomy decoupling from US security",
-        "Food supply chain stress signals pre-crisis conditions"
-      ],
-      "scores": {
-        "Trump empire financial collapse accelerating": 8,
-        "Congressional insiders trading energy amid escalation": 7,
-        "Inflation outpacing wages while employment claims inflate": 8,
-        "Election system integrity failing at multiple levels": 7,
-        "Middle East escalation via proxy strikes intensifying": 7,
-        "Tech giants losing control of data/surveillance systems": 9,
-        "AI hype cycle collapsing into mass skepticism": 8,
-        "Executive branch weaponizing federal apparatus against targets": 7,
-        "European strategic autonomy decoupling from US security": 6,
-        "Food supply chain stress signals pre-crisis conditions": 6
-      }
-    },
-    {
       "date": "2026-05-13",
       "theories": [
         "Executive branch dismantling institutional checks",
@@ -368,6 +341,35 @@
         "NYC mayor directly challenging federal/billionaire power": 8,
         "Epstein files disclosure imminent via congressional release": 6,
         "Middle East escalation Israel bombing Lebanon infrastructure": 7
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "theories": [
+        "Executive weaponization of DOJ against opponents",
+        "Judiciary collapsing, constitutional guardrails failing",
+        "AI spending economically unviable, token costs exploding",
+        "Trump insider trading on defense contracts",
+        "Data centers poisoning water supplies, regulatory capture",
+        "Imminent military escalation with Iran, ceasefire violations",
+        "White-collar automation timeline compressed to 18 months",
+        "Trump slush fund tax resistance and wealth extraction",
+        "Epstein files suppression and Trump connection emerging",
+        "Consumer economy collapsing, real wages declining",
+        "US government restricting dissent and First Amendment"
+      ],
+      "scores": {
+        "Executive weaponization of DOJ against opponents": 10,
+        "Judiciary collapsing, constitutional guardrails failing": 9,
+        "AI spending economically unviable, token costs exploding": 9,
+        "Trump insider trading on defense contracts": 8,
+        "Data centers poisoning water supplies, regulatory capture": 9,
+        "Imminent military escalation with Iran, ceasefire violations": 8,
+        "White-collar automation timeline compressed to 18 months": 7,
+        "Trump slush fund tax resistance and wealth extraction": 9,
+        "Epstein files suppression and Trump connection emerging": 8,
+        "Consumer economy collapsing, real wages declining": 7,
+        "US government restricting dissent and First Amendment": 7
       }
     }
   ]
