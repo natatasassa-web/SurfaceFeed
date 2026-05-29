@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-14",
-      "theories": [
-        "AI data centers draining power grids catastrophically",
-        "Trump-Xi summit signals geopolitical leverage shift",
-        "Executive branch weaponizing Justice Dept against opposition",
-        "Congressional insiders trading on conflict escalation massively",
-        "Inflation and cost-of-living crisis intensifying despite rhetoric",
-        "Trump empire and media holdings financially collapsing",
-        "Institutional education systems unraveling due to AI cheating",
-        "Supply chain fragility and food crisis emerging from Strait disruption",
-        "Infectious disease outbreak spreading from cruise ship vectors",
-        "Europe's strategic independence from US tech accelerating"
-      ],
-      "scores": {
-        "AI data centers draining power grids catastrophically": 10,
-        "Trump-Xi summit signals geopolitical leverage shift": 10,
-        "Executive branch weaponizing Justice Dept against opposition": 9,
-        "Congressional insiders trading on conflict escalation massively": 8,
-        "Inflation and cost-of-living crisis intensifying despite rhetoric": 8,
-        "Trump empire and media holdings financially collapsing": 8,
-        "Institutional education systems unraveling due to AI cheating": 6,
-        "Supply chain fragility and food crisis emerging from Strait disruption": 7,
-        "Infectious disease outbreak spreading from cruise ship vectors": 6,
-        "Europe's strategic independence from US tech accelerating": 6
-      }
-    },
-    {
       "date": "2026-05-15",
       "theories": [
         "Trump insider trading on policy announcements",
@@ -346,6 +319,11 @@
         "Consumer economy collapsing, real wages declining": 7,
         "US government restricting dissent and First Amendment": 7
       }
+    },
+    {
+      "date": "2026-05-29",
+      "theories": [],
+      "scores": {}
     },
     {
       "date": "2026-05-29",
