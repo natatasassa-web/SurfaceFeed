@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-13",
-      "theories": [
-        "Executive branch dismantling institutional checks",
-        "Inflation outpacing wages amid cost-of-living crisis",
-        "AI infrastructure consuming resources at crisis scale",
-        "Middle East escalation via proxy strikes intensifying",
-        "Trump empire financial collapse accelerating",
-        "Congressional insiders trading defense amid conflict escalation",
-        "Supply chain stress signaling pre-crisis conditions",
-        "AI hype cycle collapsing into skepticism and dysfunction",
-        "Democratic political opposition being systematically dismantled"
-      ],
-      "scores": {
-        "Executive branch dismantling institutional checks": 9,
-        "Inflation outpacing wages amid cost-of-living crisis": 10,
-        "AI infrastructure consuming resources at crisis scale": 9,
-        "Middle East escalation via proxy strikes intensifying": 8,
-        "Trump empire financial collapse accelerating": 7,
-        "Congressional insiders trading defense amid conflict escalation": 6,
-        "Supply chain stress signaling pre-crisis conditions": 5,
-        "AI hype cycle collapsing into skepticism and dysfunction": 7,
-        "Democratic political opposition being systematically dismantled": 6
-      }
-    },
-    {
       "date": "2026-05-14",
       "theories": [
         "AI data centers draining power grids catastrophically",
@@ -371,6 +346,11 @@
         "Consumer economy collapsing, real wages declining": 7,
         "US government restricting dissent and First Amendment": 7
       }
+    },
+    {
+      "date": "2026-05-29",
+      "theories": [],
+      "scores": {}
     }
   ]
 }
