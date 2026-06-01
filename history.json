@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-16",
-      "theories": [
-        "Trump administration profiting from policy decisions",
-        "Congressional insiders profiting via legalized insider trading",
-        "Trump dismissing American financial hardship for Iran war",
-        "Cost of living crisis persists despite admin claims",
-        "AI data center power crisis accelerating grid collapse",
-        "Executive DOJ weaponizing courts against opposition",
-        "Tech sector layoffs despite record revenue continues",
-        "European independence from US tech accelerating",
-        "Infectious disease outbreaks linked to mass transit vectors",
-        "Pentagon withdrawing troops while expanding nuclear proliferation"
-      ],
-      "scores": {
-        "Trump administration profiting from policy decisions": 10,
-        "Congressional insiders profiting via legalized insider trading": 9,
-        "Trump dismissing American financial hardship for Iran war": 9,
-        "Cost of living crisis persists despite admin claims": 8,
-        "AI data center power crisis accelerating grid collapse": 8,
-        "Executive DOJ weaponizing courts against opposition": 7,
-        "Tech sector layoffs despite record revenue continues": 7,
-        "European independence from US tech accelerating": 7,
-        "Infectious disease outbreaks linked to mass transit vectors": 5,
-        "Pentagon withdrawing troops while expanding nuclear proliferation": 5
-      }
-    },
-    {
       "date": "2026-05-17",
       "theories": [
         "Trump administration engaged in textbook insider trading",
@@ -307,6 +280,31 @@
       "date": "2026-06-01",
       "theories": [],
       "scores": {}
+    },
+    {
+      "date": "2026-06-01",
+      "theories": [
+        "Fed independence under political attack",
+        "Institutional capacity collapse across agencies",
+        "US-Iran escalation cycle despite ceasefire",
+        "Geopolitical decoupling reshaping supply chains",
+        "Bee lab shutdowns threaten food system",
+        "Cash elimination advancing in Europe",
+        "AI hype meets physics reality check",
+        "Trump machine consolidating power through primaries",
+        "Celebrity influence reshaping mainstream politics"
+      ],
+      "scores": {
+        "Fed independence under political attack": 9,
+        "Institutional capacity collapse across agencies": 8,
+        "US-Iran escalation cycle despite ceasefire": 9,
+        "Geopolitical decoupling reshaping supply chains": 7,
+        "Bee lab shutdowns threaten food system": 8,
+        "Cash elimination advancing in Europe": 7,
+        "AI hype meets physics reality check": 7,
+        "Trump machine consolidating power through primaries": 6,
+        "Celebrity influence reshaping mainstream politics": 7
+      }
     }
   ]
 }

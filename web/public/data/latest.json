@@ -1,7 +1,283 @@
 {
-  "theories": [],
+  "theories": [
+    {
+      "title": "Fed independence under political attack",
+      "summary": "Jerome Powell and other institutional voices are publicly warning that the Federal Reserve's credibility and independence are at risk from politicization. This signals concern among economic establishment figures that Trump administration is eroding central bank autonomy, a foundational safeguard of monetary policy.",
+      "subreddits": [
+        "marketwatch",
+        "zerohedge",
+        "axios",
+        "thehill"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 5,
+      "total_score": 9,
+      "momentum": "surging",
+      "why_signal": "Multiple high-upvote posts across financial and political communities with explicit warnings from authoritative figures; Powell's post-tenure commentary is unusual and suggests genuine alarm.",
+      "posts": [
+        {
+          "title": "Jerome Powell warns that politicizing Fed will erode its credibility",
+          "url": "https://www.marketwatch.com/story/jerome-powell-warns-that-politicizing-fed-will-erode-its-credibility-34fa4f14",
+          "subreddit": "marketwatch",
+          "score": 95
+        },
+        {
+          "title": "Jerome Powell warns that the Fed's credibility is at risk",
+          "url": "https://www.axios.com/2026/06/01/powell-fed-warsh-trump",
+          "subreddit": "axios",
+          "score": 100
+        },
+        {
+          "title": "Jerome Powell takes a subtle dig at Trump during award speech",
+          "url": "https://www.rawstory.com/jerome-powell-2676978463/",
+          "subreddit": "rawstory",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "title": "Institutional capacity collapse across agencies",
+      "summary": "Multiple posts document departures of experienced lawyers from Trump administration, CISA contractor data leaks, cabinet member replacements (Powell exit, Greg Abel leadership), and general talent flight. Pattern suggests core institutional competence is degrading rapidly across federal agencies.",
+      "subreddits": [
+        "thehill",
+        "rawstory",
+        "krebsonsecurity",
+        "propublica"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 4,
+      "total_score": 8,
+      "momentum": "surging",
+      "why_signal": "Appearing across legal, security, and accountability journalism simultaneously\u2014suggests systemic institutional failure rather than isolated incidents.",
+      "posts": [
+        {
+          "title": "Trump responds to NYT article, says it's 'very good' administration is losing legal talent",
+          "url": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
+          "subreddit": "thehill",
+          "score": 80
+        },
+        {
+          "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+          "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+          "subreddit": "krebsonsecurity",
+          "score": 85
+        },
+        {
+          "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+          "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+          "subreddit": "krebsonsecurity",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "title": "US-Iran escalation cycle despite ceasefire",
+      "summary": "Despite reported deal frameworks, military strikes continue: F-15E downed by Iranian Chinese missile, US strikes Iranian radar sites, Iran retaliates, Kuwait reports attacks. Pattern suggests negotiations are window-dressing while active hostilities persist, contradicting peace narrative.",
+      "subreddits": [
+        "zerohedge",
+        "nakedcapitalism",
+        "thehill",
+        "theintercept",
+        "theguardian"
+      ],
+      "cross_community_score": 5,
+      "engagement_score": 4,
+      "total_score": 9,
+      "momentum": "surging",
+      "why_signal": "Cross-ideological agreement (ZeroHedge, left outlets, mainstream) that ceasefire is illusory; escalation continues despite Trump administration claiming diplomatic progress.",
+      "posts": [
+        {
+          "title": "US Officials Suspect Iran Used Chinese Missile To Bring Down F-15E Warplane",
+          "url": "https://www.zerohedge.com/geopolitical/us-officials-suspect-iran-used-chinese-missile-bring-down-f-15e-warplane-report",
+          "subreddit": "zerohedge",
+          "score": 90
+        },
+        {
+          "title": "Iran War: New Reports of Agreement on Memo of Understanding Effectively Shot Down by Bessent",
+          "url": "https://www.nakedcapitalism.com/2026/05/iran-war-new-reports-of-agreement-on-memo-of-understanding-effectively-shot-down-by-bessent-as-he-also-repeats-threats-against-oman-israel-attacks-beirut-more-warnings-of-energy-price-cliff-plus-cl.html",
+          "subreddit": "nakedcapitalism",
+          "score": 55
+        },
+        {
+          "title": "U.S. Casualties in Iran War Rise as Military Strikes Begin Again",
+          "url": "https://theintercept.com/2026/05/26/us-iran-war-casualties-ceasefire/",
+          "subreddit": "theintercept",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "title": "Geopolitical decoupling reshaping supply chains",
+      "summary": "Posts highlight US-China rivalry eroding globalization, governments becoming active investors in domestic industries, and shift toward state-subsidized supply chains. Pattern suggests structural economic realignment away from integrated global markets toward nationalist bloc economics.",
+      "subreddits": [
+        "marketwatch",
+        "zerohedge",
+        "nakedcapitalism",
+        "reuters"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 3,
+      "total_score": 7,
+      "momentum": "holding",
+      "why_signal": "Financial/economic communities and geopolitical analysts converging on same structural shift; has portfolio implications but also signals long-term reordering.",
+      "posts": [
+        {
+          "title": "Government is now an active investor \u2014 and it's why your portfolio needs 'home-court advantage'",
+          "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253",
+          "subreddit": "marketwatch",
+          "score": 65
+        },
+        {
+          "title": "A New Iron Curtain Is Inevitable",
+          "url": "https://www.nakedcapitalism.com/2026/05/a-new-iron-curtain-is-inevitable.html",
+          "subreddit": "nakedcapitalism",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "title": "Bee lab shutdowns threaten food system",
+      "summary": "Federal bee research labs are being shut down, raising immediate concerns about pollinator collapse and US food security. Multiple sources questioning whether food supply degradation is accidental or intentional, suggesting systemic risk to agricultural foundation.",
+      "subreddits": [
+        "zerohedge",
+        "nakedcapitalism",
+        "thehill",
+        "wired"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 4,
+      "total_score": 8,
+      "momentum": "emerging",
+      "why_signal": "Appears across preppers, left-wing, mainstream, and science communities; connects resource security to policy decisions; raises food sovereignty questions.",
+      "posts": [
+        {
+          "title": "Shutting Down Federal Bee Labs Threatens The US Food System",
+          "url": "https://www.zerohedge.com/political/shutting-down-federal-bee-labs-threatens-us-food-system",
+          "subreddit": "zerohedge",
+          "score": 95
+        },
+        {
+          "title": "Shutting Down Federal Bee Labs Threatens Bees, Beekeepers and the US Food System",
+          "url": "https://www.nakedcapitalism.com/2026/05/shutting-down-federal-bee-labs-threatens-bees-beekeepers-and-the-us-food-system.html",
+          "subreddit": "nakedcapitalism",
+          "score": 90
+        },
+        {
+          "title": "Rare, endangered bee gets habitat protection across 6 states",
+          "url": "https://thehill.com/homenews/state-watch/5903208-rare-bee-habitat-protection/",
+          "subreddit": "thehill",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "title": "Cash elimination advancing in Europe",
+      "summary": "Post on disappearance of cash in Europe signals normalization of digital currency surveillance and control. Pattern suggests erosion of financial privacy and offline economic autonomy across Western economies.",
+      "subreddits": [
+        "zerohedge",
+        "2westerneurope4u"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 4,
+      "total_score": 7,
+      "momentum": "emerging",
+      "why_signal": "Cross-continental pattern; fits broader financial surveillance thesis; resonates across both prepper and cultural commentary communities.",
+      "posts": [
+        {
+          "title": "The Slow Disappearance Of Cash In Europe",
+          "url": "https://www.zerohedge.com/political/slow-disappearance-cash-europe",
+          "subreddit": "zerohedge",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "title": "AI hype meets physics reality check",
+      "summary": "Multiple sources warning that AI models face fundamental computational and energy constraints that hype has obscured. Pattern suggests coming correction as companies realize quantum computing promises are distant and current AI scaling hits physics limits.",
+      "subreddits": [
+        "zerohedge",
+        "404media",
+        "arstechnica"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 4,
+      "total_score": 7,
+      "momentum": "emerging",
+      "why_signal": "Technical and investor communities beginning to publicly surface doubts about AI scalability; signals potential market correction ahead.",
+      "posts": [
+        {
+          "title": "AI's Coming Reality Check: When The Physics Finally Hits The Hype",
+          "url": "https://www.zerohedge.com/ai/ais-coming-reality-check-when-physics-finally-hits-hype",
+          "subreddit": "zerohedge",
+          "score": 80
+        },
+        {
+          "title": "The End Of Digital Trust: How Quantum Computing Could Upend Security, Business, & Global Stability",
+          "url": "https://www.zerohedge.com/technology/end-digital-trust-how-quantum-computing-could-upend-security-business-global-stability",
+          "subreddit": "zerohedge",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "title": "Trump machine consolidating power through primaries",
+      "summary": "Trump intervening directly in Republican gubernatorial primaries in multiple states (South Carolina, Iowa, Oklahoma), using endorsement as enforcement mechanism. Pattern suggests consolidation of party apparatus under direct Trump control, marginalizing institutional Republicans.",
+      "subreddits": [
+        "politico",
+        "thehill"
+      ],
+      "cross_community_score": 2,
+      "engagement_score": 4,
+      "total_score": 6,
+      "momentum": "holding",
+      "why_signal": "Multiple simultaneous primary interventions; Cornyn loss signals establishment weakness; suggests intra-party realignment accelerating.",
+      "posts": [
+        {
+          "title": "Trump jumps into Republican primaries for governor in South Carolina, Iowa and Oklahoma",
+          "url": "https://www.politico.com/news/2026/05/30/trump-jumps-into-republican-primaries-for-governor-in-south-carolina-iowa-and-oklahoma-00943600",
+          "subreddit": "politico",
+          "score": 95
+        },
+        {
+          "title": "The Texas GOP finally turned on Cornyn",
+          "url": "https://www.politico.com/news/2026/05/26/cornyn-senate-career-ends-trump-paxton-00937548",
+          "subreddit": "politico",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "title": "Celebrity influence reshaping mainstream politics",
+      "summary": "Spencer Pratt (reality TV star) emerging as serious electoral threat in LA mayoral race, with Democrat establishment worried. Pattern suggests entertainment/social media figures are displacing traditional political infrastructure and capturing voter attention.",
+      "subreddits": [
+        "zerohedge",
+        "politico",
+        "theintercept",
+        "404media"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 3,
+      "total_score": 7,
+      "momentum": "emerging",
+      "why_signal": "Crossing from entertainment gossip into serious political analysis; signals breakdown of gatekeeping; appears across ideological spectrum.",
+      "posts": [
+        {
+          "title": "The Democrat Establishment Is Starting To Worry About Spencer Pratt",
+          "url": "https://www.zerohedge.com/political/democrat-establishment-starting-worry-about-spencer-pratt",
+          "subreddit": "zerohedge",
+          "score": 85
+        },
+        {
+          "title": "The Los Angeles Left Is at War With Itself Over the Mayor's Race",
+          "url": "https://theintercept.com/2026/05/29/la-mayor-rae-huang-nithya-raman-spencer-pratt/",
+          "subreddit": "theintercept",
+          "score": 90
+        }
+      ]
+    }
+  ],
   "date": "2026-06-01",
-  "run_timestamp": "2026-06-01T05:48:56.967294+00:00",
-  "total_posts_analyzed": 0,
+  "run_timestamp": "2026-06-01T06:47:56.638551+00:00",
+  "total_posts_analyzed": 255,
   "subreddits_active": 18
 }
