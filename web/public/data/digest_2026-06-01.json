@@ -1,66 +1,277 @@
 {
   "theories": [
     {
-      "title": "Fed independence under political attack",
-      "summary": "Jerome Powell and other institutional voices are publicly warning that the Federal Reserve's credibility and independence are at risk from politicization. This signals concern among economic establishment figures that Trump administration is eroding central bank autonomy, a foundational safeguard of monetary policy.",
+      "title": "US-Iran escalation cycle destabilizing energy markets",
+      "summary": "Iran has suspended all US negotiations and closed the Strait of Hormuz in response to Israeli operations, with oil prices spiking to $97/barrel and US casualties rising to 423. Multiple sources report Iran ordering new military fronts opened, threatening a July energy cliff if Trump cannot negotiate resolution.",
       "subreddits": [
         "marketwatch",
         "zerohedge",
+        "nakedcapitalism",
+        "theintercept",
+        "rawstory",
+        "theguardian",
         "axios",
-        "thehill"
+        "reuters"
       ],
-      "cross_community_score": 4,
+      "cross_community_score": 5,
       "engagement_score": 5,
-      "total_score": 9,
+      "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Multiple high-upvote posts across financial and political communities with explicit warnings from authoritative figures; Powell's post-tenure commentary is unusual and suggests genuine alarm.",
+      "why_signal": "Crossing into energy infrastructure threat territory with concrete supply-chain consequences and military escalation despite ceasefire, matching yesterday's momentum but now with tactical actions.",
       "posts": [
         {
-          "title": "Jerome Powell warns that politicizing Fed will erode its credibility",
-          "url": "https://www.marketwatch.com/story/jerome-powell-warns-that-politicizing-fed-will-erode-its-credibility-34fa4f14",
+          "title": "Global oil prices jump 7% to top $97 a barrel after Iran reportedly suspends talks with U.S. and fully closes Strait of Hormuz",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-wave-of-attacks-between-u-s-and-iran-fbcdd5ed",
           "subreddit": "marketwatch",
-          "score": 95
+          "score": 75
         },
         {
-          "title": "Jerome Powell warns that the Fed's credibility is at risk",
-          "url": "https://www.axios.com/2026/06/01/powell-fed-warsh-trump",
-          "subreddit": "axios",
+          "title": "U.S. Oil Reserves To Dry Up Before August?",
+          "url": "https://www.zerohedge.com/markets/us-oil-reserves-dry-august",
+          "subreddit": "zerohedge",
           "score": 100
         },
         {
-          "title": "Jerome Powell takes a subtle dig at Trump during award speech",
-          "url": "https://www.rawstory.com/jerome-powell-2676978463/",
-          "subreddit": "rawstory",
-          "score": 95
+          "title": "Iran War: Iran Rejects Trump Claims That Deal Is Near as US Counterproductively Toughens Terms; Hotter Tit-for-Tat Strikes Threaten Ceasefire",
+          "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-rejects-trump-claims-that-deal-is-near-as-us-counterproductively-toughens-terms-hotter-tit-for-tat-strikes-threaten-ceasefire-what-if-trump-continues-to-stall-when-hitting-energy-clif.html",
+          "subreddit": "nakedcapitalism",
+          "score": 90
         }
       ]
     },
     {
-      "title": "Institutional capacity collapse across agencies",
-      "summary": "Multiple posts document departures of experienced lawyers from Trump administration, CISA contractor data leaks, cabinet member replacements (Powell exit, Greg Abel leadership), and general talent flight. Pattern suggests core institutional competence is degrading rapidly across federal agencies.",
+      "title": "Tech mega-IPOs signal AI hype bubble stress test",
+      "summary": "Anthropic, SpaceX, and OpenAI are all moving toward public offerings this year amid rising investor skepticism about AI's actual economic ROI. Fed officials warn AI productivity benefits may arrive slower than costs, creating tension between hype narratives and real-world deployment challenges.",
+      "subreddits": [
+        "marketwatch",
+        "zerohedge",
+        "thehill",
+        "reuters",
+        "axios",
+        "theguardian"
+      ],
+      "cross_community_score": 5,
+      "engagement_score": 5,
+      "total_score": 10,
+      "momentum": "surging",
+      "why_signal": "Multiple mega-cap tech firms racing to go public before sentiment shifts, while simultaneously Fed and institutional players openly questioning AI's productivity claims\u2014classic bubble stress indicators.",
+      "posts": [
+        {
+          "title": "Anthropic just set the stage for a blockbuster IPO \u2014 beating OpenAI to the punch",
+          "url": "https://www.marketwatch.com/story/anthropic-just-set-the-stage-for-a-blockbuster-ipo-beating-openai-to-the-punch-4cde9d9f",
+          "subreddit": "marketwatch",
+          "score": 85
+        },
+        {
+          "title": "Anthropic files with SEC to go public",
+          "url": "https://thehill.com/policy/technology/5904200-anthropic-sec-ipo/",
+          "subreddit": "thehill",
+          "score": 80
+        },
+        {
+          "title": "Fed officials warn AI's economic costs may arrive faster than benefits",
+          "url": "https://www.axios.com/2026/06/01/ai-productivity-inflation",
+          "subreddit": "axios",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "title": "Trump administration weaponizing federal agencies beyond norms",
+      "summary": "Trump's $1.776B 'anti-weaponization' fund is being used to consolidate control over Justice Department, FBI leadership (Kash Patel), media (ABC fined), and federal science funding. Critics argue this inverts its stated purpose\u2014the fund itself is the weaponization tool.",
       "subreddits": [
         "thehill",
         "rawstory",
-        "krebsonsecurity",
+        "propublica",
+        "theguardian",
+        "arstechnica",
+        "politico"
+      ],
+      "cross_community_score": 5,
+      "engagement_score": 4,
+      "total_score": 9,
+      "momentum": "surging",
+      "why_signal": "Pattern of institutional capture using explicit government funding mechanisms, with FBI morale issues and congressional pushback suggesting resistance fractures forming.",
+      "posts": [
+        {
+          "title": "Trump, Johnson meet at White House over DOJ's 'anti-weaponization' fund",
+          "url": "https://thehill.com/homenews/administration/5904192-trump-johnson-meet-antiweaponization-fund/",
+          "subreddit": "thehill",
+          "score": 100
+        },
+        {
+          "title": "FBI veterans form support group to help employees deal with Kash Patel",
+          "url": "https://www.rawstory.com/kash-patel-fbi-employees-help/",
+          "subreddit": "rawstory",
+          "score": 100
+        },
+        {
+          "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
+          "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
+          "subreddit": "arstechnica",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "title": "Fed independence under sustained political attack",
+      "summary": "Jerome Powell warns that the Federal Reserve's credibility is at risk due to Trump administration pressure and potential constitutional challenges to Fed governor appointments. Ex-Fed chair signals this is a critical institutional stress test.",
+      "subreddits": [
+        "axios",
+        "theguardian",
+        "marketwatch",
+        "rawstory"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 4,
+      "total_score": 8,
+      "momentum": "holding",
+      "why_signal": "Explicit warning from highest Fed authority that central bank independence is under threat; matches yesterday's theory but now with named formal pushback.",
+      "posts": [
+        {
+          "title": "Jerome Powell warns that the Fed's credibility is at risk",
+          "url": "https://www.axios.com/2026/06/01/powell-fed-warsh-trump",
+          "subreddit": "axios",
+          "score": 65
+        },
+        {
+          "title": "Ex-Federal Reserve chair Jerome Powell sounds alarm over political interference",
+          "url": "https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award",
+          "subreddit": "theguardian",
+          "score": 45
+        }
+      ]
+    },
+    {
+      "title": "YouTube creators bypassing traditional media gatekeeping",
+      "summary": "YouTube-generated horror films (Backrooms, Obsession) hit record box office numbers, signaling that Gen-Z audiences and creators no longer need Hollywood's validation. Studios are now competing with 20-something YouTubers who understand viral distribution natively.",
+      "subreddits": [
+        "marketwatch",
+        "theguardian",
+        "wired",
+        "arstechnica"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 4,
+      "total_score": 8,
+      "momentum": "emerging",
+      "why_signal": "Not just cultural trend\u2014this represents real economic power shift where traditional distribution monopolies are losing gatekeeping control to algorithmic platforms and direct audience relationships.",
+      "posts": [
+        {
+          "title": "YouTube is now Hollywood's horror-film pipeline \u2014 and the new model for moviemaking",
+          "url": "https://www.marketwatch.com/story/youtube-is-now-hollywoods-horror-film-pipeline-and-the-new-model-for-movie-making-da8c72b6",
+          "subreddit": "marketwatch",
+          "score": 90
+        },
+        {
+          "title": "To YouTube and beyond: how online gen Z directors stormed Hollywood",
+          "url": "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers",
+          "subreddit": "theguardian",
+          "score": 85
+        },
+        {
+          "title": "'Backrooms' Takes You Deeper Inside the Internet's Most Uncanny Horror Myth",
+          "url": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
+          "subreddit": "wired",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "title": "AI data centers spawning grassroots opposition and surveillance",
+      "summary": "Communities across US and EU are blocking AI data center construction due to water consumption and environmental impact. Simultaneously, law enforcement is surveilling anti-data-center activists, treating infrastructure protests as security threats.",
+      "subreddits": [
+        "theintercept",
+        "404media",
+        "nakedcapitalism",
         "propublica"
       ],
       "cross_community_score": 4,
       "engagement_score": 4,
       "total_score": 8,
       "momentum": "surging",
-      "why_signal": "Appearing across legal, security, and accountability journalism simultaneously\u2014suggests systemic institutional failure rather than isolated incidents.",
+      "why_signal": "Dual emergence of physical infrastructure conflict AND state surveillance of dissent; suggests AI buildout is facing real bottlenecks and generating organized resistance.",
       "posts": [
         {
-          "title": "Trump responds to NYT article, says it's 'very good' administration is losing legal talent",
-          "url": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
-          "subreddit": "thehill",
-          "score": 80
+          "title": "Cops Are Spying on People Who Criticize AI Data Centers Online",
+          "url": "https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/",
+          "subreddit": "theintercept",
+          "score": 100
         },
+        {
+          "title": "Cities Are Covering Flock Cameras With Trash Bags",
+          "url": "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
+          "subreddit": "404media",
+          "score": 85
+        },
+        {
+          "title": "The Race to Build AI Data Centers \u2014 Before the People Can Protest",
+          "url": "https://theintercept.com/2026/05/29/ai-data-centers-water/",
+          "subreddit": "theintercept",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "title": "Left populism challenging Democratic establishment in swing states",
+      "summary": "Progressive candidates like Francesca Hong and James Talarico are running anti-establishment campaigns in competitive races, emboldened by cost-of-living populism. Democrats are split between backing centrist candidates and tolerating left challengers who might alienate moderates.",
+      "subreddits": [
+        "politico",
+        "theintercept",
+        "theguardian",
+        "axios"
+      ],
+      "cross_community_score": 4,
+      "engagement_score": 3,
+      "total_score": 7,
+      "momentum": "emerging",
+      "why_signal": "Signals structural tension in Democratic coalition\u2014economic anxiety is driving grassroots left, but party machinery fears it loses swing-state moderates; early 2026 midterm stress indicator.",
+      "posts": [
+        {
+          "title": "Socialism's next test: Swing states",
+          "url": "https://www.politico.com/news/2026/05/30/wisconsin-democratic-socialism-midterms-00943605",
+          "subreddit": "politico",
+          "score": 95
+        },
+        {
+          "title": "Sunrise Movement Backs Saikat Chakrabarti, Progressive Firebrand Behind the Green New Deal",
+          "url": "https://theintercept.com/2026/05/27/sunrise-movement-endorses-saikat-chakrabarti-congress-california/",
+          "subreddit": "theintercept",
+          "score": 45
+        },
+        {
+          "title": "'Our democracy is run by two private clubs': can a pro-hunting Democrat lead a blue wave in Iowa?",
+          "url": "https://www.theguardian.com/us-news/2026/jun/01/rob-sand-iowa-democrat-midterm-election",
+          "subreddit": "theguardian",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "title": "Institutional cyber-security failures exposing government secrets",
+      "summary": "CISA contractor leaked AWS GovCloud credentials on GitHub; Canvas education platform breached nationwide; 17M-device botnet dismantled in Netherlands. Pattern shows critical infrastructure operators lack basic security hygiene while running sensitive systems.",
+      "subreddits": [
+        "krebsonsecurity",
+        "bleepingcomputer",
+        "propublica"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 4,
+      "total_score": 7,
+      "momentum": "holding",
+      "why_signal": "Repeated pattern of security failures at government-adjacent contractors suggests systemic pressure (cost-cutting, staff turnover) eroding institutional competency.",
+      "posts": [
         {
           "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
           "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
           "subreddit": "krebsonsecurity",
           "score": 85
+        },
+        {
+          "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+          "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+          "subreddit": "krebsonsecurity",
+          "score": 75
         },
         {
           "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
@@ -71,213 +282,36 @@
       ]
     },
     {
-      "title": "US-Iran escalation cycle despite ceasefire",
-      "summary": "Despite reported deal frameworks, military strikes continue: F-15E downed by Iranian Chinese missile, US strikes Iranian radar sites, Iran retaliates, Kuwait reports attacks. Pattern suggests negotiations are window-dressing while active hostilities persist, contradicting peace narrative.",
+      "title": "Tech billionaires spending record sums to block wealth taxes",
+      "summary": "Google co-founder Brin and other Silicon Valley billionaires are pouring $66M+ into California ballot fights against wealth taxes. Pattern shows tech elite treating taxation as existential threat to their power, deploying their own wealth to block democratic redistribution mechanisms.",
       "subreddits": [
-        "zerohedge",
-        "nakedcapitalism",
-        "thehill",
-        "theintercept",
-        "theguardian"
-      ],
-      "cross_community_score": 5,
-      "engagement_score": 4,
-      "total_score": 9,
-      "momentum": "surging",
-      "why_signal": "Cross-ideological agreement (ZeroHedge, left outlets, mainstream) that ceasefire is illusory; escalation continues despite Trump administration claiming diplomatic progress.",
-      "posts": [
-        {
-          "title": "US Officials Suspect Iran Used Chinese Missile To Bring Down F-15E Warplane",
-          "url": "https://www.zerohedge.com/geopolitical/us-officials-suspect-iran-used-chinese-missile-bring-down-f-15e-warplane-report",
-          "subreddit": "zerohedge",
-          "score": 90
-        },
-        {
-          "title": "Iran War: New Reports of Agreement on Memo of Understanding Effectively Shot Down by Bessent",
-          "url": "https://www.nakedcapitalism.com/2026/05/iran-war-new-reports-of-agreement-on-memo-of-understanding-effectively-shot-down-by-bessent-as-he-also-repeats-threats-against-oman-israel-attacks-beirut-more-warnings-of-energy-price-cliff-plus-cl.html",
-          "subreddit": "nakedcapitalism",
-          "score": 55
-        },
-        {
-          "title": "U.S. Casualties in Iran War Rise as Military Strikes Begin Again",
-          "url": "https://theintercept.com/2026/05/26/us-iran-war-casualties-ceasefire/",
-          "subreddit": "theintercept",
-          "score": 40
-        }
-      ]
-    },
-    {
-      "title": "Geopolitical decoupling reshaping supply chains",
-      "summary": "Posts highlight US-China rivalry eroding globalization, governments becoming active investors in domestic industries, and shift toward state-subsidized supply chains. Pattern suggests structural economic realignment away from integrated global markets toward nationalist bloc economics.",
-      "subreddits": [
+        "theguardian",
         "marketwatch",
-        "zerohedge",
-        "nakedcapitalism",
-        "reuters"
+        "nakedcapitalism"
       ],
-      "cross_community_score": 4,
+      "cross_community_score": 3,
       "engagement_score": 3,
-      "total_score": 7,
-      "momentum": "holding",
-      "why_signal": "Financial/economic communities and geopolitical analysts converging on same structural shift; has portfolio implications but also signals long-term reordering.",
+      "total_score": 6,
+      "momentum": "emerging",
+      "why_signal": "Direct signal of wealth concentration anxiety\u2014billionaires spending heavily to prevent ANY wealth-based taxation suggests they see it as existential political threat.",
       "posts": [
         {
-          "title": "Government is now an active investor \u2014 and it's why your portfolio needs 'home-court advantage'",
-          "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253",
-          "subreddit": "marketwatch",
+          "title": "Tech billionaires are spending unprecedented sums in California races. Experts say it's the tip of the iceberg",
+          "url": "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections",
+          "subreddit": "theguardian",
           "score": 65
         },
         {
-          "title": "A New Iron Curtain Is Inevitable",
-          "url": "https://www.nakedcapitalism.com/2026/05/a-new-iron-curtain-is-inevitable.html",
-          "subreddit": "nakedcapitalism",
-          "score": 75
-        }
-      ]
-    },
-    {
-      "title": "Bee lab shutdowns threaten food system",
-      "summary": "Federal bee research labs are being shut down, raising immediate concerns about pollinator collapse and US food security. Multiple sources questioning whether food supply degradation is accidental or intentional, suggesting systemic risk to agricultural foundation.",
-      "subreddits": [
-        "zerohedge",
-        "nakedcapitalism",
-        "thehill",
-        "wired"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 4,
-      "total_score": 8,
-      "momentum": "emerging",
-      "why_signal": "Appears across preppers, left-wing, mainstream, and science communities; connects resource security to policy decisions; raises food sovereignty questions.",
-      "posts": [
-        {
-          "title": "Shutting Down Federal Bee Labs Threatens The US Food System",
-          "url": "https://www.zerohedge.com/political/shutting-down-federal-bee-labs-threatens-us-food-system",
-          "subreddit": "zerohedge",
-          "score": 95
-        },
-        {
-          "title": "Shutting Down Federal Bee Labs Threatens Bees, Beekeepers and the US Food System",
-          "url": "https://www.nakedcapitalism.com/2026/05/shutting-down-federal-bee-labs-threatens-bees-beekeepers-and-the-us-food-system.html",
-          "subreddit": "nakedcapitalism",
-          "score": 90
-        },
-        {
-          "title": "Rare, endangered bee gets habitat protection across 6 states",
-          "url": "https://thehill.com/homenews/state-watch/5903208-rare-bee-habitat-protection/",
-          "subreddit": "thehill",
-          "score": 70
-        }
-      ]
-    },
-    {
-      "title": "Cash elimination advancing in Europe",
-      "summary": "Post on disappearance of cash in Europe signals normalization of digital currency surveillance and control. Pattern suggests erosion of financial privacy and offline economic autonomy across Western economies.",
-      "subreddits": [
-        "zerohedge",
-        "2westerneurope4u"
-      ],
-      "cross_community_score": 3,
-      "engagement_score": 4,
-      "total_score": 7,
-      "momentum": "emerging",
-      "why_signal": "Cross-continental pattern; fits broader financial surveillance thesis; resonates across both prepper and cultural commentary communities.",
-      "posts": [
-        {
-          "title": "The Slow Disappearance Of Cash In Europe",
-          "url": "https://www.zerohedge.com/political/slow-disappearance-cash-europe",
-          "subreddit": "zerohedge",
-          "score": 100
-        }
-      ]
-    },
-    {
-      "title": "AI hype meets physics reality check",
-      "summary": "Multiple sources warning that AI models face fundamental computational and energy constraints that hype has obscured. Pattern suggests coming correction as companies realize quantum computing promises are distant and current AI scaling hits physics limits.",
-      "subreddits": [
-        "zerohedge",
-        "404media",
-        "arstechnica"
-      ],
-      "cross_community_score": 3,
-      "engagement_score": 4,
-      "total_score": 7,
-      "momentum": "emerging",
-      "why_signal": "Technical and investor communities beginning to publicly surface doubts about AI scalability; signals potential market correction ahead.",
-      "posts": [
-        {
-          "title": "AI's Coming Reality Check: When The Physics Finally Hits The Hype",
-          "url": "https://www.zerohedge.com/ai/ais-coming-reality-check-when-physics-finally-hits-hype",
-          "subreddit": "zerohedge",
-          "score": 80
-        },
-        {
-          "title": "The End Of Digital Trust: How Quantum Computing Could Upend Security, Business, & Global Stability",
-          "url": "https://www.zerohedge.com/technology/end-digital-trust-how-quantum-computing-could-upend-security-business-global-stability",
-          "subreddit": "zerohedge",
-          "score": 60
-        }
-      ]
-    },
-    {
-      "title": "Trump machine consolidating power through primaries",
-      "summary": "Trump intervening directly in Republican gubernatorial primaries in multiple states (South Carolina, Iowa, Oklahoma), using endorsement as enforcement mechanism. Pattern suggests consolidation of party apparatus under direct Trump control, marginalizing institutional Republicans.",
-      "subreddits": [
-        "politico",
-        "thehill"
-      ],
-      "cross_community_score": 2,
-      "engagement_score": 4,
-      "total_score": 6,
-      "momentum": "holding",
-      "why_signal": "Multiple simultaneous primary interventions; Cornyn loss signals establishment weakness; suggests intra-party realignment accelerating.",
-      "posts": [
-        {
-          "title": "Trump jumps into Republican primaries for governor in South Carolina, Iowa and Oklahoma",
-          "url": "https://www.politico.com/news/2026/05/30/trump-jumps-into-republican-primaries-for-governor-in-south-carolina-iowa-and-oklahoma-00943600",
-          "subreddit": "politico",
-          "score": 95
-        },
-        {
-          "title": "The Texas GOP finally turned on Cornyn",
-          "url": "https://www.politico.com/news/2026/05/26/cornyn-senate-career-ends-trump-paxton-00937548",
-          "subreddit": "politico",
-          "score": 30
-        }
-      ]
-    },
-    {
-      "title": "Celebrity influence reshaping mainstream politics",
-      "summary": "Spencer Pratt (reality TV star) emerging as serious electoral threat in LA mayoral race, with Democrat establishment worried. Pattern suggests entertainment/social media figures are displacing traditional political infrastructure and capturing voter attention.",
-      "subreddits": [
-        "zerohedge",
-        "politico",
-        "theintercept",
-        "404media"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 3,
-      "total_score": 7,
-      "momentum": "emerging",
-      "why_signal": "Crossing from entertainment gossip into serious political analysis; signals breakdown of gatekeeping; appears across ideological spectrum.",
-      "posts": [
-        {
-          "title": "The Democrat Establishment Is Starting To Worry About Spencer Pratt",
-          "url": "https://www.zerohedge.com/political/democrat-establishment-starting-worry-about-spencer-pratt",
-          "subreddit": "zerohedge",
-          "score": 85
-        },
-        {
-          "title": "The Los Angeles Left Is at War With Itself Over the Mayor's Race",
-          "url": "https://theintercept.com/2026/05/29/la-mayor-rae-huang-nithya-raman-spencer-pratt/",
-          "subreddit": "theintercept",
-          "score": 90
+          "title": "Silicon Valley was built on public money \u2014 now it's fighting California's billionaire tax",
+          "url": "https://www.marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac",
+          "subreddit": "marketwatch",
+          "score": 55
         }
       ]
     }
   ],
   "date": "2026-06-01",
-  "run_timestamp": "2026-06-01T06:47:56.638551+00:00",
+  "run_timestamp": "2026-06-01T17:10:14.052990+00:00",
   "total_posts_analyzed": 255,
   "subreddits_active": 18
 }

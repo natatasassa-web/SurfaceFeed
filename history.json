@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-17",
-      "theories": [
-        "Trump administration engaged in textbook insider trading",
-        "Legalized insider trading protecting elite from accountability",
-        "Administration deprioritizes American financial hardship for geopolitical wars",
-        "Executive branch weaponizing DOJ against political opponents",
-        "US-backed operation to kidnap Evo Morales in Bolivia",
-        "AI data center power crisis threatening grid collapse",
-        "Europe accelerating technological independence from US",
-        "Infectious disease outbreak cascade: Ebola, Hantavirus, disease vectors",
-        "Trump using federal apparatus for personal construction vanity projects",
-        "Cabinet member financial conflicts ignored during confirmation"
-      ],
-      "scores": {
-        "Trump administration engaged in textbook insider trading": 9,
-        "Legalized insider trading protecting elite from accountability": 9,
-        "Administration deprioritizes American financial hardship for geopolitical wars": 8,
-        "Executive branch weaponizing DOJ against political opponents": 7,
-        "US-backed operation to kidnap Evo Morales in Bolivia": 7,
-        "AI data center power crisis threatening grid collapse": 8,
-        "Europe accelerating technological independence from US": 8,
-        "Infectious disease outbreak cascade: Ebola, Hantavirus, disease vectors": 6,
-        "Trump using federal apparatus for personal construction vanity projects": 7,
-        "Cabinet member financial conflicts ignored during confirmation": 6
-      }
-    },
-    {
       "date": "2026-05-19",
       "theories": [
         "Trump executing textbook insider trading pattern",
@@ -304,6 +277,31 @@
         "AI hype meets physics reality check": 7,
         "Trump machine consolidating power through primaries": 6,
         "Celebrity influence reshaping mainstream politics": 7
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "theories": [
+        "US-Iran escalation cycle destabilizing energy markets",
+        "Tech mega-IPOs signal AI hype bubble stress test",
+        "Trump administration weaponizing federal agencies beyond norms",
+        "Fed independence under sustained political attack",
+        "YouTube creators bypassing traditional media gatekeeping",
+        "AI data centers spawning grassroots opposition and surveillance",
+        "Left populism challenging Democratic establishment in swing states",
+        "Institutional cyber-security failures exposing government secrets",
+        "Tech billionaires spending record sums to block wealth taxes"
+      ],
+      "scores": {
+        "US-Iran escalation cycle destabilizing energy markets": 10,
+        "Tech mega-IPOs signal AI hype bubble stress test": 10,
+        "Trump administration weaponizing federal agencies beyond norms": 9,
+        "Fed independence under sustained political attack": 8,
+        "YouTube creators bypassing traditional media gatekeeping": 8,
+        "AI data centers spawning grassroots opposition and surveillance": 8,
+        "Left populism challenging Democratic establishment in swing states": 7,
+        "Institutional cyber-security failures exposing government secrets": 7,
+        "Tech billionaires spending record sums to block wealth taxes": 6
       }
     }
   ]
