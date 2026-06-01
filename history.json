@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-15",
-      "theories": [
-        "Trump insider trading on policy announcements",
-        "AI data centers collapsing power grids catastrophically",
-        "US-China economic capture and geopolitical leverage shift",
-        "Cost of living crisis despite admin economic claims",
-        "Executive branch weaponizing DOJ against opposition",
-        "Infectious disease outbreaks spreading from cruise vectors",
-        "Institutional education unraveling via AI cheating epidemic",
-        "Supply chain fragility and food shortage signals",
-        "Europe accelerating strategic independence from US tech",
-        "Tech sector mass layoffs despite record revenue"
-      ],
-      "scores": {
-        "Trump insider trading on policy announcements": 10,
-        "AI data centers collapsing power grids catastrophically": 9,
-        "US-China economic capture and geopolitical leverage shift": 9,
-        "Cost of living crisis despite admin economic claims": 8,
-        "Executive branch weaponizing DOJ against opposition": 7,
-        "Infectious disease outbreaks spreading from cruise vectors": 7,
-        "Institutional education unraveling via AI cheating epidemic": 8,
-        "Supply chain fragility and food shortage signals": 7,
-        "Europe accelerating strategic independence from US tech": 6,
-        "Tech sector mass layoffs despite record revenue": 7
-      }
-    },
-    {
       "date": "2026-05-16",
       "theories": [
         "Trump administration profiting from policy decisions",
@@ -327,6 +300,11 @@
     },
     {
       "date": "2026-05-29",
+      "theories": [],
+      "scores": {}
+    },
+    {
+      "date": "2026-06-01",
       "theories": [],
       "scores": {}
     }
