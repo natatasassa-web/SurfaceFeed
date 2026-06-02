@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-19",
-      "theories": [
-        "Trump executing textbook insider trading pattern",
-        "Executive branch weaponizing DOJ for political patronage",
-        "Cascading system failures in AI-dependent infrastructure",
-        "Global energy crisis threatening economic collapse",
-        "Environmental/epidemiological cascade events materializing",
-        "US housing market bifurcation by age/wealth",
-        "European tech sovereignty accelerating away from US",
-        "Cabinet member conflicts ignored/normalized by Congress",
-        "Working Americans unable to meet basic needs"
-      ],
-      "scores": {
-        "Trump executing textbook insider trading pattern": 10,
-        "Executive branch weaponizing DOJ for political patronage": 10,
-        "Cascading system failures in AI-dependent infrastructure": 9,
-        "Global energy crisis threatening economic collapse": 9,
-        "Environmental/epidemiological cascade events materializing": 7,
-        "US housing market bifurcation by age/wealth": 6,
-        "European tech sovereignty accelerating away from US": 7,
-        "Cabinet member conflicts ignored/normalized by Congress": 7,
-        "Working Americans unable to meet basic needs": 8
-      }
-    },
-    {
       "date": "2026-05-20",
       "theories": [
         "Trump executing textbook insider trading pattern",
@@ -302,6 +277,33 @@
         "Left populism challenging Democratic establishment in swing states": 7,
         "Institutional cyber-security failures exposing government secrets": 7,
         "Tech billionaires spending record sums to block wealth taxes": 6
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "theories": [
+        "AI Systems Exploitable via Social Engineering",
+        "Iran Ceasefire Collapse Triggers Energy Crisis",
+        "Grassroots AI Data Center Opposition Spreading Nationally",
+        "Trump Admin Weaponizing Intelligence Appointments Beyond Norms",
+        "Tech IPO Bubble Stress-Testing Under AI Cost Pressure",
+        "Left Populism Forcing Democratic Establishment Realignment",
+        "Government Cybersecurity Infrastructure Crumbling Under Attack",
+        "Labor Market Anomaly Signals Recession or Data Manipulation",
+        "Trump Slush Fund Backlash Shows Institutional Limits",
+        "Pentagon Running AI Propaganda Network in Latin America"
+      ],
+      "scores": {
+        "AI Systems Exploitable via Social Engineering": 10,
+        "Iran Ceasefire Collapse Triggers Energy Crisis": 9,
+        "Grassroots AI Data Center Opposition Spreading Nationally": 8,
+        "Trump Admin Weaponizing Intelligence Appointments Beyond Norms": 9,
+        "Tech IPO Bubble Stress-Testing Under AI Cost Pressure": 9,
+        "Left Populism Forcing Democratic Establishment Realignment": 9,
+        "Government Cybersecurity Infrastructure Crumbling Under Attack": 9,
+        "Labor Market Anomaly Signals Recession or Data Manipulation": 9,
+        "Trump Slush Fund Backlash Shows Institutional Limits": 9,
+        "Pentagon Running AI Propaganda Network in Latin America": 7
       }
     }
   ]
