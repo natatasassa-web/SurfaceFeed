@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-20",
-      "theories": [
-        "Trump executing textbook insider trading pattern",
-        "Executive branch weaponizing DOJ for political patronage",
-        "Political primary system captured by foreign influence",
-        "Stock market artificially inflated by megacap concentration",
-        "Gen Z mounting organized AI infrastructure backlash",
-        "Global energy crisis collapsing economic assumptions",
-        "Housing market bifurcation by generational wealth lock",
-        "European tech sovereignty acceleration from US decoupling",
-        "Multiple public safety institutions normalizing security theater",
-        "AI infrastructure investment economically inviable long-term"
-      ],
-      "scores": {
-        "Trump executing textbook insider trading pattern": 10,
-        "Executive branch weaponizing DOJ for political patronage": 10,
-        "Political primary system captured by foreign influence": 9,
-        "Stock market artificially inflated by megacap concentration": 8,
-        "Gen Z mounting organized AI infrastructure backlash": 9,
-        "Global energy crisis collapsing economic assumptions": 8,
-        "Housing market bifurcation by generational wealth lock": 6,
-        "European tech sovereignty acceleration from US decoupling": 6,
-        "Multiple public safety institutions normalizing security theater": 8,
-        "AI infrastructure investment economically inviable long-term": 7
-      }
-    },
-    {
       "date": "2026-05-21",
       "theories": [
         "Trump executing systematic self-enrichment via executive power",
@@ -304,6 +277,33 @@
         "Labor Market Anomaly Signals Recession or Data Manipulation": 9,
         "Trump Slush Fund Backlash Shows Institutional Limits": 9,
         "Pentagon Running AI Propaganda Network in Latin America": 7
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "theories": [
+        "AI Systems Exploitable via Social Engineering at Scale",
+        "Iran Ceasefire Collapse Triggering Cascading Conflict",
+        "Private Markets Entering Stress Cascade: Gating & Redemptions",
+        "Trump Admin Intelligence Appointments Bypassing Senate Vetting",
+        "Grassroots Opposition to AI Data Centers Going Mainstream",
+        "Left Populism Outperforming Centrist Establishment in Primaries",
+        "Government Cybersecurity Infrastructure Actively Failing Under Load",
+        "SpaceX IPO Valuation Disconnect from Fundamentals",
+        "Mainstream Media Under Pressure to Inject Unverified Claims",
+        "Trump Agenda Facing Rare Primary Losses & Congressional Pushback"
+      ],
+      "scores": {
+        "AI Systems Exploitable via Social Engineering at Scale": 9,
+        "Iran Ceasefire Collapse Triggering Cascading Conflict": 10,
+        "Private Markets Entering Stress Cascade: Gating & Redemptions": 7,
+        "Trump Admin Intelligence Appointments Bypassing Senate Vetting": 8,
+        "Grassroots Opposition to AI Data Centers Going Mainstream": 7,
+        "Left Populism Outperforming Centrist Establishment in Primaries": 8,
+        "Government Cybersecurity Infrastructure Actively Failing Under Load": 7,
+        "SpaceX IPO Valuation Disconnect from Fundamentals": 7,
+        "Mainstream Media Under Pressure to Inject Unverified Claims": 7,
+        "Trump Agenda Facing Rare Primary Losses & Congressional Pushback": 7
       }
     }
   ]
