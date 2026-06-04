@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-21",
-      "theories": [
-        "Trump executing systematic self-enrichment via executive power",
-        "AI infrastructure investment economically inviable, pyramid cracking",
-        "Mass public safety institutions normalizing pre-crime surveillance state",
-        "Political violence escalating, protection infrastructure hardening visibly",
-        "Cost of living crisis deepening, wage collapse accelerating",
-        "European decoupling from US tech and security architecture",
-        "Supply chain fragility triggering preemptive resource hoarding",
-        "Executive branch removing constitutional and legal guardrails systematically",
-        "Information ecosystems collapsing, trust in institutions evaporating"
-      ],
-      "scores": {
-        "Trump executing systematic self-enrichment via executive power": 10,
-        "AI infrastructure investment economically inviable, pyramid cracking": 10,
-        "Mass public safety institutions normalizing pre-crime surveillance state": 9,
-        "Political violence escalating, protection infrastructure hardening visibly": 8,
-        "Cost of living crisis deepening, wage collapse accelerating": 8,
-        "European decoupling from US tech and security architecture": 8,
-        "Supply chain fragility triggering preemptive resource hoarding": 7,
-        "Executive branch removing constitutional and legal guardrails systematically": 7,
-        "Information ecosystems collapsing, trust in institutions evaporating": 7
-      }
-    },
-    {
       "date": "2026-05-22",
       "theories": [
         "Trump executing systematic self-enrichment via executive power",
@@ -304,6 +279,33 @@
         "SpaceX IPO Valuation Disconnect from Fundamentals": 7,
         "Mainstream Media Under Pressure to Inject Unverified Claims": 7,
         "Trump Agenda Facing Rare Primary Losses & Congressional Pushback": 7
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "theories": [
+        "Private Credit Markets Hitting Redemption Crisis",
+        "AI Systems Failing Security via Social Engineering",
+        "Iran War Fray: Ceasefire Claims vs. Reality",
+        "Trump Administration Bypassing Normal Vetting Processes",
+        "Tech Layoffs + AI Redundancy Collapse Narrative",
+        "Corporate Media Crackdown on Integrity (60 Minutes)",
+        "Energy Shock Cascading Through Asia & Europe",
+        "Left Populism Outperforming Centrist Democrats",
+        "Quantum Computing IPO Hype vs. Fundamentals Decoupling",
+        "Biological/Agricultural Supply Chain Ruptures Surfacing"
+      ],
+      "scores": {
+        "Private Credit Markets Hitting Redemption Crisis": 8,
+        "AI Systems Failing Security via Social Engineering": 8,
+        "Iran War Fray: Ceasefire Claims vs. Reality": 9,
+        "Trump Administration Bypassing Normal Vetting Processes": 8,
+        "Tech Layoffs + AI Redundancy Collapse Narrative": 7,
+        "Corporate Media Crackdown on Integrity (60 Minutes)": 7,
+        "Energy Shock Cascading Through Asia & Europe": 7,
+        "Left Populism Outperforming Centrist Democrats": 7,
+        "Quantum Computing IPO Hype vs. Fundamentals Decoupling": 7,
+        "Biological/Agricultural Supply Chain Ruptures Surfacing": 8
       }
     }
   ]
