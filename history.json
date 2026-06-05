@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-22",
-      "theories": [
-        "Trump executing systematic self-enrichment via executive power",
-        "AI infrastructure investment economically inviable, pyramid cracking",
-        "Executive branch removing constitutional guardrails systematically",
-        "Cost of living crisis deepening, wage collapse accelerating",
-        "Political violence escalating, protection hardening visibly",
-        "Supply chain fragility triggering preemptive resource hoarding",
-        "Information ecosystems collapsing, trust evaporating rapidly",
-        "Mass surveillance normalized, pre-crime infrastructure hardening",
-        "Democratic institutions failing, norms breaking irreversibly",
-        "Tech CEO dominance reshaping labor markets structurally"
-      ],
-      "scores": {
-        "Trump executing systematic self-enrichment via executive power": 10,
-        "AI infrastructure investment economically inviable, pyramid cracking": 9,
-        "Executive branch removing constitutional guardrails systematically": 8,
-        "Cost of living crisis deepening, wage collapse accelerating": 7,
-        "Political violence escalating, protection hardening visibly": 7,
-        "Supply chain fragility triggering preemptive resource hoarding": 6,
-        "Information ecosystems collapsing, trust evaporating rapidly": 7,
-        "Mass surveillance normalized, pre-crime infrastructure hardening": 7,
-        "Democratic institutions failing, norms breaking irreversibly": 6,
-        "Tech CEO dominance reshaping labor markets structurally": 7
-      }
-    },
-    {
       "date": "2026-05-23",
       "theories": [
         "Executive self-enrichment via slush funds",
@@ -306,6 +279,33 @@
         "Left Populism Outperforming Centrist Democrats": 7,
         "Quantum Computing IPO Hype vs. Fundamentals Decoupling": 7,
         "Biological/Agricultural Supply Chain Ruptures Surfacing": 8
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "theories": [
+        "Government Attempting Mass Data Erasure",
+        "Iran War Ceasefire Theater vs Reality",
+        "AI Systems Exploitable via Social Engineering",
+        "Markets Decoupling from Reality Signals",
+        "Left Populism Outperforming Centrist Democrats",
+        "Trump Administration Vetting Completely Bypassed",
+        "Energy Shock Cascading Through Global Economy",
+        "Mainstream Media Integrity Under Siege",
+        "Cryptocurrency Vulnerability Exposure Cascade",
+        "Infrastructure Decay Across US Systems"
+      ],
+      "scores": {
+        "Government Attempting Mass Data Erasure": 9,
+        "Iran War Ceasefire Theater vs Reality": 10,
+        "AI Systems Exploitable via Social Engineering": 9,
+        "Markets Decoupling from Reality Signals": 8,
+        "Left Populism Outperforming Centrist Democrats": 7,
+        "Trump Administration Vetting Completely Bypassed": 7,
+        "Energy Shock Cascading Through Global Economy": 7,
+        "Mainstream Media Integrity Under Siege": 7,
+        "Cryptocurrency Vulnerability Exposure Cascade": 5,
+        "Infrastructure Decay Across US Systems": 8
       }
     }
   ]
