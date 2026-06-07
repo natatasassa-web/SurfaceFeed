@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-23",
-      "theories": [
-        "Executive self-enrichment via slush funds",
-        "Constitutional guardrails collapsing systematically",
-        "AI infrastructure economically inviable",
-        "Consumer sentiment collapsing amid cost crisis",
-        "Mass surveillance & pre-crime infrastructure hardening",
-        "Supply chain fragility triggering preemptive hoarding",
-        "Information ecosystems collapsing, institutional trust evaporating",
-        "Tech CEO dominance reshaping labor, democratic voice eroding",
-        "Democratic institutions failing, electoral integrity threatened"
-      ],
-      "scores": {
-        "Executive self-enrichment via slush funds": 10,
-        "Constitutional guardrails collapsing systematically": 9,
-        "AI infrastructure economically inviable": 9,
-        "Consumer sentiment collapsing amid cost crisis": 8,
-        "Mass surveillance & pre-crime infrastructure hardening": 8,
-        "Supply chain fragility triggering preemptive hoarding": 7,
-        "Information ecosystems collapsing, institutional trust evaporating": 8,
-        "Tech CEO dominance reshaping labor, democratic voice eroding": 8,
-        "Democratic institutions failing, electoral integrity threatened": 8
-      }
-    },
-    {
       "date": "2026-05-25",
       "theories": [
         "Executive wealth extraction via slush funds intensifying",
@@ -306,6 +281,33 @@
         "Mainstream Media Integrity Under Siege": 7,
         "Cryptocurrency Vulnerability Exposure Cascade": 5,
         "Infrastructure Decay Across US Systems": 8
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "theories": [
+        "Iran War Ceasefire Completely Fraudulent",
+        "Tech Stock Crash Signals Market Decoupling Reality",
+        "AI Systems Failing at Core Tasks, Widespread",
+        "Housing Crisis Creating Permanence Trap",
+        "Government Infrastructure Surveillance Acceleration",
+        "Democratic Party Structural Collapse In Key Races",
+        "Executive Overreach Beyond Vetting or Congressional Limits",
+        "Geopolitical Energy Shock Cascading Through Economy",
+        "Mainstream Media Institutional Crisis Deepening",
+        "Wealth Inequality Creating Retirement Safety Collapse"
+      ],
+      "scores": {
+        "Iran War Ceasefire Completely Fraudulent": 10,
+        "Tech Stock Crash Signals Market Decoupling Reality": 9,
+        "AI Systems Failing at Core Tasks, Widespread": 9,
+        "Housing Crisis Creating Permanence Trap": 7,
+        "Government Infrastructure Surveillance Acceleration": 8,
+        "Democratic Party Structural Collapse In Key Races": 8,
+        "Executive Overreach Beyond Vetting or Congressional Limits": 7,
+        "Geopolitical Energy Shock Cascading Through Economy": 8,
+        "Mainstream Media Institutional Crisis Deepening": 7,
+        "Wealth Inequality Creating Retirement Safety Collapse": 4
       }
     }
   ]
