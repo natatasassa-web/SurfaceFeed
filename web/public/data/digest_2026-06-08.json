@@ -1,97 +1,101 @@
 {
+  "date": "2026-06-08",
+  "run_timestamp": "2026-06-08T17:23:17.564821+00:00",
+  "total_posts_analyzed": 287,
+  "subreddits_active": 24,
   "theories": [
     {
-      "title": "Iran-Israel Ceasefire Is Theater, Not Peace",
-      "summary": "Multiple sources confirm the announced ceasefire is fraudulent\u2014both sides continue military operations despite Trump's demands. Iran and Israel are trading strikes in real-time while claiming to have ended hostilities, revealing the ceasefire as performative diplomacy.",
+      "title": "Retirement Systems Collapsing Under Demographic Pressure",
+      "summary": "Multiple sources report retirement safety nets failing: Social Security faces $500/month cuts, grandparents forced to raise grandchildren at financial cost, luxury retirement communities in debt, and elderly unable to sustain themselves. Pattern shows systemic failure across all retirement models\u2014public, private, and multi-generational.",
       "subreddits": [
+        "marketwatch",
         "nakedcapitalism",
-        "theintercept",
-        "zerohedge",
-        "thehill",
         "axios"
+      ],
+      "cross_community_score": 3,
+      "engagement_score": 5,
+      "total_score": 8,
+      "momentum": "surging",
+      "why_signal": "This broadens from yesterday's 'retirement safety nets collapsing' into showing the mechanism (demographics + policy) is accelerating across all retirement models simultaneously.",
+      "posts": [
+        {
+          "title": "We thought we found the perfect luxury retirement community, but it's millions in debt",
+          "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5",
+          "subreddit": "marketwatch",
+          "score": 95
+        },
+        {
+          "title": "Millions of grandparents are spending retirements raising grandkids \u2014 financial toll",
+          "url": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102",
+          "subreddit": "marketwatch",
+          "score": 85
+        },
+        {
+          "title": "Social Security facing $500-a-month cut; bipartisan commission proposed",
+          "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a",
+          "subreddit": "marketwatch",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "title": "Iran-Israel War Theater Continues Despite 'Ceasefire'",
+      "summary": "Despite Trump's claims of an 'immediate ceasefire,' Iran and Israel continue trading strikes. Iran launches missiles, Israel retaliates, Hezbollah and Houthis maintain attacks\u2014suggesting the ceasefire is strategic posturing rather than actual de-escalation. Multiple sources frame this as theater masking ongoing conflict.",
+      "subreddits": [
+        "zerohedge",
+        "nakedcapitalism",
+        "thehill",
+        "axios",
+        "theguardian",
+        "theintercept"
       ],
       "cross_community_score": 5,
       "engagement_score": 5,
       "total_score": 10,
       "momentum": "surging",
-      "why_signal": "Cross-community agreement from left, right, and financial media that official statements contradict observable military actions\u2014classic sign of institutional deception unraveling in real-time.",
+      "why_signal": "This directly confirms yesterday's 'Iran-Israel Ceasefire Is Theater' narrative (score 10) with fresh evidence of ongoing strikes and Houthi/Hezbollah escalation\u2014now spreading across financial, political, and policy communities.",
       "posts": [
         {
-          "title": "Stop Calling It a Ceasefire",
-          "url": "https://theintercept.com/2026/06/03/ceasefire-iran-war-trump/",
-          "subreddit": "theintercept",
+          "title": "Netanyahu says Israel will strike Iran 'whenever necessary' after Trump demand",
+          "url": "https://thehill.com/homenews/administration/5914878-netanyahu-self-defense-iran/",
+          "subreddit": "thehill",
           "score": 70
         },
         {
-          "title": "Iran War: Iran Launches New Strikes on Israel After Netanyahu Humiliated Trump",
-          "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-launches-new-strikes-on-israel-after-netanyahu-humiliated-trump-by-ignoring-demand-to-stand-pat-ansar-allah-attacks-israel-and-saudi-base-makes-red-sea-threat-south-korea-swoon-adds.html",
-          "subreddit": "nakedcapitalism",
-          "score": 90
+          "title": "Iran and Israel announce halt to hostilities; Trump claims both sides want immediate ceasefire",
+          "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
+          "subreddit": "theguardian",
+          "score": 70
         },
         {
-          "title": "Netanyahu says Israel will strike Iran 'whenever necessary' after Trump's 'I call the shots' remark",
-          "url": "https://thehill.com/homenews/administration/5914878-netanyahu-self-defense-iran/",
-          "subreddit": "thehill",
-          "score": 90
+          "title": "Stop Calling It a Ceasefire: How many acts of war until media accepts there is no ceasefire?",
+          "url": "https://theintercept.com/2026/06/03/ceasefire-iran-war-trump/",
+          "subreddit": "theintercept",
+          "score": 65
         }
       ]
     },
     {
-      "title": "Retirement Safety Nets Collapsing Across Economy",
-      "summary": "A convergence of reporting on seniors losing retirement security: luxury retirement communities are debt-trapped, grandparents are impoverished raising grandchildren, Social Security faces $500/month cuts, and wealth inequality is creating permanent retirement traps. The system is systematically failing ordinary retirees.",
+      "title": "AI Systems Failing Real-World Tasks at Scale",
+      "summary": "Microsoft, Google, Meta, and OpenAI systems are demonstrably failing: Microsoft's GitHub repositories hacked to deliver malware to AI users, Google employees leak memes admitting AI code quality is overhyped, Meta's AI support bot exploited to hijack Instagram accounts, AI gun detection failed at school shooting. Pattern shows AI reliability is much lower than marketed.",
       "subreddits": [
-        "marketwatch",
-        "nakedcapitalism",
-        "theguardian",
-        "axios"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 5,
-      "total_score": 9,
-      "momentum": "surging",
-      "why_signal": "This wasn't yesterday's main story but is now appearing as a pattern across financial and mainstream outlets\u2014suggests a crisis moment where individual stories aggregate into systemic failure narrative.",
-      "posts": [
-        {
-          "title": "We thought we found the perfect luxury retirement community, but it's millions of dollars in debt. Are we trapped?",
-          "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5",
-          "subreddit": "marketwatch",
-          "score": 100
-        },
-        {
-          "title": "Millions of grandparents are spending their retirements raising their grandkids \u2014 and it's taking a financial toll",
-          "url": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102",
-          "subreddit": "marketwatch",
-          "score": 90
-        },
-        {
-          "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
-          "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a",
-          "subreddit": "marketwatch",
-          "score": 85
-        }
-      ]
-    },
-    {
-      "title": "AI Systems Widely Failing Real-World Tasks",
-      "summary": "Multiple reports document AI systems malfunctioning at core functions: gun detection failing to spot weapons, hiring companies finding AI-generated code overhyped and buggy, Meta's AI support system exploited by hackers, judges slamming lawyers for AI-generated fake citations. The hype cycle is colliding with capability reality.",
-      "subreddits": [
-        "arstechnica",
         "404media",
-        "bleepingcomputer",
+        "arstechnica",
         "krebsonsecurity",
+        "bleepingcomputer",
         "wired"
       ],
       "cross_community_score": 5,
-      "engagement_score": 4,
-      "total_score": 9,
-      "momentum": "holding",
-      "why_signal": "Continues from yesterday but with new concrete examples\u2014failures are becoming *documented* rather than speculative, shifting from theory to evidence.",
+      "engagement_score": 5,
+      "total_score": 10,
+      "momentum": "surging",
+      "why_signal": "This extends yesterday's 'AI Systems Widely Failing Real-World Tasks' (score 9) with new, major incidents involving security compromise at Microsoft, credential theft at Meta, and mass hijacking\u2014now reaching security and mainstream tech communities.",
       "posts": [
         {
-          "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-          "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-          "subreddit": "arstechnica",
-          "score": 80
+          "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
+          "url": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+          "subreddit": "404media",
+          "score": 100
         },
         {
           "title": "Google Employees Internally Share Memes About How Its AI Sucks",
@@ -109,159 +113,107 @@
     },
     {
       "title": "Data Centers Destroying Communities and Resources",
-      "summary": "Coordinated reporting on AI/data center expansion causing environmental collapse and community displacement: facilities being built on drought-hit land, farmers' donated parkland converted to data centers without consent, fish kills in Arizona from water stress, local residents protesting and winning 50% reductions in planned builds.",
+      "summary": "A farmer donated 87 acres to a small Texas city for a park; the city sold the land to a data center developer for $10M instead. Data centers are consuming enormous water and power resources while local communities absorb environmental damage. This pattern shows systemic land-grab and resource exploitation disguised as economic development.",
       "subreddits": [
         "nakedcapitalism",
         "404media",
         "arstechnica",
-        "theguardian",
         "theintercept"
       ],
-      "cross_community_score": 5,
-      "engagement_score": 4,
+      "cross_community_score": 4,
+      "engagement_score": 5,
       "total_score": 9,
       "momentum": "surging",
-      "why_signal": "This narrative jumped from niche tech/environmental outlets into mainstream media (Guardian, Intercept)\u2014suggests a tipping point where community backlash is becoming newsworthy.",
+      "why_signal": "Directly continues yesterday's 'Data Centers Destroying Communities and Resources' (score 9) with specific case study and evidence of deliberate land conversion + community opposition growing (developer had to cut plans 50% due to protests).",
       "posts": [
         {
-          "title": "5 Ways Data Centers Endanger Their Local Communities and the Country as a Whole",
-          "url": "https://www.nakedcapitalism.com/2026/06/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole.html",
-          "subreddit": "nakedcapitalism",
-          "score": 100
-        },
-        {
-          "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Massive Data Center Instead",
+          "title": "A Farmer Donated Land for a Park. The City Is Building a Data Center Instead",
           "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
           "subreddit": "404media",
           "score": 90
         },
         {
-          "title": "Majority of US's new AI datacenters to be built on drought-hit land",
-          "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
-          "subreddit": "theguardian",
-          "score": 60
-        }
-      ]
-    },
-    {
-      "title": "Trump Executive Power Operating Without Vetting",
-      "summary": "Pattern of Trump administration bypassing normal institutional oversight: EPA being pressured to approve risky products without proper testing, $620M loan to Trump Jr.-linked firm without standard review, Pentagon reworking religious policies after lobbying. Executive authority is expanding faster than legal or Congressional restraints.",
-      "subreddits": [
-        "rawstory",
-        "propublica",
-        "theintercept",
-        "thehill"
-      ],
-      "cross_community_score": 4,
-      "engagement_score": 4,
-      "total_score": 8,
-      "momentum": "emerging",
-      "why_signal": "New specific examples of administrative abuse appearing across investigative outlets\u2014shows pattern recognition happening independent of partisan media.",
-      "posts": [
-        {
-          "title": "Trump officials pressuring agency to approve risky products in absurd tests: CNN",
-          "url": "https://www.rawstory.com/environmental-protection-agency-research/",
-          "subreddit": "rawstory",
+          "title": "5 Ways Data Centers Endanger Local Communities and the Country",
+          "url": "https://www.nakedcapitalism.com/2026/06/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole.html",
+          "subreddit": "nakedcapitalism",
           "score": 100
         },
         {
-          "title": "Lawmakers Demand Answers After the White House Initiated a $620M Loan to a Firm Tied to Donald Trump Jr.",
-          "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-lawmakers-letter",
-          "subreddit": "propublica",
-          "score": 60
-        },
-        {
-          "title": "Pentagon reworks 'offensive' policy affecting LDS after Mormon lawmakers loudly protest",
-          "url": "https://thehill.com/policy/defense/5914835-pentagon-christian-list-controversy/",
-          "subreddit": "thehill",
-          "score": 70
+          "title": "'We pissed off a lot of people': Giant data center plan cut 50% amid protests",
+          "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+          "subreddit": "arstechnica",
+          "score": 40
         }
       ]
     },
     {
-      "title": "War Economics Cascading Through Daily Costs",
-      "summary": "Iran war is materially driving inflation across consumer sectors: airline fuel costs jumped 78% in past year, oil prices near $200/barrel at risk, Houthis blocking Red Sea shipping creating supply chain crises, energy shocks forcing rate increase discussions. Geopolitical conflict is no longer theoretical\u2014it's in grocery stores and gas tanks.",
+      "title": "Trump Executive Power Operating Without Oversight",
+      "summary": "Trump administration is revoking citizenship of 17 foreign-born Americans without due process, pressuring EPA to approve risky products in 'absurd tests,' and wielding denaturalization as political weapon. Pattern shows executive branch operating outside normal congressional/judicial vetting with minimal resistance.",
       "subreddits": [
         "thehill",
-        "nakedcapitalism",
-        "zerohedge",
-        "rawstory"
+        "rawstory",
+        "propublica"
       ],
-      "cross_community_score": 4,
+      "cross_community_score": 3,
       "engagement_score": 4,
-      "total_score": 8,
+      "total_score": 7,
       "momentum": "holding",
-      "why_signal": "Financial community treating war as energy shock, not just political event\u2014suggests mainstream economy accepts this will persist for months, not days.",
+      "why_signal": "This confirms yesterday's 'Trump Executive Power Operating Without Vetting' (score 8) with new evidence of citizenship revocation campaigns and EPA pressure\u2014shows pattern is systematizing rather than slowing.",
       "posts": [
         {
-          "title": "Airline fuel costs jump 78 percent in past year amid war with Iran",
-          "url": "https://thehill.com/policy/transportation/5914712-iran-war-airline-fuel-costs/",
+          "title": "Trump administration seeking to revoke citizenship of 17 in denaturalization push",
+          "url": "https://thehill.com/homenews/administration/5914957-doj-seeks-strip-citizenship/",
           "subreddit": "thehill",
-          "score": 55
+          "score": 100
         },
         {
-          "title": "Trump risks sending oil 'well above $200 per barrel' as he nears critical juncture: expert",
-          "url": "https://www.rawstory.com/trump-iran-2677011656/",
+          "title": "Trump officials pressuring agency to approve risky products in absurd tests",
+          "url": "https://rawstory.com/environmental-protection-agency-research/",
           "subreddit": "rawstory",
-          "score": 90
-        },
-        {
-          "title": "Houthis Declare 'Total Ban' On Israeli Ships As Dual Chokepoint Crisis Stokes Supply Chain Nightmare",
-          "url": "https://www.zerohedge.com/commodities/houthis-declare-total-ban-israeli-ships-dual-chokepoint-crisis-stokes-supply-chain",
-          "subreddit": "zerohedge",
-          "score": 35
+          "score": 85
         }
       ]
     },
     {
-      "title": "Microsoft, Meta AI Systems Compromised by Hackers",
-      "summary": "Critical vulnerabilities in major AI companies' infrastructure: Microsoft GitHub repositories hacked to deliver malware targeting Claude/Gemini users, Meta's AI support bot weaponized to steal 20,000+ Instagram accounts, foundational security failures at scale. Core AI platforms are becoming attack vectors.",
+      "title": "US Energy Stranglehold Over EU Expanding",
+      "summary": "US is increasing control over EU energy supplies by positioning itself as gatekeeper to Caspian and Black Sea region resources. EU leadership shows little resistance to becoming energy-dependent on US geopolitical leverage. Pattern reveals structural shift toward US-controlled energy choke points.",
       "subreddits": [
-        "404media",
-        "bleepingcomputer",
-        "krebsonsecurity",
+        "nakedcapitalism",
         "wired"
       ],
-      "cross_community_score": 4,
+      "cross_community_score": 2,
       "engagement_score": 4,
-      "total_score": 8,
-      "momentum": "emerging",
-      "why_signal": "These aren't theoretical vulnerabilities\u2014they're active exploitation at scale affecting millions of users, suggesting AI security is fundamentally immature.",
+      "total_score": 6,
+      "momentum": "holding",
+      "why_signal": "Directly matches yesterday's 'US Stranglehold on EU Energy Creates Dependency' (score 6) with new reporting on Caucasus/Caspian strategy\u2014persistent but not yet multi-community breakout.",
       "posts": [
         {
-          "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
-          "url": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
-          "subreddit": "404media",
-          "score": 100
+          "title": "'Are We Really Such Idiots?' US Increases Stranglehold on EU Energy with Caucasus Role",
+          "url": "https://www.nakedcapitalism.com/2026/06/are-we-really-such-idiots-us-increases-stranglehold-of-eu-energy-supply-with-growing-role-in-caucasus.html",
+          "subreddit": "nakedcapitalism",
+          "score": 85
         },
         {
-          "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-          "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-          "subreddit": "krebsonsecurity",
-          "score": 100
-        },
-        {
-          "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-          "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-          "subreddit": "bleepingcomputer",
+          "title": "All the Ways Europe Is Ditching American Technology",
+          "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
+          "subreddit": "wired",
           "score": 75
         }
       ]
     },
     {
       "title": "Democratic Party Fracturing Over Israel Support",
-      "summary": "Internal Democratic divides are hardening: Jewish Democrats feeling alienated and unwelcome in their own party, pro-Palestine progressives winning some primaries, party establishment backing scandal-ridden candidates (Graham Platner) to avoid the Israel reckoning. The coalition is breaking along values lines.",
+      "summary": "Jewish Democrats feel 'shunned' and report antisemitic harassment; party leadership remains pro-Israel while base votes against support; establishment Dems defeating pro-Palestine challengers in primaries. Internal party divisions are hardening into structural factions.",
       "subreddits": [
-        "theintercept",
         "axios",
-        "politico",
-        "thehill"
+        "theintercept",
+        "politico"
       ],
-      "cross_community_score": 4,
+      "cross_community_score": 3,
       "engagement_score": 4,
-      "total_score": 8,
+      "total_score": 7,
       "momentum": "holding",
-      "why_signal": "This continues from yesterday but with new layer\u2014now it's showing as both Jewish alienation *and* establishment-left fracture, suggesting deeper structural splits.",
+      "why_signal": "Matches yesterday's 'Democratic Party Fracturing Over Israel Support' (score 8)\u2014no new major escalation but continued hardening of internal divisions across Jewish, progressive, and Muslim Democratic constituencies.",
       "posts": [
         {
           "title": "Jewish Dems sound alarm about antisemitism and 2028",
@@ -273,62 +225,94 @@
           "title": "The Real 'Divide' Among Democrats Over Israel Is Between Party Leadership and Voters",
           "url": "https://theintercept.com/2026/06/04/democrats-israel-voters/",
           "subreddit": "theintercept",
-          "score": 75
-        },
-        {
-          "title": "'This just isn't good': Democrats hold their breath on Platner",
-          "url": "https://www.politico.com/news/2026/06/05/platner-democrats-maine-tuesday-primary-00952432",
-          "subreddit": "politico",
-          "score": 80
+          "score": 70
         }
       ]
     },
     {
-      "title": "US Stranglehold on EU Energy Creates Dependency",
-      "summary": "America is consolidating control over European energy supplies by dominating Caucasus/Caspian region access: US is becoming gatekeeper to EU's non-Russian energy options, EU elites seemingly unconcerned about strategic vulnerability. This is reshaping geopolitical power asymmetry without explicit conflict.",
+      "title": "Supreme Court Dismantling Voting Rights and Civil Rights",
+      "summary": "Supreme Court allows Alabama to use racially discriminatory congressional map, permits GOP gerrymandering despite lower court rulings, and legal scholars argue voting rights protections are now unconstitutional under conservative court. Pattern suggests systematic rollback of civil rights protections.",
       "subreddits": [
-        "nakedcapitalism",
-        "2westerneurope4u",
-        "europe"
+        "scotusblog",
+        "rawstory"
       ],
-      "cross_community_score": 3,
-      "engagement_score": 3,
+      "cross_community_score": 2,
+      "engagement_score": 4,
       "total_score": 6,
       "momentum": "emerging",
-      "why_signal": "Critical infrastructure control story appearing in left-wing and European circles\u2014suggests strategic reorientation happening below mainstream American media radar.",
+      "why_signal": "New pattern emerging: court is validating racial discrimination in voting maps and allowing rollback of voting rights framework\u2014suggests courts, not legislatures, becoming primary driver of civil rights regression.",
       "posts": [
         {
-          "title": "'Are We Really Such Idiots?' US Increases Stranglehold on EU Energy Supply with Growing Role in Caucasus",
-          "url": "https://www.nakedcapitalism.com/2026/06/are-we-really-such-idiots-us-increases-stranglehold-of-eu-energy-supply-with-growing-role-in-caucasus.html",
-          "subreddit": "nakedcapitalism",
-          "score": 85
+          "title": "Supreme Court permits Alabama to use congressional map struck as racially discriminatory",
+          "url": "https://www.scotusblog.com/2026/06/supreme-court-permits-alabama-to-use-congressional-map-struck-by-lower-court-as-racially-discrim/",
+          "subreddit": "scotusblog",
+          "score": 35
+        },
+        {
+          "title": "When and why did complying with the Voting Rights Act become unconstitutional?",
+          "url": "https://www.scotusblog.com/2026/06/when-and-why-did-complying-with-the-voting-rights-act-become-unconstitutional/",
+          "subreddit": "scotusblog",
+          "score": 50
         }
       ]
     },
     {
       "title": "IRS Audit Disparities Favor Wealthy Under Trump",
-      "summary": "New data shows Trump administration's IRS is not auditing wealthy individuals while standard Americans face increased scrutiny\u2014selective enforcement revealing political priorities. This represents weaponization of tax code rather than equal enforcement.",
+      "summary": "New data shows IRS audit patterns under Trump favor wealthy individuals and corporations while middle-class and lower-income taxpayers face disproportionate audits. One group can 'breathe easier' while others face intensified enforcement.",
       "subreddits": [
         "marketwatch",
-        "rawstory"
+        "thehill"
       ],
       "cross_community_score": 2,
       "engagement_score": 3,
       "total_score": 5,
-      "momentum": "isolated",
-      "why_signal": "Financial outlets treating this as straightforward reporting rather than scandal\u2014suggests institutionalization of selective enforcement is seen as normal.",
+      "momentum": "holding",
+      "why_signal": "Matches yesterday's 'IRS Audit Disparities Favor Wealthy Under Trump' (score 5) with new data confirming pattern\u2014not growing but persistent evidence of policy-driven inequality.",
       "posts": [
         {
-          "title": "Will you be audited by Trump's IRS? New data says there's one group that can breathe a lot easier.",
-          "url": "https://www.marketwatch.com/story/will-you-be-audited-by-trump-s-irs-new-data-says-there-s-one-group-that-can-breathe-a-lot-easier-43b68411",
+          "title": "Will you be audited by Trump's IRS? New data says there's one group that can breathe easier",
+          "url": "https://www.marketwatch.com/story/will-you-be-audited-by-trumps-irs-new-data-says-theres-one-group-that-can-breathe-a-lot-easier-43b68411",
           "subreddit": "marketwatch",
-          "score": 80
+          "score": 75
         }
       ]
     }
   ],
-  "date": "2026-06-08",
-  "run_timestamp": "2026-06-08T16:53:34.164810+00:00",
-  "total_posts_analyzed": 255,
-  "subreddits_active": 18
+  "breaking_news": [
+    {
+      "title": "Germany and France Drop Joint Fighter Jet Project",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEVlR0lobTBLX251amozdWRGQnRoQ2wzU1FrLUpNWGtGU0c0NjZPWEdjaDM0OS1USHJfdS1yQjVBM0hyZ2tnLVRPVmlsSnJSYVpVWEFUcWlLcmowUjhhRDVZRENvWHoybXFtbXZQb0o1RVZXYmZuSVBqWUdqVkVoRVZFRjltRzVxcGVYQWRaSk1zSy1xSGtUUEw4RXFrVDlsTTlCb0gwOW5VV0RhYlBDR0JIZndDckxzVDdNMzBjcXJUZ0puUVdfWjFMMDJ6V0p5eGc",
+      "summary": "Germany and France have abandoned their joint European fighter jet development program, signaling major defense strategy shift and potential NATO restructuring.",
+      "why_notable": "Represents fracturing of EU defense integration and potential pivot toward US-dependent military procurement."
+    },
+    {
+      "title": "Trump DOJ Seeks to Revoke Citizenship of 17 Foreign-Born Americans",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5914957-doj-seeks-strip-citizenship/",
+      "summary": "Department of Justice announced it is seeking to strip citizenship from 17 foreign-born Americans accused of serious crimes, marking latest denaturalization push.",
+      "why_notable": "Represents unprecedented use of denaturalization as political/enforcement tool; suggests escalating executive power deployment against immigrant communities."
+    },
+    {
+      "title": "Amazon and Corning Sign Multi-Billion Dollar Fiber Optics Deal",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVNTDFSeEdZeU5QaHRWajlVT1dvYnhyNV9JaUJVbEJQOVFUUHJVTUItbGhJclJlVG14cUhGTWdsRXV1RlY2WU5yVmxjbXVwRlVjZlo4WjBMbTc3Q2U3WDBDelgyNHJoVUVKYlRIaGk5WDRNemd1aG9PQ1M2eTl1VmJlOF9vc0pPOUxKVFFocVhDNDhlZWZheEpMeG5QWUtuQlNnNjY2bnZiRHdEOWJuVkYxV3RIcXJhZ0pUdGhlbmNJQVk",
+      "summary": "Amazon and Corning announced multi-billion-dollar partnership to boost fiber optics manufacturing capacity in the US.",
+      "why_notable": "Major infrastructure investment competing with China tech dominance; signals US commitment to domestic telecom/data backbone independence."
+    },
+    {
+      "title": "Alphabet Orders 3 Million Custom Chips from Intel",
+      "source": "Reuters/The Information",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmR2dkxzTTRVc2F2MzdYOFR2MzVPSXdkWm9NSlBGdkQ1b05uZ3VzRVFzcVEtRXhQZUc4WVhkMmRhcngzNGNWUDBLSGNLSHZoN0U5b1FDd2hKR0t3dTdlak1RMnNVU25UdEx4YnpwbHJTaGo3NndhNVltT3NmaF8wYTFjdTFjTkdDN1VYeUx3akNNUlVzVjAwSWNIVDZidFJ4dXBhVEw2enYyZUxyN0JqV3FKZW91am1EeHc",
+      "summary": "Google has placed a 3 million unit order for custom TPU chips from Intel, positioning Intel as backup chip manufacturer for AI infrastructure.",
+      "why_notable": "Intel stock surged on news; represents shift toward diversified chip sourcing away from TSMC and signals major AI infrastructure buildout competition."
+    },
+    {
+      "title": "Nobel Laureate Todd Blanche Confirmation Fight May Expose Epstein Coverup",
+      "source": "Raw Story",
+      "url": "https://rawstory.com/blanche-s-senate-confirmation-fight-may-expose-epstein-coverup-report/",
+      "summary": "As Trump's AG nominee Todd Blanche faces Senate confirmation, experts warn his legal history may expose broader Epstein-related corruption during hearings.",
+      "why_notable": "Potential flashpoint for uncovering connections between DOJ leadership and Epstein suppression; high stakes for justice department credibility."
+    }
+  ]
 }

@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-26",
-      "theories": [
-        "Consumer sentiment at historic lows",
-        "Epstein files disclosure imminent",
-        "AI economically unviable, exceeds human labor",
-        "Data center infrastructure crisis accelerating",
-        "Executive wealth extraction, slush fund networks",
-        "Constitutional guardrails failing, judiciary politicized",
-        "Geopolitical escalation: Iran conflict deepening",
-        "NYC mayor directly challenging federal power",
-        "President health decline, ability to govern questioned"
-      ],
-      "scores": {
-        "Consumer sentiment at historic lows": 9,
-        "Epstein files disclosure imminent": 9,
-        "AI economically unviable, exceeds human labor": 9,
-        "Data center infrastructure crisis accelerating": 8,
-        "Executive wealth extraction, slush fund networks": 8,
-        "Constitutional guardrails failing, judiciary politicized": 8,
-        "Geopolitical escalation: Iran conflict deepening": 8,
-        "NYC mayor directly challenging federal power": 6,
-        "President health decline, ability to govern questioned": 6
-      }
-    },
-    {
       "date": "2026-05-27",
       "theories": [
         "Consumer sentiment collapsing beyond crisis peaks",
@@ -307,6 +282,31 @@
         "Microsoft, Meta AI Systems Compromised by Hackers": 8,
         "Democratic Party Fracturing Over Israel Support": 8,
         "US Stranglehold on EU Energy Creates Dependency": 6,
+        "IRS Audit Disparities Favor Wealthy Under Trump": 5
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "theories": [
+        "Retirement Systems Collapsing Under Demographic Pressure",
+        "Iran-Israel War Theater Continues Despite 'Ceasefire'",
+        "AI Systems Failing Real-World Tasks at Scale",
+        "Data Centers Destroying Communities and Resources",
+        "Trump Executive Power Operating Without Oversight",
+        "US Energy Stranglehold Over EU Expanding",
+        "Democratic Party Fracturing Over Israel Support",
+        "Supreme Court Dismantling Voting Rights and Civil Rights",
+        "IRS Audit Disparities Favor Wealthy Under Trump"
+      ],
+      "scores": {
+        "Retirement Systems Collapsing Under Demographic Pressure": 8,
+        "Iran-Israel War Theater Continues Despite 'Ceasefire'": 10,
+        "AI Systems Failing Real-World Tasks at Scale": 10,
+        "Data Centers Destroying Communities and Resources": 9,
+        "Trump Executive Power Operating Without Oversight": 7,
+        "US Energy Stranglehold Over EU Expanding": 6,
+        "Democratic Party Fracturing Over Israel Support": 7,
+        "Supreme Court Dismantling Voting Rights and Civil Rights": 6,
         "IRS Audit Disparities Favor Wealthy Under Trump": 5
       }
     }
