@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-27",
-      "theories": [
-        "Consumer sentiment collapsing beyond crisis peaks",
-        "Geopolitical escalation Iran ceasefire violations deepening",
-        "AI financially unviable token spending exceeds returns",
-        "Data center infrastructure poisoning water supplies",
-        "Executive wealth extraction via slush funds expanding",
-        "Judiciary politicized, constitutional guardrails cracking",
-        "Micron AI hype bubble created insider trading pattern",
-        "Government restricting dissent threatening legal speakers",
-        "NYC mayor directly challenging federal/billionaire power",
-        "Epstein files disclosure imminent via congressional release",
-        "Middle East escalation Israel bombing Lebanon infrastructure"
-      ],
-      "scores": {
-        "Consumer sentiment collapsing beyond crisis peaks": 9,
-        "Geopolitical escalation Iran ceasefire violations deepening": 8,
-        "AI financially unviable token spending exceeds returns": 8,
-        "Data center infrastructure poisoning water supplies": 9,
-        "Executive wealth extraction via slush funds expanding": 7,
-        "Judiciary politicized, constitutional guardrails cracking": 7,
-        "Micron AI hype bubble created insider trading pattern": 7,
-        "Government restricting dissent threatening legal speakers": 8,
-        "NYC mayor directly challenging federal/billionaire power": 8,
-        "Epstein files disclosure imminent via congressional release": 6,
-        "Middle East escalation Israel bombing Lebanon infrastructure": 7
-      }
-    },
-    {
       "date": "2026-05-28",
       "theories": [
         "Executive weaponization of DOJ against opponents",
@@ -308,6 +279,33 @@
         "Democratic Party Fracturing Over Israel Support": 7,
         "Supreme Court Dismantling Voting Rights and Civil Rights": 6,
         "IRS Audit Disparities Favor Wealthy Under Trump": 5
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "theories": [
+        "Retirement System Crisis Accelerating Measurably",
+        "Iran-Israel War Continues Despite Declared Ceasefire",
+        "AI Systems Failing Real-World Deployment at Scale",
+        "US Energy Stranglehold Over Europe Expanding Visibly",
+        "Data Center Explosion Destroying Local Communities",
+        "Trump Administration Dismantling Oversight Mechanisms",
+        "Vaccine-Preventable Diseases Resurging Openly",
+        "Supreme Court Systematically Dismantling Civil Rights Protections",
+        "Inflation Returning Despite Fed Assurances of Control",
+        "Mass Surveillance and Biometric Integration Accelerating"
+      ],
+      "scores": {
+        "Retirement System Crisis Accelerating Measurably": 8,
+        "Iran-Israel War Continues Despite Declared Ceasefire": 10,
+        "AI Systems Failing Real-World Deployment at Scale": 9,
+        "US Energy Stranglehold Over Europe Expanding Visibly": 7,
+        "Data Center Explosion Destroying Local Communities": 8,
+        "Trump Administration Dismantling Oversight Mechanisms": 7,
+        "Vaccine-Preventable Diseases Resurging Openly": 8,
+        "Supreme Court Systematically Dismantling Civil Rights Protections": 7,
+        "Inflation Returning Despite Fed Assurances of Control": 8,
+        "Mass Surveillance and Biometric Integration Accelerating": 8
       }
     }
   ]
