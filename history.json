@@ -1,35 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-28",
-      "theories": [
-        "Executive weaponization of DOJ against opponents",
-        "Judiciary collapsing, constitutional guardrails failing",
-        "AI spending economically unviable, token costs exploding",
-        "Trump insider trading on defense contracts",
-        "Data centers poisoning water supplies, regulatory capture",
-        "Imminent military escalation with Iran, ceasefire violations",
-        "White-collar automation timeline compressed to 18 months",
-        "Trump slush fund tax resistance and wealth extraction",
-        "Epstein files suppression and Trump connection emerging",
-        "Consumer economy collapsing, real wages declining",
-        "US government restricting dissent and First Amendment"
-      ],
-      "scores": {
-        "Executive weaponization of DOJ against opponents": 10,
-        "Judiciary collapsing, constitutional guardrails failing": 9,
-        "AI spending economically unviable, token costs exploding": 9,
-        "Trump insider trading on defense contracts": 8,
-        "Data centers poisoning water supplies, regulatory capture": 9,
-        "Imminent military escalation with Iran, ceasefire violations": 8,
-        "White-collar automation timeline compressed to 18 months": 7,
-        "Trump slush fund tax resistance and wealth extraction": 9,
-        "Epstein files suppression and Trump connection emerging": 8,
-        "Consumer economy collapsing, real wages declining": 7,
-        "US government restricting dissent and First Amendment": 7
-      }
-    },
-    {
       "date": "2026-05-29",
       "theories": [],
       "scores": {}
@@ -306,6 +277,33 @@
         "Supreme Court Systematically Dismantling Civil Rights Protections": 7,
         "Inflation Returning Despite Fed Assurances of Control": 8,
         "Mass Surveillance and Biometric Integration Accelerating": 8
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "theories": [
+        "Iran War Continuing Despite Ceasefire Claims",
+        "Social Security Insolvency Timeline Accelerating Dramatically",
+        "Inflation Surging Again Despite Fed Assurances Control",
+        "Tech Mega-Debt Spiral with No Profitable Exit",
+        "Mass Surveillance Acceleration Normalized in Plain Sight",
+        "Retirement System Collapse Cascading Through Communities",
+        "AI Systems Systematically Failing Real Deployment",
+        "Epstein Connection Becoming Mainstream Political Liability",
+        "Data Center Expansion Destroying Communities Quietly",
+        "Supreme Court Dismantling Civil Rights Methodically"
+      ],
+      "scores": {
+        "Iran War Continuing Despite Ceasefire Claims": 10,
+        "Social Security Insolvency Timeline Accelerating Dramatically": 8,
+        "Inflation Surging Again Despite Fed Assurances Control": 9,
+        "Tech Mega-Debt Spiral with No Profitable Exit": 8,
+        "Mass Surveillance Acceleration Normalized in Plain Sight": 8,
+        "Retirement System Collapse Cascading Through Communities": 6,
+        "AI Systems Systematically Failing Real Deployment": 7,
+        "Epstein Connection Becoming Mainstream Political Liability": 7,
+        "Data Center Expansion Destroying Communities Quietly": 5,
+        "Supreme Court Dismantling Civil Rights Methodically": 5
       }
     }
   ]
