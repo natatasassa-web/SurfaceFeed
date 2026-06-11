@@ -6,11 +6,6 @@
       "scores": {}
     },
     {
-      "date": "2026-05-29",
-      "theories": [],
-      "scores": {}
-    },
-    {
       "date": "2026-06-01",
       "theories": [],
       "scores": {}
@@ -304,6 +299,31 @@
         "Epstein Connection Becoming Mainstream Political Liability": 7,
         "Data Center Expansion Destroying Communities Quietly": 5,
         "Supreme Court Dismantling Civil Rights Methodically": 5
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "theories": [
+        "Iran War Escalating Despite Ceasefire Posture",
+        "Mass Surveillance Normalization Accelerating Through Infrastructure",
+        "Data Center Infrastructure Destroying Communities Quietly",
+        "AI Systems Systematically Failing Real-World Deployment",
+        "Epstein Network Becoming Mainstream Political Liability",
+        "Retirement System Insolvency Accelerating Into Crisis",
+        "Power Institutions Fragmenting Across Multiple Sectors",
+        "Anti-Incumbent Backlash Spreading Across Democracies",
+        "Inflation Persisting Despite Fed Control Narratives"
+      ],
+      "scores": {
+        "Iran War Escalating Despite Ceasefire Posture": 10,
+        "Mass Surveillance Normalization Accelerating Through Infrastructure": 9,
+        "Data Center Infrastructure Destroying Communities Quietly": 8,
+        "AI Systems Systematically Failing Real-World Deployment": 8,
+        "Epstein Network Becoming Mainstream Political Liability": 8,
+        "Retirement System Insolvency Accelerating Into Crisis": 6,
+        "Power Institutions Fragmenting Across Multiple Sectors": 7,
+        "Anti-Incumbent Backlash Spreading Across Democracies": 6,
+        "Inflation Persisting Despite Fed Control Narratives": 6
       }
     }
   ]
