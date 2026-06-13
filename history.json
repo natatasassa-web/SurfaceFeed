@@ -1,11 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-29",
-      "theories": [],
-      "scores": {}
-    },
-    {
       "date": "2026-06-01",
       "theories": [],
       "scores": {}
@@ -324,6 +319,31 @@
         "Power Institutions Fragmenting Across Multiple Sectors": 7,
         "Anti-Incumbent Backlash Spreading Across Democracies": 6,
         "Inflation Persisting Despite Fed Control Narratives": 6
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "theories": [
+        "Retirement System Collapse Accelerating Into Crisis",
+        "Surveillance Infrastructure Normalized Via Policy Enforcement",
+        "Wealth Concentration Creating Two-Tier Consumer Economy",
+        "Iran Deal Momentum Signals Major Geopolitical Realignment",
+        "AI Systems Systematically Failing Deployment & Safety",
+        "Government Aggressive Control Over Media & Expression",
+        "Data Center Infrastructure Destroying Communities Quietly",
+        "Debt Market Defaults Beginning As Valuations Peak",
+        "Cybersecurity & State Apparatus Fragmenting Under Strain"
+      ],
+      "scores": {
+        "Retirement System Collapse Accelerating Into Crisis": 9,
+        "Surveillance Infrastructure Normalized Via Policy Enforcement": 10,
+        "Wealth Concentration Creating Two-Tier Consumer Economy": 9,
+        "Iran Deal Momentum Signals Major Geopolitical Realignment": 9,
+        "AI Systems Systematically Failing Deployment & Safety": 10,
+        "Government Aggressive Control Over Media & Expression": 9,
+        "Data Center Infrastructure Destroying Communities Quietly": 8,
+        "Debt Market Defaults Beginning As Valuations Peak": 7,
+        "Cybersecurity & State Apparatus Fragmenting Under Strain": 9
       }
     }
   ]
