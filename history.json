@@ -2,11 +2,6 @@
   "runs": [
     {
       "date": "2026-06-01",
-      "theories": [],
-      "scores": {}
-    },
-    {
-      "date": "2026-06-01",
       "theories": [
         "Fed independence under political attack",
         "Institutional capacity collapse across agencies",
@@ -344,6 +339,33 @@
         "Data Center Infrastructure Destroying Communities Quietly": 8,
         "Debt Market Defaults Beginning As Valuations Peak": 7,
         "Cybersecurity & State Apparatus Fragmenting Under Strain": 9
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "theories": [
+        "Iran Deal Geopolitical Realignment Accelerating",
+        "AI Systems Failing Deployment Under State Control",
+        "Media Access & Government Surveillance Convergence",
+        "Massive Capital Raises Amid Bubble Valuation Signals",
+        "Data Center Infrastructure Destroying Local Communities",
+        "Cybersecurity Infrastructure Fragmenting Under Attack",
+        "Executive Power Consolidation Via Spectacle",
+        "Political Establishment Fracturing Over Institutional Reform",
+        "Social Media Age Restrictions & State Control Expanding",
+        "Wealth Concentration Accelerating Into Two-Tier Society"
+      ],
+      "scores": {
+        "Iran Deal Geopolitical Realignment Accelerating": 10,
+        "AI Systems Failing Deployment Under State Control": 8,
+        "Media Access & Government Surveillance Convergence": 8,
+        "Massive Capital Raises Amid Bubble Valuation Signals": 9,
+        "Data Center Infrastructure Destroying Local Communities": 8,
+        "Cybersecurity Infrastructure Fragmenting Under Attack": 8,
+        "Executive Power Consolidation Via Spectacle": 7,
+        "Political Establishment Fracturing Over Institutional Reform": 7,
+        "Social Media Age Restrictions & State Control Expanding": 7,
+        "Wealth Concentration Accelerating Into Two-Tier Society": 6
       }
     }
   ]
