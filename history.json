@@ -3,31 +3,6 @@
     {
       "date": "2026-06-01",
       "theories": [
-        "Fed independence under political attack",
-        "Institutional capacity collapse across agencies",
-        "US-Iran escalation cycle despite ceasefire",
-        "Geopolitical decoupling reshaping supply chains",
-        "Bee lab shutdowns threaten food system",
-        "Cash elimination advancing in Europe",
-        "AI hype meets physics reality check",
-        "Trump machine consolidating power through primaries",
-        "Celebrity influence reshaping mainstream politics"
-      ],
-      "scores": {
-        "Fed independence under political attack": 9,
-        "Institutional capacity collapse across agencies": 8,
-        "US-Iran escalation cycle despite ceasefire": 9,
-        "Geopolitical decoupling reshaping supply chains": 7,
-        "Bee lab shutdowns threaten food system": 8,
-        "Cash elimination advancing in Europe": 7,
-        "AI hype meets physics reality check": 7,
-        "Trump machine consolidating power through primaries": 6,
-        "Celebrity influence reshaping mainstream politics": 7
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "theories": [
         "US-Iran escalation cycle destabilizing energy markets",
         "Tech mega-IPOs signal AI hype bubble stress test",
         "Trump administration weaponizing federal agencies beyond norms",
@@ -366,6 +341,33 @@
         "Political Establishment Fracturing Over Institutional Reform": 7,
         "Social Media Age Restrictions & State Control Expanding": 7,
         "Wealth Concentration Accelerating Into Two-Tier Society": 6
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "theories": [
+        "Iran Deal Legitimacy Questioned Internally",
+        "Energy Market Concentration & Geopolitical Leverage",
+        "Wealth Preservation Signals In Retirement Planning",
+        "Executive Politicization & Weaponized DOJ Investigations",
+        "Digital ID & Surveillance Infrastructure Expanding",
+        "AI Bubble Valuations Decoupling From Reality",
+        "LLM Security Failures Enable Account Takeovers",
+        "Data Centers Causing Cascading Infrastructure Damage",
+        "Voting Rights Infrastructure Under Coordinated Attack",
+        "Anthropic-Trump Conflict Threatens AI Dominance"
+      ],
+      "scores": {
+        "Iran Deal Legitimacy Questioned Internally": 10,
+        "Energy Market Concentration & Geopolitical Leverage": 8,
+        "Wealth Preservation Signals In Retirement Planning": 5,
+        "Executive Politicization & Weaponized DOJ Investigations": 10,
+        "Digital ID & Surveillance Infrastructure Expanding": 9,
+        "AI Bubble Valuations Decoupling From Reality": 10,
+        "LLM Security Failures Enable Account Takeovers": 8,
+        "Data Centers Causing Cascading Infrastructure Damage": 8,
+        "Voting Rights Infrastructure Under Coordinated Attack": 9,
+        "Anthropic-Trump Conflict Threatens AI Dominance": 8
       }
     }
   ]
