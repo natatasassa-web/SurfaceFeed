@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-01",
-      "theories": [
-        "US-Iran escalation cycle destabilizing energy markets",
-        "Tech mega-IPOs signal AI hype bubble stress test",
-        "Trump administration weaponizing federal agencies beyond norms",
-        "Fed independence under sustained political attack",
-        "YouTube creators bypassing traditional media gatekeeping",
-        "AI data centers spawning grassroots opposition and surveillance",
-        "Left populism challenging Democratic establishment in swing states",
-        "Institutional cyber-security failures exposing government secrets",
-        "Tech billionaires spending record sums to block wealth taxes"
-      ],
-      "scores": {
-        "US-Iran escalation cycle destabilizing energy markets": 10,
-        "Tech mega-IPOs signal AI hype bubble stress test": 10,
-        "Trump administration weaponizing federal agencies beyond norms": 9,
-        "Fed independence under sustained political attack": 8,
-        "YouTube creators bypassing traditional media gatekeeping": 8,
-        "AI data centers spawning grassroots opposition and surveillance": 8,
-        "Left populism challenging Democratic establishment in swing states": 7,
-        "Institutional cyber-security failures exposing government secrets": 7,
-        "Tech billionaires spending record sums to block wealth taxes": 6
-      }
-    },
-    {
       "date": "2026-06-02",
       "theories": [
         "AI Systems Exploitable via Social Engineering",
@@ -368,6 +343,33 @@
         "Data Centers Causing Cascading Infrastructure Damage": 8,
         "Voting Rights Infrastructure Under Coordinated Attack": 9,
         "Anthropic-Trump Conflict Threatens AI Dominance": 8
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "theories": [
+        "Iran Deal Legitimacy Collapsing Pre-Signature",
+        "Wealth Preservation Crisis Via Tax & Healthcare",
+        "Digital Identity Systems Expanding Surveillance Scope",
+        "AI Bubble Decoupling Accelerating Market Risk",
+        "Government Weaponized DOJ Against Political Opponents",
+        "Live Sports As Last Remaining Mass Experience",
+        "Voting Rights Infrastructure Under Coordinated Attack",
+        "Trump Outsider Billionaire Defeats Party Endorsement",
+        "National Sentiment Collapse & Lost Patriotic Identity",
+        "Data Broker & Surveillance Apparatus Targeting Immigrants"
+      ],
+      "scores": {
+        "Iran Deal Legitimacy Collapsing Pre-Signature": 10,
+        "Wealth Preservation Crisis Via Tax & Healthcare": 9,
+        "Digital Identity Systems Expanding Surveillance Scope": 9,
+        "AI Bubble Decoupling Accelerating Market Risk": 9,
+        "Government Weaponized DOJ Against Political Opponents": 9,
+        "Live Sports As Last Remaining Mass Experience": 7,
+        "Voting Rights Infrastructure Under Coordinated Attack": 8,
+        "Trump Outsider Billionaire Defeats Party Endorsement": 8,
+        "National Sentiment Collapse & Lost Patriotic Identity": 7,
+        "Data Broker & Surveillance Apparatus Targeting Immigrants": 8
       }
     }
   ]
