@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-02",
-      "theories": [
-        "AI Systems Exploitable via Social Engineering",
-        "Iran Ceasefire Collapse Triggers Energy Crisis",
-        "Grassroots AI Data Center Opposition Spreading Nationally",
-        "Trump Admin Weaponizing Intelligence Appointments Beyond Norms",
-        "Tech IPO Bubble Stress-Testing Under AI Cost Pressure",
-        "Left Populism Forcing Democratic Establishment Realignment",
-        "Government Cybersecurity Infrastructure Crumbling Under Attack",
-        "Labor Market Anomaly Signals Recession or Data Manipulation",
-        "Trump Slush Fund Backlash Shows Institutional Limits",
-        "Pentagon Running AI Propaganda Network in Latin America"
-      ],
-      "scores": {
-        "AI Systems Exploitable via Social Engineering": 10,
-        "Iran Ceasefire Collapse Triggers Energy Crisis": 9,
-        "Grassroots AI Data Center Opposition Spreading Nationally": 8,
-        "Trump Admin Weaponizing Intelligence Appointments Beyond Norms": 9,
-        "Tech IPO Bubble Stress-Testing Under AI Cost Pressure": 9,
-        "Left Populism Forcing Democratic Establishment Realignment": 9,
-        "Government Cybersecurity Infrastructure Crumbling Under Attack": 9,
-        "Labor Market Anomaly Signals Recession or Data Manipulation": 9,
-        "Trump Slush Fund Backlash Shows Institutional Limits": 9,
-        "Pentagon Running AI Propaganda Network in Latin America": 7
-      }
-    },
-    {
       "date": "2026-06-03",
       "theories": [
         "AI Systems Exploitable via Social Engineering at Scale",
@@ -370,6 +343,31 @@
         "Trump Outsider Billionaire Defeats Party Endorsement": 8,
         "National Sentiment Collapse & Lost Patriotic Identity": 7,
         "Data Broker & Surveillance Apparatus Targeting Immigrants": 8
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "theories": [
+        "Iran Deal Collapsing Under Israeli Defiance",
+        "Trump Administration Expansion of Surveillance State",
+        "Outsider Billionaires Defeating Party Endorsement",
+        "Wealth Preservation Crisis Across Income Levels",
+        "AI Causing Systemic Loneliness and Relationship Crisis",
+        "Tech Oligarchy Consolidating Power Openly",
+        "Chip Stocks Rally Masking Momentum Collapse",
+        "Democratic Socialism Gaining Ground in Elections",
+        "US Government Harming Children via Healthcare Rollbacks"
+      ],
+      "scores": {
+        "Iran Deal Collapsing Under Israeli Defiance": 10,
+        "Trump Administration Expansion of Surveillance State": 9,
+        "Outsider Billionaires Defeating Party Endorsement": 7,
+        "Wealth Preservation Crisis Across Income Levels": 7,
+        "AI Causing Systemic Loneliness and Relationship Crisis": 6,
+        "Tech Oligarchy Consolidating Power Openly": 7,
+        "Chip Stocks Rally Masking Momentum Collapse": 5,
+        "Democratic Socialism Gaining Ground in Elections": 6,
+        "US Government Harming Children via Healthcare Rollbacks": 6
       }
     }
   ]
