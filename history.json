@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-03",
-      "theories": [
-        "AI Systems Exploitable via Social Engineering at Scale",
-        "Iran Ceasefire Collapse Triggering Cascading Conflict",
-        "Private Markets Entering Stress Cascade: Gating & Redemptions",
-        "Trump Admin Intelligence Appointments Bypassing Senate Vetting",
-        "Grassroots Opposition to AI Data Centers Going Mainstream",
-        "Left Populism Outperforming Centrist Establishment in Primaries",
-        "Government Cybersecurity Infrastructure Actively Failing Under Load",
-        "SpaceX IPO Valuation Disconnect from Fundamentals",
-        "Mainstream Media Under Pressure to Inject Unverified Claims",
-        "Trump Agenda Facing Rare Primary Losses & Congressional Pushback"
-      ],
-      "scores": {
-        "AI Systems Exploitable via Social Engineering at Scale": 9,
-        "Iran Ceasefire Collapse Triggering Cascading Conflict": 10,
-        "Private Markets Entering Stress Cascade: Gating & Redemptions": 7,
-        "Trump Admin Intelligence Appointments Bypassing Senate Vetting": 8,
-        "Grassroots Opposition to AI Data Centers Going Mainstream": 7,
-        "Left Populism Outperforming Centrist Establishment in Primaries": 8,
-        "Government Cybersecurity Infrastructure Actively Failing Under Load": 7,
-        "SpaceX IPO Valuation Disconnect from Fundamentals": 7,
-        "Mainstream Media Under Pressure to Inject Unverified Claims": 7,
-        "Trump Agenda Facing Rare Primary Losses & Congressional Pushback": 7
-      }
-    },
-    {
       "date": "2026-06-04",
       "theories": [
         "Private Credit Markets Hitting Redemption Crisis",
@@ -368,6 +341,31 @@
         "Chip Stocks Rally Masking Momentum Collapse": 5,
         "Democratic Socialism Gaining Ground in Elections": 6,
         "US Government Harming Children via Healthcare Rollbacks": 6
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "theories": [
+        "Iran Deal Collapsing Under Ceasefire Violations",
+        "Wealth Preservation Crisis Deepening Across Classes",
+        "Surveillance State Expanding Under Trump Administration",
+        "Trump Isolating Allies While Consolidating Power",
+        "AI Causing Systemic Loneliness Replacing Human Connection",
+        "Democratic Party Losing Control of Primary Endorsements",
+        "Federal Agencies Failing to Execute Under Trump Directives",
+        "State-Level AI and Surveillance Tech Adoption Accelerating",
+        "SpaceX IPO Attracting Foreign Capital Amid Security Concerns"
+      ],
+      "scores": {
+        "Iran Deal Collapsing Under Ceasefire Violations": 10,
+        "Wealth Preservation Crisis Deepening Across Classes": 8,
+        "Surveillance State Expanding Under Trump Administration": 9,
+        "Trump Isolating Allies While Consolidating Power": 9,
+        "AI Causing Systemic Loneliness Replacing Human Connection": 7,
+        "Democratic Party Losing Control of Primary Endorsements": 6,
+        "Federal Agencies Failing to Execute Under Trump Directives": 8,
+        "State-Level AI and Surveillance Tech Adoption Accelerating": 6,
+        "SpaceX IPO Attracting Foreign Capital Amid Security Concerns": 6
       }
     }
   ]
