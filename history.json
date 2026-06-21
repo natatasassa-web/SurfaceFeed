@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-04",
-      "theories": [
-        "Private Credit Markets Hitting Redemption Crisis",
-        "AI Systems Failing Security via Social Engineering",
-        "Iran War Fray: Ceasefire Claims vs. Reality",
-        "Trump Administration Bypassing Normal Vetting Processes",
-        "Tech Layoffs + AI Redundancy Collapse Narrative",
-        "Corporate Media Crackdown on Integrity (60 Minutes)",
-        "Energy Shock Cascading Through Asia & Europe",
-        "Left Populism Outperforming Centrist Democrats",
-        "Quantum Computing IPO Hype vs. Fundamentals Decoupling",
-        "Biological/Agricultural Supply Chain Ruptures Surfacing"
-      ],
-      "scores": {
-        "Private Credit Markets Hitting Redemption Crisis": 8,
-        "AI Systems Failing Security via Social Engineering": 8,
-        "Iran War Fray: Ceasefire Claims vs. Reality": 9,
-        "Trump Administration Bypassing Normal Vetting Processes": 8,
-        "Tech Layoffs + AI Redundancy Collapse Narrative": 7,
-        "Corporate Media Crackdown on Integrity (60 Minutes)": 7,
-        "Energy Shock Cascading Through Asia & Europe": 7,
-        "Left Populism Outperforming Centrist Democrats": 7,
-        "Quantum Computing IPO Hype vs. Fundamentals Decoupling": 7,
-        "Biological/Agricultural Supply Chain Ruptures Surfacing": 8
-      }
-    },
-    {
       "date": "2026-06-05",
       "theories": [
         "Government Attempting Mass Data Erasure",
@@ -366,6 +339,31 @@
         "Federal Agencies Failing to Execute Under Trump Directives": 8,
         "State-Level AI and Surveillance Tech Adoption Accelerating": 6,
         "SpaceX IPO Attracting Foreign Capital Amid Security Concerns": 6
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "theories": [
+        "Iran Deal Collapsing Under Ceasefire Violations",
+        "Trump Isolating Allies While Consolidating Domestic Power",
+        "Wealth Preservation Crisis Across All Classes",
+        "UK Political System Destabilizing Under Trump Pressure",
+        "Surveillance and Data Access Weaponized Against Vulnerable Populations",
+        "Micron Semiconductor Profit Surge Sustaining Bull Market",
+        "SpaceX IPO Attracts Foreign Capital Amid Security Concerns",
+        "Prediction Markets and Gambling Expansion Amid Regulatory Void",
+        "AI Companions Replacing Human Connection and Social Bonds"
+      ],
+      "scores": {
+        "Iran Deal Collapsing Under Ceasefire Violations": 10,
+        "Trump Isolating Allies While Consolidating Domestic Power": 9,
+        "Wealth Preservation Crisis Across All Classes": 8,
+        "UK Political System Destabilizing Under Trump Pressure": 8,
+        "Surveillance and Data Access Weaponized Against Vulnerable Populations": 8,
+        "Micron Semiconductor Profit Surge Sustaining Bull Market": 7,
+        "SpaceX IPO Attracts Foreign Capital Amid Security Concerns": 7,
+        "Prediction Markets and Gambling Expansion Amid Regulatory Void": 5,
+        "AI Companions Replacing Human Connection and Social Bonds": 5
       }
     }
   ]
