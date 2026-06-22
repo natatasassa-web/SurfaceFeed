@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-05",
-      "theories": [
-        "Government Attempting Mass Data Erasure",
-        "Iran War Ceasefire Theater vs Reality",
-        "AI Systems Exploitable via Social Engineering",
-        "Markets Decoupling from Reality Signals",
-        "Left Populism Outperforming Centrist Democrats",
-        "Trump Administration Vetting Completely Bypassed",
-        "Energy Shock Cascading Through Global Economy",
-        "Mainstream Media Integrity Under Siege",
-        "Cryptocurrency Vulnerability Exposure Cascade",
-        "Infrastructure Decay Across US Systems"
-      ],
-      "scores": {
-        "Government Attempting Mass Data Erasure": 9,
-        "Iran War Ceasefire Theater vs Reality": 10,
-        "AI Systems Exploitable via Social Engineering": 9,
-        "Markets Decoupling from Reality Signals": 8,
-        "Left Populism Outperforming Centrist Democrats": 7,
-        "Trump Administration Vetting Completely Bypassed": 7,
-        "Energy Shock Cascading Through Global Economy": 7,
-        "Mainstream Media Integrity Under Siege": 7,
-        "Cryptocurrency Vulnerability Exposure Cascade": 5,
-        "Infrastructure Decay Across US Systems": 8
-      }
-    },
-    {
       "date": "2026-06-07",
       "theories": [
         "Iran War Ceasefire Completely Fraudulent",
@@ -364,6 +337,31 @@
         "SpaceX IPO Attracts Foreign Capital Amid Security Concerns": 7,
         "Prediction Markets and Gambling Expansion Amid Regulatory Void": 5,
         "AI Companions Replacing Human Connection and Social Bonds": 5
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "theories": [
+        "Iran Deal Fragile, Compliance Already Questioned",
+        "Tech Giants Split on AI Strategy, Giants Safer",
+        "UK Political System Collapsing Under Pressure",
+        "Prediction Markets Expanding Amid Regulatory Void",
+        "Trump Consolidating Power, Allies Fracturing",
+        "Wealth Preservation Crisis Across All Demographics",
+        "Data Centers and AI Creating Local Political Backlash",
+        "Surveillance and Data Weaponized Against Migrants",
+        "SpaceX IPO Unraveling Post-Launch, Capital Flight"
+      ],
+      "scores": {
+        "Iran Deal Fragile, Compliance Already Questioned": 10,
+        "Tech Giants Split on AI Strategy, Giants Safer": 9,
+        "UK Political System Collapsing Under Pressure": 10,
+        "Prediction Markets Expanding Amid Regulatory Void": 9,
+        "Trump Consolidating Power, Allies Fracturing": 9,
+        "Wealth Preservation Crisis Across All Demographics": 8,
+        "Data Centers and AI Creating Local Political Backlash": 7,
+        "Surveillance and Data Weaponized Against Migrants": 8,
+        "SpaceX IPO Unraveling Post-Launch, Capital Flight": 8
       }
     }
   ]
