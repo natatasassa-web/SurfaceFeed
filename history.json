@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-07",
-      "theories": [
-        "Iran War Ceasefire Completely Fraudulent",
-        "Tech Stock Crash Signals Market Decoupling Reality",
-        "AI Systems Failing at Core Tasks, Widespread",
-        "Housing Crisis Creating Permanence Trap",
-        "Government Infrastructure Surveillance Acceleration",
-        "Democratic Party Structural Collapse In Key Races",
-        "Executive Overreach Beyond Vetting or Congressional Limits",
-        "Geopolitical Energy Shock Cascading Through Economy",
-        "Mainstream Media Institutional Crisis Deepening",
-        "Wealth Inequality Creating Retirement Safety Collapse"
-      ],
-      "scores": {
-        "Iran War Ceasefire Completely Fraudulent": 10,
-        "Tech Stock Crash Signals Market Decoupling Reality": 9,
-        "AI Systems Failing at Core Tasks, Widespread": 9,
-        "Housing Crisis Creating Permanence Trap": 7,
-        "Government Infrastructure Surveillance Acceleration": 8,
-        "Democratic Party Structural Collapse In Key Races": 8,
-        "Executive Overreach Beyond Vetting or Congressional Limits": 7,
-        "Geopolitical Energy Shock Cascading Through Economy": 8,
-        "Mainstream Media Institutional Crisis Deepening": 7,
-        "Wealth Inequality Creating Retirement Safety Collapse": 4
-      }
-    },
-    {
       "date": "2026-06-08",
       "theories": [
         "Iran-Israel Ceasefire Is Theater, Not Peace",
@@ -362,6 +335,31 @@
         "Data Centers and AI Creating Local Political Backlash": 7,
         "Surveillance and Data Weaponized Against Migrants": 8,
         "SpaceX IPO Unraveling Post-Launch, Capital Flight": 8
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "theories": [
+        "Tech AI Valuation Bubble Bursting Rapidly",
+        "Trump Administration Power Consolidation & Fracture",
+        "Iran Deal Fragility, Compliance Disputes Persist",
+        "State-Level Political Systems Collapsing Under Pressure",
+        "Surveillance & Data Weaponization Against Vulnerable Populations",
+        "Prediction Markets Expanding While Public Doubts Legitimacy",
+        "Data Centers & AI Creating Local Political Backlash",
+        "US-Israel Election Meddling Off-Charts, Unreported",
+        "Government AI & Automation Displacing Workers Rapidly"
+      ],
+      "scores": {
+        "Tech AI Valuation Bubble Bursting Rapidly": 10,
+        "Trump Administration Power Consolidation & Fracture": 10,
+        "Iran Deal Fragility, Compliance Disputes Persist": 9,
+        "State-Level Political Systems Collapsing Under Pressure": 8,
+        "Surveillance & Data Weaponization Against Vulnerable Populations": 8,
+        "Prediction Markets Expanding While Public Doubts Legitimacy": 7,
+        "Data Centers & AI Creating Local Political Backlash": 7,
+        "US-Israel Election Meddling Off-Charts, Unreported": 6,
+        "Government AI & Automation Displacing Workers Rapidly": 6
       }
     }
   ]
