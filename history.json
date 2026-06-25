@@ -3,33 +3,6 @@
     {
       "date": "2026-06-08",
       "theories": [
-        "Iran-Israel Ceasefire Is Theater, Not Peace",
-        "Retirement Safety Nets Collapsing Across Economy",
-        "AI Systems Widely Failing Real-World Tasks",
-        "Data Centers Destroying Communities and Resources",
-        "Trump Executive Power Operating Without Vetting",
-        "War Economics Cascading Through Daily Costs",
-        "Microsoft, Meta AI Systems Compromised by Hackers",
-        "Democratic Party Fracturing Over Israel Support",
-        "US Stranglehold on EU Energy Creates Dependency",
-        "IRS Audit Disparities Favor Wealthy Under Trump"
-      ],
-      "scores": {
-        "Iran-Israel Ceasefire Is Theater, Not Peace": 10,
-        "Retirement Safety Nets Collapsing Across Economy": 9,
-        "AI Systems Widely Failing Real-World Tasks": 9,
-        "Data Centers Destroying Communities and Resources": 9,
-        "Trump Executive Power Operating Without Vetting": 8,
-        "War Economics Cascading Through Daily Costs": 8,
-        "Microsoft, Meta AI Systems Compromised by Hackers": 8,
-        "Democratic Party Fracturing Over Israel Support": 8,
-        "US Stranglehold on EU Energy Creates Dependency": 6,
-        "IRS Audit Disparities Favor Wealthy Under Trump": 5
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "theories": [
         "Retirement Systems Collapsing Under Demographic Pressure",
         "Iran-Israel War Theater Continues Despite 'Ceasefire'",
         "AI Systems Failing Real-World Tasks at Scale",
@@ -360,6 +333,33 @@
         "Data Centers & AI Creating Local Political Backlash": 7,
         "US-Israel Election Meddling Off-Charts, Unreported": 6,
         "Government AI & Automation Displacing Workers Rapidly": 6
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "theories": [
+        "Iran Strait Control Escalation Creates Oil Shock",
+        "Supreme Court Systematically Shields Corporations From Liability",
+        "Democratic Socialists Winning Real Electoral Power",
+        "Trump Admin Wars Against Republican Senate Leadership",
+        "AI Data Centers Trigger Real Local Political Backlash",
+        "Trump Admin Defying Congressional Appropriations Authority",
+        "Retail Investor Inefficiency Creating Quant Opportunities",
+        "Inflation Resurgence Despite 'Good' Macro Indicators",
+        "Venezuela Earthquakes Trigger Geopolitical Intervention Race",
+        "Tech Supply Chain Strain Pushing Hardware Price Inflation"
+      ],
+      "scores": {
+        "Iran Strait Control Escalation Creates Oil Shock": 10,
+        "Supreme Court Systematically Shields Corporations From Liability": 10,
+        "Democratic Socialists Winning Real Electoral Power": 10,
+        "Trump Admin Wars Against Republican Senate Leadership": 8,
+        "AI Data Centers Trigger Real Local Political Backlash": 7,
+        "Trump Admin Defying Congressional Appropriations Authority": 9,
+        "Retail Investor Inefficiency Creating Quant Opportunities": 7,
+        "Inflation Resurgence Despite 'Good' Macro Indicators": 8,
+        "Venezuela Earthquakes Trigger Geopolitical Intervention Race": 9,
+        "Tech Supply Chain Strain Pushing Hardware Price Inflation": 9
       }
     }
   ]
