@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-08",
-      "theories": [
-        "Retirement Systems Collapsing Under Demographic Pressure",
-        "Iran-Israel War Theater Continues Despite 'Ceasefire'",
-        "AI Systems Failing Real-World Tasks at Scale",
-        "Data Centers Destroying Communities and Resources",
-        "Trump Executive Power Operating Without Oversight",
-        "US Energy Stranglehold Over EU Expanding",
-        "Democratic Party Fracturing Over Israel Support",
-        "Supreme Court Dismantling Voting Rights and Civil Rights",
-        "IRS Audit Disparities Favor Wealthy Under Trump"
-      ],
-      "scores": {
-        "Retirement Systems Collapsing Under Demographic Pressure": 8,
-        "Iran-Israel War Theater Continues Despite 'Ceasefire'": 10,
-        "AI Systems Failing Real-World Tasks at Scale": 10,
-        "Data Centers Destroying Communities and Resources": 9,
-        "Trump Executive Power Operating Without Oversight": 7,
-        "US Energy Stranglehold Over EU Expanding": 6,
-        "Democratic Party Fracturing Over Israel Support": 7,
-        "Supreme Court Dismantling Voting Rights and Civil Rights": 6,
-        "IRS Audit Disparities Favor Wealthy Under Trump": 5
-      }
-    },
-    {
       "date": "2026-06-09",
       "theories": [
         "Retirement System Crisis Accelerating Measurably",
@@ -360,6 +335,31 @@
         "Inflation Resurgence Despite 'Good' Macro Indicators": 8,
         "Venezuela Earthquakes Trigger Geopolitical Intervention Race": 9,
         "Tech Supply Chain Strain Pushing Hardware Price Inflation": 9
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "theories": [
+        "Iran Ceasefire Already Breaking Down",
+        "Democratic Socialists Consolidating Real Electoral Power",
+        "Trump Defying Congressional Spending Authority Systematically",
+        "Supreme Court Shields Corporations From Liability Systematically",
+        "AI Model Release Control Becoming Government Enforced",
+        "Retail Consumer Spending Signaling Weakness Beneath Headlines",
+        "Trump Administration Persecution of Activists Escalating Rapidly",
+        "Local Communities Blocking Data Centers Through Direct Action",
+        "Hardware Price Inflation Driven By AI Demand Shock"
+      ],
+      "scores": {
+        "Iran Ceasefire Already Breaking Down": 9,
+        "Democratic Socialists Consolidating Real Electoral Power": 10,
+        "Trump Defying Congressional Spending Authority Systematically": 7,
+        "Supreme Court Shields Corporations From Liability Systematically": 6,
+        "AI Model Release Control Becoming Government Enforced": 7,
+        "Retail Consumer Spending Signaling Weakness Beneath Headlines": 7,
+        "Trump Administration Persecution of Activists Escalating Rapidly": 7,
+        "Local Communities Blocking Data Centers Through Direct Action": 6,
+        "Hardware Price Inflation Driven By AI Demand Shock": 7
       }
     }
   ]
