@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-09",
-      "theories": [
-        "Retirement System Crisis Accelerating Measurably",
-        "Iran-Israel War Continues Despite Declared Ceasefire",
-        "AI Systems Failing Real-World Deployment at Scale",
-        "US Energy Stranglehold Over Europe Expanding Visibly",
-        "Data Center Explosion Destroying Local Communities",
-        "Trump Administration Dismantling Oversight Mechanisms",
-        "Vaccine-Preventable Diseases Resurging Openly",
-        "Supreme Court Systematically Dismantling Civil Rights Protections",
-        "Inflation Returning Despite Fed Assurances of Control",
-        "Mass Surveillance and Biometric Integration Accelerating"
-      ],
-      "scores": {
-        "Retirement System Crisis Accelerating Measurably": 8,
-        "Iran-Israel War Continues Despite Declared Ceasefire": 10,
-        "AI Systems Failing Real-World Deployment at Scale": 9,
-        "US Energy Stranglehold Over Europe Expanding Visibly": 7,
-        "Data Center Explosion Destroying Local Communities": 8,
-        "Trump Administration Dismantling Oversight Mechanisms": 7,
-        "Vaccine-Preventable Diseases Resurging Openly": 8,
-        "Supreme Court Systematically Dismantling Civil Rights Protections": 7,
-        "Inflation Returning Despite Fed Assurances of Control": 8,
-        "Mass Surveillance and Biometric Integration Accelerating": 8
-      }
-    },
-    {
       "date": "2026-06-10",
       "theories": [
         "Iran War Continuing Despite Ceasefire Claims",
@@ -360,6 +333,31 @@
         "Trump Administration Persecution of Activists Escalating Rapidly": 7,
         "Local Communities Blocking Data Centers Through Direct Action": 6,
         "Hardware Price Inflation Driven By AI Demand Shock": 7
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "theories": [
+        "Democratic Socialists Consolidating Electoral Power",
+        "Iran-US Ceasefire Actively Collapsing",
+        "Supreme Court Systematically Shields Corporations",
+        "Retirement System Structural Strain Emerging",
+        "AI Model Release Control Becoming Government Enforcement",
+        "Hardware Price Inflation Shock From AI Demand",
+        "Local Communities Blocking Data Centers Through Direct Action",
+        "Trump Administration Persecution of Activists Escalating",
+        "AI Supply Chain Attacks Increasing in Sophistication"
+      ],
+      "scores": {
+        "Democratic Socialists Consolidating Electoral Power": 10,
+        "Iran-US Ceasefire Actively Collapsing": 9,
+        "Supreme Court Systematically Shields Corporations": 8,
+        "Retirement System Structural Strain Emerging": 7,
+        "AI Model Release Control Becoming Government Enforcement": 8,
+        "Hardware Price Inflation Shock From AI Demand": 7,
+        "Local Communities Blocking Data Centers Through Direct Action": 7,
+        "Trump Administration Persecution of Activists Escalating": 6,
+        "AI Supply Chain Attacks Increasing in Sophistication": 7
       }
     }
   ]
