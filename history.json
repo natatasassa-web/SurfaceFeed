@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-10",
-      "theories": [
-        "Iran War Continuing Despite Ceasefire Claims",
-        "Social Security Insolvency Timeline Accelerating Dramatically",
-        "Inflation Surging Again Despite Fed Assurances Control",
-        "Tech Mega-Debt Spiral with No Profitable Exit",
-        "Mass Surveillance Acceleration Normalized in Plain Sight",
-        "Retirement System Collapse Cascading Through Communities",
-        "AI Systems Systematically Failing Real Deployment",
-        "Epstein Connection Becoming Mainstream Political Liability",
-        "Data Center Expansion Destroying Communities Quietly",
-        "Supreme Court Dismantling Civil Rights Methodically"
-      ],
-      "scores": {
-        "Iran War Continuing Despite Ceasefire Claims": 10,
-        "Social Security Insolvency Timeline Accelerating Dramatically": 8,
-        "Inflation Surging Again Despite Fed Assurances Control": 9,
-        "Tech Mega-Debt Spiral with No Profitable Exit": 8,
-        "Mass Surveillance Acceleration Normalized in Plain Sight": 8,
-        "Retirement System Collapse Cascading Through Communities": 6,
-        "AI Systems Systematically Failing Real Deployment": 7,
-        "Epstein Connection Becoming Mainstream Political Liability": 7,
-        "Data Center Expansion Destroying Communities Quietly": 5,
-        "Supreme Court Dismantling Civil Rights Methodically": 5
-      }
-    },
-    {
       "date": "2026-06-11",
       "theories": [
         "Iran War Escalating Despite Ceasefire Posture",
@@ -358,6 +331,31 @@
         "Local Communities Blocking Data Centers Through Direct Action": 7,
         "Trump Administration Persecution of Activists Escalating": 6,
         "AI Supply Chain Attacks Increasing in Sophistication": 7
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "theories": [
+        "Supreme Court Systematically Expands Executive Power",
+        "Democratic Socialists Consolidating Electoral Dominance",
+        "Iran-US Ceasefire Actively Collapsing in Real-Time",
+        "Trump Administration Persecution of Activists Escalating Dramatically",
+        "AI Investment Bubble Facing Imminent Correction Risk",
+        "Retirement System Structural Strain Reaching Crisis Point",
+        "Data Center Opposition Reshaping Local & Electoral Politics",
+        "Media Industry Consolidation & Strategic Restructuring Accelerating",
+        "Federal Law Enforcement Expanding Surveillance & Privacy Abuse"
+      ],
+      "scores": {
+        "Supreme Court Systematically Expands Executive Power": 10,
+        "Democratic Socialists Consolidating Electoral Dominance": 10,
+        "Iran-US Ceasefire Actively Collapsing in Real-Time": 8,
+        "Trump Administration Persecution of Activists Escalating Dramatically": 8,
+        "AI Investment Bubble Facing Imminent Correction Risk": 8,
+        "Retirement System Structural Strain Reaching Crisis Point": 7,
+        "Data Center Opposition Reshaping Local & Electoral Politics": 7,
+        "Media Industry Consolidation & Strategic Restructuring Accelerating": 7,
+        "Federal Law Enforcement Expanding Surveillance & Privacy Abuse": 8
       }
     }
   ]
