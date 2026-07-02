@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-13",
-      "theories": [
-        "Retirement System Collapse Accelerating Into Crisis",
-        "Surveillance Infrastructure Normalized Via Policy Enforcement",
-        "Wealth Concentration Creating Two-Tier Consumer Economy",
-        "Iran Deal Momentum Signals Major Geopolitical Realignment",
-        "AI Systems Systematically Failing Deployment & Safety",
-        "Government Aggressive Control Over Media & Expression",
-        "Data Center Infrastructure Destroying Communities Quietly",
-        "Debt Market Defaults Beginning As Valuations Peak",
-        "Cybersecurity & State Apparatus Fragmenting Under Strain"
-      ],
-      "scores": {
-        "Retirement System Collapse Accelerating Into Crisis": 9,
-        "Surveillance Infrastructure Normalized Via Policy Enforcement": 10,
-        "Wealth Concentration Creating Two-Tier Consumer Economy": 9,
-        "Iran Deal Momentum Signals Major Geopolitical Realignment": 9,
-        "AI Systems Systematically Failing Deployment & Safety": 10,
-        "Government Aggressive Control Over Media & Expression": 9,
-        "Data Center Infrastructure Destroying Communities Quietly": 8,
-        "Debt Market Defaults Beginning As Valuations Peak": 7,
-        "Cybersecurity & State Apparatus Fragmenting Under Strain": 9
-      }
-    },
-    {
       "date": "2026-06-15",
       "theories": [
         "Iran Deal Geopolitical Realignment Accelerating",
@@ -358,6 +333,31 @@
         "Data Center Energy Crunch Forcing Local Political Reckoning": 7,
         "US Manufacturing Defying Recession Predictions Consistently": 7,
         "Trump Crypto Holdings Creating Obvious Conflict-of-Interest": 7
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "theories": [
+        "AI Capex Bubble Structural Cracks Widening",
+        "Socialist Wave Decisively Ousting Incumbent Democrats",
+        "Trump Administration Openly Violating Iran MOU",
+        "Trump Family Corruption Wave Accelerating Visibly",
+        "Energy Crisis Forcing Data Center Political Reckoning",
+        "Supreme Court Systematically Expanding Executive Power",
+        "AI Model Deception Risk Now Empirically Demonstrable",
+        "RFK Jr. Weaponizing Health Apparatus Against Muslims",
+        "Tesla Demand Fundamentals Strong Despite Market Skepticism"
+      ],
+      "scores": {
+        "AI Capex Bubble Structural Cracks Widening": 9,
+        "Socialist Wave Decisively Ousting Incumbent Democrats": 8,
+        "Trump Administration Openly Violating Iran MOU": 8,
+        "Trump Family Corruption Wave Accelerating Visibly": 8,
+        "Energy Crisis Forcing Data Center Political Reckoning": 8,
+        "Supreme Court Systematically Expanding Executive Power": 7,
+        "AI Model Deception Risk Now Empirically Demonstrable": 6,
+        "RFK Jr. Weaponizing Health Apparatus Against Muslims": 5,
+        "Tesla Demand Fundamentals Strong Despite Market Skepticism": 6
       }
     }
   ]
