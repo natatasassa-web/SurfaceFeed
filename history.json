@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-15",
-      "theories": [
-        "Iran Deal Geopolitical Realignment Accelerating",
-        "AI Systems Failing Deployment Under State Control",
-        "Media Access & Government Surveillance Convergence",
-        "Massive Capital Raises Amid Bubble Valuation Signals",
-        "Data Center Infrastructure Destroying Local Communities",
-        "Cybersecurity Infrastructure Fragmenting Under Attack",
-        "Executive Power Consolidation Via Spectacle",
-        "Political Establishment Fracturing Over Institutional Reform",
-        "Social Media Age Restrictions & State Control Expanding",
-        "Wealth Concentration Accelerating Into Two-Tier Society"
-      ],
-      "scores": {
-        "Iran Deal Geopolitical Realignment Accelerating": 10,
-        "AI Systems Failing Deployment Under State Control": 8,
-        "Media Access & Government Surveillance Convergence": 8,
-        "Massive Capital Raises Amid Bubble Valuation Signals": 9,
-        "Data Center Infrastructure Destroying Local Communities": 8,
-        "Cybersecurity Infrastructure Fragmenting Under Attack": 8,
-        "Executive Power Consolidation Via Spectacle": 7,
-        "Political Establishment Fracturing Over Institutional Reform": 7,
-        "Social Media Age Restrictions & State Control Expanding": 7,
-        "Wealth Concentration Accelerating Into Two-Tier Society": 6
-      }
-    },
-    {
       "date": "2026-06-16",
       "theories": [
         "Iran Deal Legitimacy Questioned Internally",
@@ -358,6 +331,31 @@
         "AI Model Deception Risk Now Empirically Demonstrable": 6,
         "RFK Jr. Weaponizing Health Apparatus Against Muslims": 5,
         "Tesla Demand Fundamentals Strong Despite Market Skepticism": 6
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "theories": [
+        "Trump Weaponizing Executive Power Over Sports",
+        "Socialist Wave Decisively Ousting Establishment Democrats",
+        "Data Center Energy Crisis Forcing Political Reckoning",
+        "AI Cost Spiral Forcing Enterprise Throttling",
+        "AI Deception Now Empirically Demonstrated at Scale",
+        "Tech Giants Mass Layoff Wave Accelerating",
+        "Trump Administration Openly Violating Iran MOU Terms",
+        "RFK Jr. Weaponizing Health Apparatus Against Muslims",
+        "Supreme Court Shadow Docket Expanding Secretive Rulings"
+      ],
+      "scores": {
+        "Trump Weaponizing Executive Power Over Sports": 9,
+        "Socialist Wave Decisively Ousting Establishment Democrats": 7,
+        "Data Center Energy Crisis Forcing Political Reckoning": 7,
+        "AI Cost Spiral Forcing Enterprise Throttling": 6,
+        "AI Deception Now Empirically Demonstrated at Scale": 5,
+        "Tech Giants Mass Layoff Wave Accelerating": 6,
+        "Trump Administration Openly Violating Iran MOU Terms": 5,
+        "RFK Jr. Weaponizing Health Apparatus Against Muslims": 5,
+        "Supreme Court Shadow Docket Expanding Secretive Rulings": 5
       }
     }
   ]
