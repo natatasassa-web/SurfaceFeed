@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-16",
-      "theories": [
-        "Iran Deal Legitimacy Questioned Internally",
-        "Energy Market Concentration & Geopolitical Leverage",
-        "Wealth Preservation Signals In Retirement Planning",
-        "Executive Politicization & Weaponized DOJ Investigations",
-        "Digital ID & Surveillance Infrastructure Expanding",
-        "AI Bubble Valuations Decoupling From Reality",
-        "LLM Security Failures Enable Account Takeovers",
-        "Data Centers Causing Cascading Infrastructure Damage",
-        "Voting Rights Infrastructure Under Coordinated Attack",
-        "Anthropic-Trump Conflict Threatens AI Dominance"
-      ],
-      "scores": {
-        "Iran Deal Legitimacy Questioned Internally": 10,
-        "Energy Market Concentration & Geopolitical Leverage": 8,
-        "Wealth Preservation Signals In Retirement Planning": 5,
-        "Executive Politicization & Weaponized DOJ Investigations": 10,
-        "Digital ID & Surveillance Infrastructure Expanding": 9,
-        "AI Bubble Valuations Decoupling From Reality": 10,
-        "LLM Security Failures Enable Account Takeovers": 8,
-        "Data Centers Causing Cascading Infrastructure Damage": 8,
-        "Voting Rights Infrastructure Under Coordinated Attack": 9,
-        "Anthropic-Trump Conflict Threatens AI Dominance": 8
-      }
-    },
-    {
       "date": "2026-06-17",
       "theories": [
         "Iran Deal Legitimacy Collapsing Pre-Signature",
@@ -356,6 +329,33 @@
         "Trump Administration Openly Violating Iran MOU Terms": 5,
         "RFK Jr. Weaponizing Health Apparatus Against Muslims": 5,
         "Supreme Court Shadow Docket Expanding Secretive Rulings": 5
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "theories": [
+        "Trump Iran Ceasefire Collapse Escalates Oil Crisis",
+        "Socialist Democratic Wave Crushing Establishment Candidates",
+        "Supreme Court Shadow Docket Expanding Secretive Power",
+        "AI Cost Spiral Forcing Enterprise Throttling Everywhere",
+        "Trump Administration Openly Weaponizing Federal Power Against Dissent",
+        "Meta/Tech Giants Building Invasive Emotion-Tracking Surveillance Wearables",
+        "AI Deception At Scale Now Proven Empirically Across Systems",
+        "Trump Administration Approving Corporate AI Releases Ahead of Schedule",
+        "Data Center Energy Demand Threatens US Manufacturing Recovery",
+        "Trump Weaponizing Sports/FIFA Soft Power Over Athletes"
+      ],
+      "scores": {
+        "Trump Iran Ceasefire Collapse Escalates Oil Crisis": 10,
+        "Socialist Democratic Wave Crushing Establishment Candidates": 9,
+        "Supreme Court Shadow Docket Expanding Secretive Power": 7,
+        "AI Cost Spiral Forcing Enterprise Throttling Everywhere": 7,
+        "Trump Administration Openly Weaponizing Federal Power Against Dissent": 8,
+        "Meta/Tech Giants Building Invasive Emotion-Tracking Surveillance Wearables": 6,
+        "AI Deception At Scale Now Proven Empirically Across Systems": 6,
+        "Trump Administration Approving Corporate AI Releases Ahead of Schedule": 6,
+        "Data Center Energy Demand Threatens US Manufacturing Recovery": 5,
+        "Trump Weaponizing Sports/FIFA Soft Power Over Athletes": 6
       }
     }
   ]
