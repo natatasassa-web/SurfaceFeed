@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-17",
-      "theories": [
-        "Iran Deal Legitimacy Collapsing Pre-Signature",
-        "Wealth Preservation Crisis Via Tax & Healthcare",
-        "Digital Identity Systems Expanding Surveillance Scope",
-        "AI Bubble Decoupling Accelerating Market Risk",
-        "Government Weaponized DOJ Against Political Opponents",
-        "Live Sports As Last Remaining Mass Experience",
-        "Voting Rights Infrastructure Under Coordinated Attack",
-        "Trump Outsider Billionaire Defeats Party Endorsement",
-        "National Sentiment Collapse & Lost Patriotic Identity",
-        "Data Broker & Surveillance Apparatus Targeting Immigrants"
-      ],
-      "scores": {
-        "Iran Deal Legitimacy Collapsing Pre-Signature": 10,
-        "Wealth Preservation Crisis Via Tax & Healthcare": 9,
-        "Digital Identity Systems Expanding Surveillance Scope": 9,
-        "AI Bubble Decoupling Accelerating Market Risk": 9,
-        "Government Weaponized DOJ Against Political Opponents": 9,
-        "Live Sports As Last Remaining Mass Experience": 7,
-        "Voting Rights Infrastructure Under Coordinated Attack": 8,
-        "Trump Outsider Billionaire Defeats Party Endorsement": 8,
-        "National Sentiment Collapse & Lost Patriotic Identity": 7,
-        "Data Broker & Surveillance Apparatus Targeting Immigrants": 8
-      }
-    },
-    {
       "date": "2026-06-19",
       "theories": [
         "Iran Deal Collapsing Under Israeli Defiance",
@@ -356,6 +329,33 @@
         "Trump Administration Approving Corporate AI Releases Ahead of Schedule": 6,
         "Data Center Energy Demand Threatens US Manufacturing Recovery": 5,
         "Trump Weaponizing Sports/FIFA Soft Power Over Athletes": 6
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "theories": [
+        "Iran-US Strait of Hormuz escalation spiral",
+        "Supreme Court shadow docket expanding secretive power",
+        "AI cost spiral forcing enterprise throttling",
+        "Housing affordability collapse despite price gains",
+        "Socialist Democratic wave sweeping establishment candidates",
+        "Leveraged ETF boom making stock market more volatile",
+        "Trump weaponizing federal power against dissent",
+        "Trump administration approving AI ahead of schedule",
+        "Data center energy demand threatening manufacturing",
+        "Invasive emotion-tracking surveillance wearables emerging"
+      ],
+      "scores": {
+        "Iran-US Strait of Hormuz escalation spiral": 10,
+        "Supreme Court shadow docket expanding secretive power": 9,
+        "AI cost spiral forcing enterprise throttling": 9,
+        "Housing affordability collapse despite price gains": 7,
+        "Socialist Democratic wave sweeping establishment candidates": 8,
+        "Leveraged ETF boom making stock market more volatile": 7,
+        "Trump weaponizing federal power against dissent": 8,
+        "Trump administration approving AI ahead of schedule": 7,
+        "Data center energy demand threatening manufacturing": 7,
+        "Invasive emotion-tracking surveillance wearables emerging": 7
       }
     }
   ]
