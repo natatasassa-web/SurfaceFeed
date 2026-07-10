@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-19",
-      "theories": [
-        "Iran Deal Collapsing Under Israeli Defiance",
-        "Trump Administration Expansion of Surveillance State",
-        "Outsider Billionaires Defeating Party Endorsement",
-        "Wealth Preservation Crisis Across Income Levels",
-        "AI Causing Systemic Loneliness and Relationship Crisis",
-        "Tech Oligarchy Consolidating Power Openly",
-        "Chip Stocks Rally Masking Momentum Collapse",
-        "Democratic Socialism Gaining Ground in Elections",
-        "US Government Harming Children via Healthcare Rollbacks"
-      ],
-      "scores": {
-        "Iran Deal Collapsing Under Israeli Defiance": 10,
-        "Trump Administration Expansion of Surveillance State": 9,
-        "Outsider Billionaires Defeating Party Endorsement": 7,
-        "Wealth Preservation Crisis Across Income Levels": 7,
-        "AI Causing Systemic Loneliness and Relationship Crisis": 6,
-        "Tech Oligarchy Consolidating Power Openly": 7,
-        "Chip Stocks Rally Masking Momentum Collapse": 5,
-        "Democratic Socialism Gaining Ground in Elections": 6,
-        "US Government Harming Children via Healthcare Rollbacks": 6
-      }
-    },
-    {
       "date": "2026-06-20",
       "theories": [
         "Iran Deal Collapsing Under Ceasefire Violations",
@@ -356,6 +331,31 @@
         "Trump administration approving AI ahead of schedule": 7,
         "Data center energy demand threatening manufacturing": 7,
         "Invasive emotion-tracking surveillance wearables emerging": 7
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "theories": [
+        "Next financial crisis 4x worse than dot-com",
+        "Iran-US ceasefire collapses amid escalation spiral",
+        "AI training scraping destroying publisher content models",
+        "Trump weaponizing elections apparatus preemptively",
+        "Fed worried AI investment fueling persistent inflation",
+        "Democratic establishment failing vetting, losing control",
+        "Housing crisis worsens despite record price highs",
+        "Emotion-tracking wearables patented without consent norms",
+        "Supreme Court shadow docket weaponized against dissent"
+      ],
+      "scores": {
+        "Next financial crisis 4x worse than dot-com": 10,
+        "Iran-US ceasefire collapses amid escalation spiral": 10,
+        "AI training scraping destroying publisher content models": 8,
+        "Trump weaponizing elections apparatus preemptively": 8,
+        "Fed worried AI investment fueling persistent inflation": 7,
+        "Democratic establishment failing vetting, losing control": 8,
+        "Housing crisis worsens despite record price highs": 7,
+        "Emotion-tracking wearables patented without consent norms": 5,
+        "Supreme Court shadow docket weaponized against dissent": 6
       }
     }
   ]
