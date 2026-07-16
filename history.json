@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-20",
-      "theories": [
-        "Iran Deal Collapsing Under Ceasefire Violations",
-        "Wealth Preservation Crisis Deepening Across Classes",
-        "Surveillance State Expanding Under Trump Administration",
-        "Trump Isolating Allies While Consolidating Power",
-        "AI Causing Systemic Loneliness Replacing Human Connection",
-        "Democratic Party Losing Control of Primary Endorsements",
-        "Federal Agencies Failing to Execute Under Trump Directives",
-        "State-Level AI and Surveillance Tech Adoption Accelerating",
-        "SpaceX IPO Attracting Foreign Capital Amid Security Concerns"
-      ],
-      "scores": {
-        "Iran Deal Collapsing Under Ceasefire Violations": 10,
-        "Wealth Preservation Crisis Deepening Across Classes": 8,
-        "Surveillance State Expanding Under Trump Administration": 9,
-        "Trump Isolating Allies While Consolidating Power": 9,
-        "AI Causing Systemic Loneliness Replacing Human Connection": 7,
-        "Democratic Party Losing Control of Primary Endorsements": 6,
-        "Federal Agencies Failing to Execute Under Trump Directives": 8,
-        "State-Level AI and Surveillance Tech Adoption Accelerating": 6,
-        "SpaceX IPO Attracting Foreign Capital Amid Security Concerns": 6
-      }
-    },
-    {
       "date": "2026-06-21",
       "theories": [
         "Iran Deal Collapsing Under Ceasefire Violations",
@@ -356,6 +331,33 @@
         "Housing crisis worsens despite record price highs": 7,
         "Emotion-tracking wearables patented without consent norms": 5,
         "Supreme Court shadow docket weaponized against dissent": 6
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "theories": [
+        "Iran-US escalation spiral deepening dangerously",
+        "AI bubble mirroring dot-com crash dynamics",
+        "Trump administration weaponizing government apparatus systematically",
+        "Housing crisis accelerating despite record high prices",
+        "Private schools funded by vouchers operating without oversight",
+        "Surveillance tech expanding to track individuals, not vehicles",
+        "AI training scraping destroying creator compensation models",
+        "Democratic establishment losing control of primary elections",
+        "Korean financial system showing stress signals structurally",
+        "Microsoft security patching at record-breaking scale"
+      ],
+      "scores": {
+        "Iran-US escalation spiral deepening dangerously": 10,
+        "AI bubble mirroring dot-com crash dynamics": 9,
+        "Trump administration weaponizing government apparatus systematically": 9,
+        "Housing crisis accelerating despite record high prices": 8,
+        "Private schools funded by vouchers operating without oversight": 7,
+        "Surveillance tech expanding to track individuals, not vehicles": 8,
+        "AI training scraping destroying creator compensation models": 8,
+        "Democratic establishment losing control of primary elections": 6,
+        "Korean financial system showing stress signals structurally": 6,
+        "Microsoft security patching at record-breaking scale": 7
       }
     }
   ]
