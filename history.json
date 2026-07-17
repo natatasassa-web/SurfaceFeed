@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-21",
-      "theories": [
-        "Iran Deal Collapsing Under Ceasefire Violations",
-        "Trump Isolating Allies While Consolidating Domestic Power",
-        "Wealth Preservation Crisis Across All Classes",
-        "UK Political System Destabilizing Under Trump Pressure",
-        "Surveillance and Data Access Weaponized Against Vulnerable Populations",
-        "Micron Semiconductor Profit Surge Sustaining Bull Market",
-        "SpaceX IPO Attracts Foreign Capital Amid Security Concerns",
-        "Prediction Markets and Gambling Expansion Amid Regulatory Void",
-        "AI Companions Replacing Human Connection and Social Bonds"
-      ],
-      "scores": {
-        "Iran Deal Collapsing Under Ceasefire Violations": 10,
-        "Trump Isolating Allies While Consolidating Domestic Power": 9,
-        "Wealth Preservation Crisis Across All Classes": 8,
-        "UK Political System Destabilizing Under Trump Pressure": 8,
-        "Surveillance and Data Access Weaponized Against Vulnerable Populations": 8,
-        "Micron Semiconductor Profit Surge Sustaining Bull Market": 7,
-        "SpaceX IPO Attracts Foreign Capital Amid Security Concerns": 7,
-        "Prediction Markets and Gambling Expansion Amid Regulatory Void": 5,
-        "AI Companions Replacing Human Connection and Social Bonds": 5
-      }
-    },
-    {
       "date": "2026-06-22",
       "theories": [
         "Iran Deal Fragile, Compliance Already Questioned",
@@ -358,6 +333,31 @@
         "Democratic establishment losing control of primary elections": 6,
         "Korean financial system showing stress signals structurally": 6,
         "Microsoft security patching at record-breaking scale": 7
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "theories": [
+        "Trump weaponizing election claims for midterm control",
+        "Iran-US escalation spiral entering dangerous new phase",
+        "China closes AI capability gap with US overnight",
+        "Mass surveillance infrastructure normalizing through data brokers",
+        "AI training scraping destroying creator compensation models",
+        "Democratic primary losing establishment control via money",
+        "Apocalyptic worldviews moving into government policy",
+        "Voucher-funded private schools operating completely unaccountable",
+        "AI bubble valuations repeating dot-com crash dynamics"
+      ],
+      "scores": {
+        "Trump weaponizing election claims for midterm control": 10,
+        "Iran-US escalation spiral entering dangerous new phase": 10,
+        "China closes AI capability gap with US overnight": 8,
+        "Mass surveillance infrastructure normalizing through data brokers": 8,
+        "AI training scraping destroying creator compensation models": 7,
+        "Democratic primary losing establishment control via money": 7,
+        "Apocalyptic worldviews moving into government policy": 6,
+        "Voucher-funded private schools operating completely unaccountable": 5,
+        "AI bubble valuations repeating dot-com crash dynamics": 6
       }
     }
   ]
