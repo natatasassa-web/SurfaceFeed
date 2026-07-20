@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-22",
-      "theories": [
-        "Iran Deal Fragile, Compliance Already Questioned",
-        "Tech Giants Split on AI Strategy, Giants Safer",
-        "UK Political System Collapsing Under Pressure",
-        "Prediction Markets Expanding Amid Regulatory Void",
-        "Trump Consolidating Power, Allies Fracturing",
-        "Wealth Preservation Crisis Across All Demographics",
-        "Data Centers and AI Creating Local Political Backlash",
-        "Surveillance and Data Weaponized Against Migrants",
-        "SpaceX IPO Unraveling Post-Launch, Capital Flight"
-      ],
-      "scores": {
-        "Iran Deal Fragile, Compliance Already Questioned": 10,
-        "Tech Giants Split on AI Strategy, Giants Safer": 9,
-        "UK Political System Collapsing Under Pressure": 10,
-        "Prediction Markets Expanding Amid Regulatory Void": 9,
-        "Trump Consolidating Power, Allies Fracturing": 9,
-        "Wealth Preservation Crisis Across All Demographics": 8,
-        "Data Centers and AI Creating Local Political Backlash": 7,
-        "Surveillance and Data Weaponized Against Migrants": 8,
-        "SpaceX IPO Unraveling Post-Launch, Capital Flight": 8
-      }
-    },
-    {
       "date": "2026-06-23",
       "theories": [
         "Tech AI Valuation Bubble Bursting Rapidly",
@@ -358,6 +333,31 @@
         "Apocalyptic worldviews moving into government policy": 6,
         "Voucher-funded private schools operating completely unaccountable": 5,
         "AI bubble valuations repeating dot-com crash dynamics": 6
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "theories": [
+        "Iran-US escalation spiraling into sustained conflict",
+        "Cost-of-living crisis accelerating with food/fuel spikes",
+        "US surveillance state hardening into weaponized enforcement tool",
+        "Unaccountable voucher-funded private schools expanding rapidly",
+        "AI bubble dynamics repeating dot-com crash patterns",
+        "Democratic primary establishment losing financial control",
+        "ICE operating with expanded lethal authority, minimal accountability",
+        "China closing AI capability gap with open-weight models",
+        "Medical Aid in Dying laws rapidly normalizing suicide access"
+      ],
+      "scores": {
+        "Iran-US escalation spiraling into sustained conflict": 10,
+        "Cost-of-living crisis accelerating with food/fuel spikes": 9,
+        "US surveillance state hardening into weaponized enforcement tool": 10,
+        "Unaccountable voucher-funded private schools expanding rapidly": 8,
+        "AI bubble dynamics repeating dot-com crash patterns": 7,
+        "Democratic primary establishment losing financial control": 6,
+        "ICE operating with expanded lethal authority, minimal accountability": 6,
+        "China closing AI capability gap with open-weight models": 6,
+        "Medical Aid in Dying laws rapidly normalizing suicide access": 4
       }
     }
   ]
