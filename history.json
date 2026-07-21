@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-23",
-      "theories": [
-        "Tech AI Valuation Bubble Bursting Rapidly",
-        "Trump Administration Power Consolidation & Fracture",
-        "Iran Deal Fragility, Compliance Disputes Persist",
-        "State-Level Political Systems Collapsing Under Pressure",
-        "Surveillance & Data Weaponization Against Vulnerable Populations",
-        "Prediction Markets Expanding While Public Doubts Legitimacy",
-        "Data Centers & AI Creating Local Political Backlash",
-        "US-Israel Election Meddling Off-Charts, Unreported",
-        "Government AI & Automation Displacing Workers Rapidly"
-      ],
-      "scores": {
-        "Tech AI Valuation Bubble Bursting Rapidly": 10,
-        "Trump Administration Power Consolidation & Fracture": 10,
-        "Iran Deal Fragility, Compliance Disputes Persist": 9,
-        "State-Level Political Systems Collapsing Under Pressure": 8,
-        "Surveillance & Data Weaponization Against Vulnerable Populations": 8,
-        "Prediction Markets Expanding While Public Doubts Legitimacy": 7,
-        "Data Centers & AI Creating Local Political Backlash": 7,
-        "US-Israel Election Meddling Off-Charts, Unreported": 6,
-        "Government AI & Automation Displacing Workers Rapidly": 6
-      }
-    },
-    {
       "date": "2026-06-25",
       "theories": [
         "Iran Strait Control Escalation Creates Oil Shock",
@@ -358,6 +333,31 @@
         "ICE operating with expanded lethal authority, minimal accountability": 6,
         "China closing AI capability gap with open-weight models": 6,
         "Medical Aid in Dying laws rapidly normalizing suicide access": 4
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "theories": [
+        "Iran-US war casualties being actively concealed",
+        "ICE mass data collection for voter fraud targeting",
+        "AI infrastructure under targeted malware attack",
+        "Tech sector bubble propping up despite warning signs",
+        "Trump using 1930s tariff law to bypass Congress",
+        "Supreme Court enabling gun rights while gutting oversight",
+        "Private school voucher system enabling unaccountable abuse",
+        "China closing AI capability gap with open models",
+        "GLP-1 drug market intensifying patent/regulatory warfare"
+      ],
+      "scores": {
+        "Iran-US war casualties being actively concealed": 10,
+        "ICE mass data collection for voter fraud targeting": 10,
+        "AI infrastructure under targeted malware attack": 9,
+        "Tech sector bubble propping up despite warning signs": 9,
+        "Trump using 1930s tariff law to bypass Congress": 9,
+        "Supreme Court enabling gun rights while gutting oversight": 8,
+        "Private school voucher system enabling unaccountable abuse": 8,
+        "China closing AI capability gap with open models": 9,
+        "GLP-1 drug market intensifying patent/regulatory warfare": 7
       }
     }
   ]
