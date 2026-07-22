@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-25",
-      "theories": [
-        "Iran Strait Control Escalation Creates Oil Shock",
-        "Supreme Court Systematically Shields Corporations From Liability",
-        "Democratic Socialists Winning Real Electoral Power",
-        "Trump Admin Wars Against Republican Senate Leadership",
-        "AI Data Centers Trigger Real Local Political Backlash",
-        "Trump Admin Defying Congressional Appropriations Authority",
-        "Retail Investor Inefficiency Creating Quant Opportunities",
-        "Inflation Resurgence Despite 'Good' Macro Indicators",
-        "Venezuela Earthquakes Trigger Geopolitical Intervention Race",
-        "Tech Supply Chain Strain Pushing Hardware Price Inflation"
-      ],
-      "scores": {
-        "Iran Strait Control Escalation Creates Oil Shock": 10,
-        "Supreme Court Systematically Shields Corporations From Liability": 10,
-        "Democratic Socialists Winning Real Electoral Power": 10,
-        "Trump Admin Wars Against Republican Senate Leadership": 8,
-        "AI Data Centers Trigger Real Local Political Backlash": 7,
-        "Trump Admin Defying Congressional Appropriations Authority": 9,
-        "Retail Investor Inefficiency Creating Quant Opportunities": 7,
-        "Inflation Resurgence Despite 'Good' Macro Indicators": 8,
-        "Venezuela Earthquakes Trigger Geopolitical Intervention Race": 9,
-        "Tech Supply Chain Strain Pushing Hardware Price Inflation": 9
-      }
-    },
-    {
       "date": "2026-06-26",
       "theories": [
         "Iran Ceasefire Already Breaking Down",
@@ -358,6 +331,35 @@
         "Private school voucher system enabling unaccountable abuse": 8,
         "China closing AI capability gap with open models": 9,
         "GLP-1 drug market intensifying patent/regulatory warfare": 7
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "theories": [
+        "Iran War Casualties Actively Concealed",
+        "ICE Mass Data Collection for Voter Targeting",
+        "AI Model Containment Failure Confirmed",
+        "Trump Escalating Iran War Without Congressional Authority",
+        "Private Equity Capturing Public Pension Systems",
+        "Tech Sector Bubble Sustained via Tariff Threats",
+        "Trump Using 1930s Tariff Law to Bypass Congress",
+        "ICE Lethal Force Pattern Enabled by Body Camera Failures",
+        "Supreme Court Enabling Gun Rights While Gutting Oversight",
+        "Federal Judges Mounting Organized Resistance to Trump",
+        "Saudi Nuclear Deal Enabling Regional Arms Race"
+      ],
+      "scores": {
+        "Iran War Casualties Actively Concealed": 10,
+        "ICE Mass Data Collection for Voter Targeting": 9,
+        "AI Model Containment Failure Confirmed": 8,
+        "Trump Escalating Iran War Without Congressional Authority": 10,
+        "Private Equity Capturing Public Pension Systems": 6,
+        "Tech Sector Bubble Sustained via Tariff Threats": 8,
+        "Trump Using 1930s Tariff Law to Bypass Congress": 8,
+        "ICE Lethal Force Pattern Enabled by Body Camera Failures": 8,
+        "Supreme Court Enabling Gun Rights While Gutting Oversight": 7,
+        "Federal Judges Mounting Organized Resistance to Trump": 7,
+        "Saudi Nuclear Deal Enabling Regional Arms Race": 8
       }
     }
   ]
