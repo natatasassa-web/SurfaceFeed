@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-26",
-      "theories": [
-        "Iran Ceasefire Already Breaking Down",
-        "Democratic Socialists Consolidating Real Electoral Power",
-        "Trump Defying Congressional Spending Authority Systematically",
-        "Supreme Court Shields Corporations From Liability Systematically",
-        "AI Model Release Control Becoming Government Enforced",
-        "Retail Consumer Spending Signaling Weakness Beneath Headlines",
-        "Trump Administration Persecution of Activists Escalating Rapidly",
-        "Local Communities Blocking Data Centers Through Direct Action",
-        "Hardware Price Inflation Driven By AI Demand Shock"
-      ],
-      "scores": {
-        "Iran Ceasefire Already Breaking Down": 9,
-        "Democratic Socialists Consolidating Real Electoral Power": 10,
-        "Trump Defying Congressional Spending Authority Systematically": 7,
-        "Supreme Court Shields Corporations From Liability Systematically": 6,
-        "AI Model Release Control Becoming Government Enforced": 7,
-        "Retail Consumer Spending Signaling Weakness Beneath Headlines": 7,
-        "Trump Administration Persecution of Activists Escalating Rapidly": 7,
-        "Local Communities Blocking Data Centers Through Direct Action": 6,
-        "Hardware Price Inflation Driven By AI Demand Shock": 7
-      }
-    },
-    {
       "date": "2026-06-27",
       "theories": [
         "Democratic Socialists Consolidating Electoral Power",
@@ -360,6 +335,31 @@
         "Supreme Court Enabling Gun Rights While Gutting Oversight": 7,
         "Federal Judges Mounting Organized Resistance to Trump": 7,
         "Saudi Nuclear Deal Enabling Regional Arms Race": 8
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "theories": [
+        "Iran War Escalation Momentum Unstoppable",
+        "Defense Contractors Win Big Profitably",
+        "Pentagon Casualty Cover-Up Collapsing",
+        "Big Tech Financial Reality Masking Systemic Collapse",
+        "AI Containment Failures Now Operational Reality",
+        "ICE Surveillance Infrastructure Enables Targeting",
+        "Food Supply Crisis Accelerating Via War",
+        "Oil Markets Pricing War Risk Ceiling",
+        "ICE Lethal Force Pattern Continues Unabated"
+      ],
+      "scores": {
+        "Iran War Escalation Momentum Unstoppable": 10,
+        "Defense Contractors Win Big Profitably": 8,
+        "Pentagon Casualty Cover-Up Collapsing": 7,
+        "Big Tech Financial Reality Masking Systemic Collapse": 7,
+        "AI Containment Failures Now Operational Reality": 7,
+        "ICE Surveillance Infrastructure Enables Targeting": 6,
+        "Food Supply Crisis Accelerating Via War": 5,
+        "Oil Markets Pricing War Risk Ceiling": 6,
+        "ICE Lethal Force Pattern Continues Unabated": 5
       }
     }
   ]
