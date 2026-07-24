@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-27",
-      "theories": [
-        "Democratic Socialists Consolidating Electoral Power",
-        "Iran-US Ceasefire Actively Collapsing",
-        "Supreme Court Systematically Shields Corporations",
-        "Retirement System Structural Strain Emerging",
-        "AI Model Release Control Becoming Government Enforcement",
-        "Hardware Price Inflation Shock From AI Demand",
-        "Local Communities Blocking Data Centers Through Direct Action",
-        "Trump Administration Persecution of Activists Escalating",
-        "AI Supply Chain Attacks Increasing in Sophistication"
-      ],
-      "scores": {
-        "Democratic Socialists Consolidating Electoral Power": 10,
-        "Iran-US Ceasefire Actively Collapsing": 9,
-        "Supreme Court Systematically Shields Corporations": 8,
-        "Retirement System Structural Strain Emerging": 7,
-        "AI Model Release Control Becoming Government Enforcement": 8,
-        "Hardware Price Inflation Shock From AI Demand": 7,
-        "Local Communities Blocking Data Centers Through Direct Action": 7,
-        "Trump Administration Persecution of Activists Escalating": 6,
-        "AI Supply Chain Attacks Increasing in Sophistication": 7
-      }
-    },
-    {
       "date": "2026-06-29",
       "theories": [
         "Supreme Court Systematically Expands Executive Power",
@@ -360,6 +335,33 @@
         "Food Supply Crisis Accelerating Via War": 5,
         "Oil Markets Pricing War Risk Ceiling": 6,
         "ICE Lethal Force Pattern Continues Unabated": 5
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "theories": [
+        "Iran War Escalation Spiraling Beyond Control",
+        "Pentagon Casualty Counts Demonstrably False Collapsing",
+        "Housing Market Collapse Risk Rising Sharply",
+        "ICE Becoming Unaccountable Lethal Force Authority",
+        "Trump Tariff Regime Rebuilding Via Labor Justification",
+        "Operation Condor 2.0 Surveillance State Framework",
+        "Big Tech AI Spending Unmoored From Revenue Reality",
+        "Election Authority Power Grab Via Legal Innovation",
+        "Data Center Buildout Facing Coordinated Community Resistance",
+        "Government Mandating Surveillance Tech Removal Via Private Takedown"
+      ],
+      "scores": {
+        "Iran War Escalation Spiraling Beyond Control": 10,
+        "Pentagon Casualty Counts Demonstrably False Collapsing": 8,
+        "Housing Market Collapse Risk Rising Sharply": 9,
+        "ICE Becoming Unaccountable Lethal Force Authority": 9,
+        "Trump Tariff Regime Rebuilding Via Labor Justification": 8,
+        "Operation Condor 2.0 Surveillance State Framework": 6,
+        "Big Tech AI Spending Unmoored From Revenue Reality": 8,
+        "Election Authority Power Grab Via Legal Innovation": 7,
+        "Data Center Buildout Facing Coordinated Community Resistance": 6,
+        "Government Mandating Surveillance Tech Removal Via Private Takedown": 5
       }
     }
   ]
