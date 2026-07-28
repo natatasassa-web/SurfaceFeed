@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-29",
-      "theories": [
-        "Supreme Court Systematically Expands Executive Power",
-        "Democratic Socialists Consolidating Electoral Dominance",
-        "Iran-US Ceasefire Actively Collapsing in Real-Time",
-        "Trump Administration Persecution of Activists Escalating Dramatically",
-        "AI Investment Bubble Facing Imminent Correction Risk",
-        "Retirement System Structural Strain Reaching Crisis Point",
-        "Data Center Opposition Reshaping Local & Electoral Politics",
-        "Media Industry Consolidation & Strategic Restructuring Accelerating",
-        "Federal Law Enforcement Expanding Surveillance & Privacy Abuse"
-      ],
-      "scores": {
-        "Supreme Court Systematically Expands Executive Power": 10,
-        "Democratic Socialists Consolidating Electoral Dominance": 10,
-        "Iran-US Ceasefire Actively Collapsing in Real-Time": 8,
-        "Trump Administration Persecution of Activists Escalating Dramatically": 8,
-        "AI Investment Bubble Facing Imminent Correction Risk": 8,
-        "Retirement System Structural Strain Reaching Crisis Point": 7,
-        "Data Center Opposition Reshaping Local & Electoral Politics": 7,
-        "Media Industry Consolidation & Strategic Restructuring Accelerating": 7,
-        "Federal Law Enforcement Expanding Surveillance & Privacy Abuse": 8
-      }
-    },
-    {
       "date": "2026-07-01",
       "theories": [
         "Democratic Socialist Wave Unseating Incumbents",
@@ -362,6 +337,35 @@
         "Election Authority Power Grab Via Legal Innovation": 7,
         "Data Center Buildout Facing Coordinated Community Resistance": 6,
         "Government Mandating Surveillance Tech Removal Via Private Takedown": 5
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "theories": [
+        "Pentagon casualty counts demonstrably false collapsing",
+        "Iran war generating economic damage markets ignore",
+        "Japan bonds exit triggering global rate cut collapse",
+        "Healthcare cost shock driving retirement planning collapse",
+        "Data center surveillance arrests over clapping protests",
+        "AI detection sparks mass accusations of AI witch hunts",
+        "Democratic primary AIPAC spending destroying anti-Israel candidates",
+        "AI race with China narrative justifies data center invasion",
+        "Major earthquake disrupts Japan financial infrastructure",
+        "Tech sector crashes amid Korean market circuit breaker",
+        "Trump DOJ facing court rebukes for unlawful conduct"
+      ],
+      "scores": {
+        "Pentagon casualty counts demonstrably false collapsing": 8,
+        "Iran war generating economic damage markets ignore": 7,
+        "Japan bonds exit triggering global rate cut collapse": 6,
+        "Healthcare cost shock driving retirement planning collapse": 5,
+        "Data center surveillance arrests over clapping protests": 5,
+        "AI detection sparks mass accusations of AI witch hunts": 4,
+        "Democratic primary AIPAC spending destroying anti-Israel candidates": 7,
+        "AI race with China narrative justifies data center invasion": 5,
+        "Major earthquake disrupts Japan financial infrastructure": 8,
+        "Tech sector crashes amid Korean market circuit breaker": 5,
+        "Trump DOJ facing court rebukes for unlawful conduct": 6
       }
     }
   ]
