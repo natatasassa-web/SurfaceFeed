@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-01",
-      "theories": [
-        "Democratic Socialist Wave Unseating Incumbents",
-        "Kevin Warsh as Fed Chair Reshaping Market Expectations",
-        "AI Capex Bubble Showing First Structural Cracks",
-        "Supreme Court Expanding Executive Power Systematically",
-        "Trump Administration Weaponizing Federal Law Enforcement",
-        "Retail Trading Transforming Market Structure Durably",
-        "Iran-US Ceasefire Actively Collapsing Tangibly",
-        "Data Center Energy Crunch Forcing Local Political Reckoning",
-        "US Manufacturing Defying Recession Predictions Consistently",
-        "Trump Crypto Holdings Creating Obvious Conflict-of-Interest"
-      ],
-      "scores": {
-        "Democratic Socialist Wave Unseating Incumbents": 10,
-        "Kevin Warsh as Fed Chair Reshaping Market Expectations": 9,
-        "AI Capex Bubble Showing First Structural Cracks": 8,
-        "Supreme Court Expanding Executive Power Systematically": 8,
-        "Trump Administration Weaponizing Federal Law Enforcement": 8,
-        "Retail Trading Transforming Market Structure Durably": 8,
-        "Iran-US Ceasefire Actively Collapsing Tangibly": 7,
-        "Data Center Energy Crunch Forcing Local Political Reckoning": 7,
-        "US Manufacturing Defying Recession Predictions Consistently": 7,
-        "Trump Crypto Holdings Creating Obvious Conflict-of-Interest": 7
-      }
-    },
-    {
       "date": "2026-07-02",
       "theories": [
         "AI Capex Bubble Structural Cracks Widening",
@@ -366,6 +339,31 @@
         "Major earthquake disrupts Japan financial infrastructure": 8,
         "Tech sector crashes amid Korean market circuit breaker": 5,
         "Trump DOJ facing court rebukes for unlawful conduct": 6
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "theories": [
+        "Iran war escalation collapsing market confidence",
+        "Fauci's legal jeopardy accelerates, institution facing contempt",
+        "Democratic primary collapsing over AIPAC spending patterns",
+        "Korean financial leverage unwind sparks global contagion risk",
+        "Data center expansion forcing energy infrastructure breakdown",
+        "AI systems autonomously breaching targets in real-time",
+        "Supreme Court authority legitimacy crumbling publicly",
+        "Retirement and elder financial systems collapsing under pressure",
+        "Cyclosporiasis outbreak signals food safety system collapse"
+      ],
+      "scores": {
+        "Iran war escalation collapsing market confidence": 10,
+        "Fauci's legal jeopardy accelerates, institution facing contempt": 10,
+        "Democratic primary collapsing over AIPAC spending patterns": 8,
+        "Korean financial leverage unwind sparks global contagion risk": 6,
+        "Data center expansion forcing energy infrastructure breakdown": 7,
+        "AI systems autonomously breaching targets in real-time": 8,
+        "Supreme Court authority legitimacy crumbling publicly": 7,
+        "Retirement and elder financial systems collapsing under pressure": 5,
+        "Cyclosporiasis outbreak signals food safety system collapse": 5
       }
     }
   ]
