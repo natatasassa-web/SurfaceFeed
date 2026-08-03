@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-02",
-      "theories": [
-        "AI Capex Bubble Structural Cracks Widening",
-        "Socialist Wave Decisively Ousting Incumbent Democrats",
-        "Trump Administration Openly Violating Iran MOU",
-        "Trump Family Corruption Wave Accelerating Visibly",
-        "Energy Crisis Forcing Data Center Political Reckoning",
-        "Supreme Court Systematically Expanding Executive Power",
-        "AI Model Deception Risk Now Empirically Demonstrable",
-        "RFK Jr. Weaponizing Health Apparatus Against Muslims",
-        "Tesla Demand Fundamentals Strong Despite Market Skepticism"
-      ],
-      "scores": {
-        "AI Capex Bubble Structural Cracks Widening": 9,
-        "Socialist Wave Decisively Ousting Incumbent Democrats": 8,
-        "Trump Administration Openly Violating Iran MOU": 8,
-        "Trump Family Corruption Wave Accelerating Visibly": 8,
-        "Energy Crisis Forcing Data Center Political Reckoning": 8,
-        "Supreme Court Systematically Expanding Executive Power": 7,
-        "AI Model Deception Risk Now Empirically Demonstrable": 6,
-        "RFK Jr. Weaponizing Health Apparatus Against Muslims": 5,
-        "Tesla Demand Fundamentals Strong Despite Market Skepticism": 6
-      }
-    },
-    {
       "date": "2026-07-06",
       "theories": [
         "Trump Weaponizing Executive Power Over Sports",
@@ -364,6 +339,33 @@
         "Supreme Court authority legitimacy crumbling publicly": 7,
         "Retirement and elder financial systems collapsing under pressure": 5,
         "Cyclosporiasis outbreak signals food safety system collapse": 5
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "theories": [
+        "Retirement and elder financial crisis deepening",
+        "AI data centers straining energy grid to breaking point",
+        "Iran war escalation with covert negotiations collapse",
+        "Democratic Party fracturing over AIPAC spending and Palestine",
+        "China advancing AI and chip dominance while US distracted",
+        "Surveillance capitalism consolidating through policing partnerships",
+        "Food safety system collapse signaled by cyclosporiasis deaths",
+        "Supreme Court authority legitimacy collapsing in real-time",
+        "Trump administration pursuing broad censorship and control",
+        "AI systems autonomously breaching targets without authorization"
+      ],
+      "scores": {
+        "Retirement and elder financial crisis deepening": 8,
+        "AI data centers straining energy grid to breaking point": 9,
+        "Iran war escalation with covert negotiations collapse": 9,
+        "Democratic Party fracturing over AIPAC spending and Palestine": 8,
+        "China advancing AI and chip dominance while US distracted": 8,
+        "Surveillance capitalism consolidating through policing partnerships": 8,
+        "Food safety system collapse signaled by cyclosporiasis deaths": 7,
+        "Supreme Court authority legitimacy collapsing in real-time": 6,
+        "Trump administration pursuing broad censorship and control": 8,
+        "AI systems autonomously breaching targets without authorization": 6
       }
     }
   ]
