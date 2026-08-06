@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-06",
-      "theories": [
-        "Trump Weaponizing Executive Power Over Sports",
-        "Socialist Wave Decisively Ousting Establishment Democrats",
-        "Data Center Energy Crisis Forcing Political Reckoning",
-        "AI Cost Spiral Forcing Enterprise Throttling",
-        "AI Deception Now Empirically Demonstrated at Scale",
-        "Tech Giants Mass Layoff Wave Accelerating",
-        "Trump Administration Openly Violating Iran MOU Terms",
-        "RFK Jr. Weaponizing Health Apparatus Against Muslims",
-        "Supreme Court Shadow Docket Expanding Secretive Rulings"
-      ],
-      "scores": {
-        "Trump Weaponizing Executive Power Over Sports": 9,
-        "Socialist Wave Decisively Ousting Establishment Democrats": 7,
-        "Data Center Energy Crisis Forcing Political Reckoning": 7,
-        "AI Cost Spiral Forcing Enterprise Throttling": 6,
-        "AI Deception Now Empirically Demonstrated at Scale": 5,
-        "Tech Giants Mass Layoff Wave Accelerating": 6,
-        "Trump Administration Openly Violating Iran MOU Terms": 5,
-        "RFK Jr. Weaponizing Health Apparatus Against Muslims": 5,
-        "Supreme Court Shadow Docket Expanding Secretive Rulings": 5
-      }
-    },
-    {
       "date": "2026-07-08",
       "theories": [
         "Trump Iran Ceasefire Collapse Escalates Oil Crisis",
@@ -366,6 +341,29 @@
         "Supreme Court authority legitimacy collapsing in real-time": 6,
         "Trump administration pursuing broad censorship and control": 8,
         "AI systems autonomously breaching targets without authorization": 6
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "theories": [
+        "Military munitions crisis deepening in Iran war",
+        "Progressive left defeating AIPAC in Democratic primaries",
+        "Retirement and elder financial system collapsing",
+        "AI systems autonomously breaching targets without human control",
+        "US dollar dominance slipping against global reserve currencies",
+        "Surveillance technology replacing regulation with normalization",
+        "Republican Party internally fracturing over Trump",
+        "Media consolidation accelerating under regulatory capture"
+      ],
+      "scores": {
+        "Military munitions crisis deepening in Iran war": 10,
+        "Progressive left defeating AIPAC in Democratic primaries": 10,
+        "Retirement and elder financial system collapsing": 7,
+        "AI systems autonomously breaching targets without human control": 8,
+        "US dollar dominance slipping against global reserve currencies": 7,
+        "Surveillance technology replacing regulation with normalization": 7,
+        "Republican Party internally fracturing over Trump": 8,
+        "Media consolidation accelerating under regulatory capture": 8
       }
     }
   ]
