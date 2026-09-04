@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-09",
-      "theories": [
-        "Iran-US Strait of Hormuz escalation spiral",
-        "Supreme Court shadow docket expanding secretive power",
-        "AI cost spiral forcing enterprise throttling",
-        "Housing affordability collapse despite price gains",
-        "Socialist Democratic wave sweeping establishment candidates",
-        "Leveraged ETF boom making stock market more volatile",
-        "Trump weaponizing federal power against dissent",
-        "Trump administration approving AI ahead of schedule",
-        "Data center energy demand threatening manufacturing",
-        "Invasive emotion-tracking surveillance wearables emerging"
-      ],
-      "scores": {
-        "Iran-US Strait of Hormuz escalation spiral": 10,
-        "Supreme Court shadow docket expanding secretive power": 9,
-        "AI cost spiral forcing enterprise throttling": 9,
-        "Housing affordability collapse despite price gains": 7,
-        "Socialist Democratic wave sweeping establishment candidates": 8,
-        "Leveraged ETF boom making stock market more volatile": 7,
-        "Trump weaponizing federal power against dissent": 8,
-        "Trump administration approving AI ahead of schedule": 7,
-        "Data center energy demand threatening manufacturing": 7,
-        "Invasive emotion-tracking surveillance wearables emerging": 7
-      }
-    },
-    {
       "date": "2026-07-10",
       "theories": [
         "Next financial crisis 4x worse than dot-com",
@@ -362,6 +335,31 @@
         "US hard asset inflation: property, food, tariffs rising": 6,
         "Trump administration distancing from NATO commitments": 6,
         "RFK Jr. autism research agenda tilts anti-vaccine": 6
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "theories": [
+        "Surveillance state expansion via AI cameras",
+        "Federal government weaponizing power against political opponents",
+        "US losing maritime dominance, resorting to 1800s tactics",
+        "Biden-era COVID accountability suddenly reactivated",
+        "Election infrastructure being rewritten in real-time",
+        "AI labor displacement now hitting high-value work",
+        "Iran war escalating with civilian casualties mounting",
+        "Private equity facing insolvency with asset pile-up",
+        "Data center expansion sparking organized grassroots resistance"
+      ],
+      "scores": {
+        "Surveillance state expansion via AI cameras": 10,
+        "Federal government weaponizing power against political opponents": 9,
+        "US losing maritime dominance, resorting to 1800s tactics": 8,
+        "Biden-era COVID accountability suddenly reactivated": 8,
+        "Election infrastructure being rewritten in real-time": 8,
+        "AI labor displacement now hitting high-value work": 7,
+        "Iran war escalating with civilian casualties mounting": 7,
+        "Private equity facing insolvency with asset pile-up": 6,
+        "Data center expansion sparking organized grassroots resistance": 6
       }
     }
   ]
