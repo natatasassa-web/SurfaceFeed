@@ -1,31 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-10",
-      "theories": [
-        "Next financial crisis 4x worse than dot-com",
-        "Iran-US ceasefire collapses amid escalation spiral",
-        "AI training scraping destroying publisher content models",
-        "Trump weaponizing elections apparatus preemptively",
-        "Fed worried AI investment fueling persistent inflation",
-        "Democratic establishment failing vetting, losing control",
-        "Housing crisis worsens despite record price highs",
-        "Emotion-tracking wearables patented without consent norms",
-        "Supreme Court shadow docket weaponized against dissent"
-      ],
-      "scores": {
-        "Next financial crisis 4x worse than dot-com": 10,
-        "Iran-US ceasefire collapses amid escalation spiral": 10,
-        "AI training scraping destroying publisher content models": 8,
-        "Trump weaponizing elections apparatus preemptively": 8,
-        "Fed worried AI investment fueling persistent inflation": 7,
-        "Democratic establishment failing vetting, losing control": 8,
-        "Housing crisis worsens despite record price highs": 7,
-        "Emotion-tracking wearables patented without consent norms": 5,
-        "Supreme Court shadow docket weaponized against dissent": 6
-      }
-    },
-    {
       "date": "2026-07-16",
       "theories": [
         "Iran-US escalation spiral deepening dangerously",
@@ -360,6 +335,31 @@
         "Iran war escalating with civilian casualties mounting": 7,
         "Private equity facing insolvency with asset pile-up": 6,
         "Data center expansion sparking organized grassroots resistance": 6
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "theories": [
+        "Institutional collapse via mass surveillance normalization",
+        "Working class economic squeeze / unaffordability crisis",
+        "Iran war escalating with US casualty toll rising",
+        "Trump consolidating power through loyalty purges and intimidation",
+        "State capacity collapse manifesting through execution botches and system failures",
+        "Republican Party fracturing in final election stretch",
+        "Tech companies exploiting AI agents to bypass privacy controls",
+        "Sexual violence epidemic narrativized as cultural/political failure",
+        "Data center expansion driving energy/environmental backlash"
+      ],
+      "scores": {
+        "Institutional collapse via mass surveillance normalization": 10,
+        "Working class economic squeeze / unaffordability crisis": 8,
+        "Iran war escalating with US casualty toll rising": 7,
+        "Trump consolidating power through loyalty purges and intimidation": 8,
+        "State capacity collapse manifesting through execution botches and system failures": 7,
+        "Republican Party fracturing in final election stretch": 7,
+        "Tech companies exploiting AI agents to bypass privacy controls": 7,
+        "Sexual violence epidemic narrativized as cultural/political failure": 6,
+        "Data center expansion driving energy/environmental backlash": 6
       }
     }
   ]
