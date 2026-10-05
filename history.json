@@ -1,33 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-16",
-      "theories": [
-        "Iran-US escalation spiral deepening dangerously",
-        "AI bubble mirroring dot-com crash dynamics",
-        "Trump administration weaponizing government apparatus systematically",
-        "Housing crisis accelerating despite record high prices",
-        "Private schools funded by vouchers operating without oversight",
-        "Surveillance tech expanding to track individuals, not vehicles",
-        "AI training scraping destroying creator compensation models",
-        "Democratic establishment losing control of primary elections",
-        "Korean financial system showing stress signals structurally",
-        "Microsoft security patching at record-breaking scale"
-      ],
-      "scores": {
-        "Iran-US escalation spiral deepening dangerously": 10,
-        "AI bubble mirroring dot-com crash dynamics": 9,
-        "Trump administration weaponizing government apparatus systematically": 9,
-        "Housing crisis accelerating despite record high prices": 8,
-        "Private schools funded by vouchers operating without oversight": 7,
-        "Surveillance tech expanding to track individuals, not vehicles": 8,
-        "AI training scraping destroying creator compensation models": 8,
-        "Democratic establishment losing control of primary elections": 6,
-        "Korean financial system showing stress signals structurally": 6,
-        "Microsoft security patching at record-breaking scale": 7
-      }
-    },
-    {
       "date": "2026-07-17",
       "theories": [
         "Trump weaponizing election claims for midterm control",
@@ -360,6 +333,33 @@
         "Tech companies exploiting AI agents to bypass privacy controls": 7,
         "Sexual violence epidemic narrativized as cultural/political failure": 6,
         "Data center expansion driving energy/environmental backlash": 6
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "theories": [
+        "Intergenerational economic death spiral",
+        "1970s stagflation returning now",
+        "Iran war escalation hits critical decision point",
+        "State execution system collapsing visibly",
+        "Republican party fracturing into unmappable factions",
+        "AI agents weaponizing privacy bypass at scale",
+        "Democratic youth embrace socialism openly",
+        "Power grid crisis colliding with AI expansion",
+        "US-allied surveillance infrastructure consolidating",
+        "Plague lab incident triggers bioweapon crisis prep"
+      ],
+      "scores": {
+        "Intergenerational economic death spiral": 9,
+        "1970s stagflation returning now": 8,
+        "Iran war escalation hits critical decision point": 10,
+        "State execution system collapsing visibly": 8,
+        "Republican party fracturing into unmappable factions": 8,
+        "AI agents weaponizing privacy bypass at scale": 8,
+        "Democratic youth embrace socialism openly": 7,
+        "Power grid crisis colliding with AI expansion": 7,
+        "US-allied surveillance infrastructure consolidating": 7,
+        "Plague lab incident triggers bioweapon crisis prep": 8
       }
     }
   ]
